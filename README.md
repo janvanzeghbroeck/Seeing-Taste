@@ -1,9 +1,8 @@
 # Seeing Taste
 
-### Visualization of Beer Tasting
-#### Through the eyes of a Data Scientist
+### Visualization of Beer Tasting Through the eyes of a Data Scientist
 
-Having a consistent high quality tasting craft product is important but accurately tasting that product can be challenging. Using data science techniques for clustering, statistics, &amp; the powers of python, Seeing Taste uses unsupervised learning to cluster tasters and identify who's good, who has a bias, and who has a specialized pallet all for the sake of making great craft beer.
+Having a consistent high quality tasting craft product is important but accurately tasting that product can be challenging. Using New Belgium tasting data and data science techniques for clustering, statistics, &amp; the powers of python, Seeing Taste uses unsupervised learning to cluster tasters and identify who's good, who has a bias, and who has a specialized pallet all for the sake of making great craft beer.
 
 
 <img src="figures/break_line.png" width=100% height=100%/>
@@ -67,9 +66,10 @@ Below are the four different types of features that were engineered.
     - High value indicates they often flag as Not True to Brand when others agree
     - Rewards tasters who agree when the beer is Not True to Brand
 - Chemical Sensitivity
-    - Rewards tasters who flag a beer when a chemical measurement was outside of the acceptable range
+    - Looking back at figure 2 & 3 some spikes in chemical measures can be linked to some tasters indicating Not True to Brand. This feature attempts to reward those who do
     - High value indicates they often flag a beer when measure is out of normal range
     - Score of 0 indicates they have not experienced any such spikes
+    - Negative value indicates a taster who has never flagged a beer as Not True to Brand when the chemical measure spikes
 - Experience
     - Indicates how many Fat Tire tastings they participated in
 
