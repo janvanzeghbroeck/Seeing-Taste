@@ -19,7 +19,7 @@ class VisualizeTasting(object):
         self.sci = []
         self.sci_big = []
         self.colors =  ['b','g','c','m','k'] # colors used to plot
-        self.labels = ['Flavor','Clairity','Aroma','Body']
+        self.labels = ['Flavor','Clarity','Aroma','Body']
 
 
         plt.style.use('ggplot')
@@ -106,8 +106,9 @@ class VisualizeTasting(object):
         plt.violinplot(vio_means, showmeans=True,showmedians=False)
 
         # sets the axis and labels
-        plt.xticks([1,2,3,4],['Flavor','Clairity','Aroma','Body'],fontsize=20)
-        plt.ylabel('Higher scores = further from True to Brand',fontsize=18)
+        plt.xticks([1,2,3,4],['Flavor','Clarity','Aroma','Body'],fontsize=20)
+        # plt.ylabel('Higher scores = further from True to Brand',fontsize=18)
+        plt.yticks([0,.2,.4,.5],['100%\nTTB','80%\nTTB', '60%\nTTB',''],fontsize = 14)
         plt.title('Distribution of Tasters with 5 individual Tasters', fontsize = 18)
 # ------------------------------------------------------------------
 # ------------------------------------------------------------------
@@ -194,7 +195,7 @@ class VisualizeTasting(object):
 
         f, axarr = plt.subplots(4, figsize = (7,8), sharex=True, sharey = False)
         axarr[0].set_title('Average tasting score for last {} tastings'.format(last),fontsize = 18)
-        labels = ['Flavor','Clairity','Aroma','Body']
+        labels = ['Flavor','Clarity','Aroma','Body']
         for i, label in enumerate(labels):
             q_most_recent = self.quals[i].T.iloc[-last:,:]
             most_recent_numbers = q_most_recent.index.tolist()
@@ -238,7 +239,7 @@ class VisualizeTasting(object):
         # finds the taster ids in the most recent brewnumber
         tasters = self.quals[0][most_recent].dropna().index.tolist()
 
-        labels = ['Flavor','Clairity','Aroma','Body']
+        labels = ['Flavor','Clarity','Aroma','Body']
 
         taster_scores = [] # list to turn into a data frame
         for taster in tasters:
