@@ -340,7 +340,7 @@ class VisualizeTasting(object):
 
 
         labels = sci_small.columns.tolist()[:4] # of the first four
-        print_labels = ['Apparent\nExtract', 'pH', 'CO', 'ABV']
+        print_labels = ['Apparent\nExtract', 'pH', 'Color (EBC)', 'ABV']
         n_cols = len(labels)
         f, axarr = plt.subplots(n_cols, figsize = (7,8), sharex=True, sharey = False)
         axarr[0].set_title('4 Chemical measures for the last {} tastings'.format(last),fontsize = 18)
