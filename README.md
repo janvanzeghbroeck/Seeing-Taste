@@ -3,7 +3,7 @@
 # Visualization of Beer Tasting
 ## Through the eyes of a Data Scientist
 
-Having a consistent high quality tasting craft product is important but accurately tasting that product can be challenging. Using data science techniques for clustering, statistics, &amp; the powers of python, Seeing Taste uses unsupervised learning to cluster tasters and identify who's good, who has a bias, and who has a specialized pallet all for the sake of making good craft beer.
+Having a consistent high quality tasting craft product is important but accurately tasting that product can be challenging. Using data science techniques for clustering, statistics, &amp; the powers of python, Seeing Taste uses unsupervised learning to cluster tasters and identify who's good, who has a bias, and who has a specialized pallet all for the sake of making great craft beer.
 
 
 ## Table of Contents
@@ -28,16 +28,23 @@ Having a consistent high quality tasting craft product is important but accurate
 New Belgium has graciously provided tasting and scientific data for me to work with. Real world data can be messy and this was no exception. Using Pandas, Regular Expressions, and some smart while loops I was able to correct typos, fill in missing values, and extract id numbers from strings.
 
 Below (left) is the tasting data for the latest 19 tasting sessions. There are 4 main beer qualities that the tasters evaluate: flavor, clarity, aroma, and body. The red line shows the average taster score where a higher value indicates that more tasters thought that quality was Not True to Brand. On the right, are 4 scientific measurements for those same 19 sessions.
+
 The vertical black line indicates one individual session where Apparent Extract peaks just outside the acceptable range (indicated by the dashed lines). Looking at the tasting data on the left some of our tasters may have noticed this based on those who flagged Not True to Brand on flavor.
 
 <img src="figures/brews.png" width=45% height=45%/> <img src="figures/sci.png" width=45% height=45%/>
 
 ## Visualization
 
-## Engineered Features
+    I created another data table that linked each taster with the tasting sessions they participated in. This allowed me to quickly and easily find all the data associated with any specific taster or tasting session.
 
-Step 1: Link Tasters and Tasting Session
-    Create another data table that linked each taster with the tasting sessions they participated in. This allowed me to quickly and easily find all the data associated with any specific taster or tasting session.
+    From these connections I started visualizing the distribution of the tasters to get a better idea of where differences occur. Below is a collection of violin plots show the distribution of average taster score for each of the four tasting qualities. 5 individual taters were plotted on top.
+
+    ![Alt text](/figures/tasters.png "Taster Distribution")
+
+    In this plot we can see that
+
+
+## Engineered Features
 
 Step 2: Engineer Features
     --> Tasting Bias
@@ -53,7 +60,6 @@ Step 2: Engineer Features
     --> Experience  	
             Indicates how many Fat Tire tastings they participated in
 
-![Alt text](/figures/tasters.png "Taster Distribution")
 
 
 ## Clustering
