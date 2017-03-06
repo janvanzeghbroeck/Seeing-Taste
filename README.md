@@ -1,4 +1,4 @@
-## Seeing Taste
+# Seeing Taste
 
 ### Visualization of Beer Tasting
 #### Through the eyes of a Data Scientist
@@ -16,6 +16,7 @@ Having a consistent high quality tasting craft product is important but accurate
 - [Clustering](#clustering)
 - [What Does it Mean?](#what-does-it-mean?)
 - [Next Steps](#next-steps)
+- [Contact](#contact)
 
 <img src="figures/break_line.png" width=100% height=100%/>
 
@@ -49,6 +50,8 @@ From these connections, I started visualizing the distribution of the tasters to
 
 Amazingly, this one plot houses all of the actual tasting data and from it I was able to engineer features.
 
+#### Figure 4: Violin Plots for Taster Distributions
+
 ![Alt text](/figures/tasters.png "Taster Distribution")
 
 <img src="figures/break_line.png" width=100% height=100%/>
@@ -58,8 +61,8 @@ Amazingly, this one plot houses all of the actual tasting data and from it I was
 Below are the four different types of features that were engineered.
 
 - Tasting Bias
-    - High value indicates they often flag as Not True to Brand
-    - Low value indicates they rarely flag as Not True to Brand
+    - High value indicates they __often__ flag as Not True to Brand
+    - Low value indicates they __rarely__ flag as Not True to Brand
 - Majority Vote Rate
     - High value indicates they often flag as Not True to Brand when others agree
     - Rewards tasters who agree when the beer is Not True to Brand
@@ -84,3 +87,7 @@ Below are the four different types of features that were engineered.
 <img src="figures/break_line.png" width=100% height=100%/>
 
 ## Next Steps
+
+<img src="figures/break_line.png" width=100% height=100%/>
+
+## Contact
