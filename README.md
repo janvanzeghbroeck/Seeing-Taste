@@ -96,16 +96,31 @@ Now that we have our clusters, what do they actually mean?
 
 Now that we have our clusters, plotting the distributions for each feature, for each quality (Flavor, clarity, etc.), and for each cluster will provide insight into how we did.
 
-Below in Figure 6 & 7, we can see an example of when the clustering created distinctly recognizable groups.
+Below in Figure 6 & 7, we can see an example of when the clustering created distinct and recognizable groups.
 
-#### Figure 6:
+- Trustworthy Tasters
+    - Have low bias --> tend to be more conservative with flagging as NOT TTB
+    - Have high majority vote rate --> when they do flag NOT TTB others tend to as well
+    - These tasters tend to have more experience and have participated in more tastings
+- New Taster
+    - Hasn't had time to develop a bias or experience a spike in chemical measures
+    - When these tasters do flag NOT TTB others tend not to agree
+    - Low experience
+
+#### Figure 6: Identifying Trustworthy and New Tasters
 <img src="figures/trust_new.png" width=100% height=100%/>
 
-#### Figure 7:
+
+- Biased Tasters
+    - Have high bias --> tend to flag as NOT TTB more frequently than the others
+    - Have low majority vote rate --> when they do flag as NOT TTB others don't tend to agree
+- Alcohol by Volume (ABV) Specialist
+    - These tasters have shown some ability to flag a beer as NOT TTB when the ABV spikes outside of the acceptable range
+
+
+#### Figure 7: Identifying Biased and ABV Specialist Tasters
 <img src="figures/bias_abv.png" width=100% height=100%/>
 
-
-<img src="figures/break_line.png" width=100% height=100%/>
 
 ## Next Steps
 
