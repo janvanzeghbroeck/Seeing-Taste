@@ -11,7 +11,7 @@ Having a consistent high quality tasting craft product is important but accurate
 - [The Data](#the-data)
 - [Visualization](#visualization)
 - [Engineered Features](#engineered-features)
-- [Clustering](#clustering)
+- [K-Means Clustering](#k-means-clustering)
 - [What Does it Mean?](#what-does-it-mean?)
 - [Next Steps](#next-steps)
 - [Contact](#contact)
@@ -74,7 +74,7 @@ Because the tasting data only consisted of ones, zeros, and NaNs engineering fea
 
 <img src="figures/break_line.png" width=100% height=100%/>
 
-## Clustering
+## K-Means Clustering
 
 I used K-Mean to cluster the tasters into groups. Simply put, K-Means using a distance metric to group tasters by how similar they are to each other. The algorithm takes all features into account creating clusters that would be challenging for a human to balance. K-Means requires input of the number of clusters as a hyper-parameter.
 
@@ -83,16 +83,18 @@ Below on the left in Figure 5, you can see the silhouette score of the clusters.
 #### Figure 5: Silhouette score plot and 2-D PCA visualization
 <img src="figures/sil_plot.png" width=100% height=100%/>
 
-Plot created from code provided by Scikit-Learn
+Plot created from code provided by [Scikit-Learn](http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html#sphx-glr-auto-examples-cluster-plot-kmeans-silhouette-analysis-py)
 
 Above on the right, shows a 2-dimensional visualization of the clusters by using Principle Component Analysis (PCA) to reduce the dimensions to two for plotting. Looking at the plot, the clusters nicely have separation with very little overlap when only plotting the first two dimensions.
 
-Now that we have our clusters what do
+Now that we have our clusters, what do they actually mean?
 
 
 <img src="figures/break_line.png" width=100% height=100%/>
 
 ## What Does it Mean?
+
+
 
 
 <img src="figures/break_line.png" width=100% height=100%/>
@@ -102,3 +104,6 @@ Now that we have our clusters what do
 <img src="figures/break_line.png" width=100% height=100%/>
 
 ## Contact
+
+- Email --> vanzeghb@gmail.com
+- [Linkedin](https://www.linkedin.com/in/janvanzeghbroeck/)
