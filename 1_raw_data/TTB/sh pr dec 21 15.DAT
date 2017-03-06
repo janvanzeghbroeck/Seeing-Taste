@@ -1,0 +1,31 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+SH PR DEC 21 15	1	1	12-21-2015 10:04:49	SAL2	Lauren Salazar	QA	star	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	2	12-21-2015 10:06:13	KOS1	Isaac Koski	BH	star	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	3	12-21-2015 10:06:30	LAV2	Aaron LaVanchy	PKG	star	T	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	4	12-21-2015 10:06:43	BAR1	Lindsay Barr	QA	sun	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	2	dull for fresh	1	~	1	~	1	dull	~
+SH PR DEC 21 15	1	5	12-21-2015 10:10:51	RAD1	Brent Radke	QA	star	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	6	12-21-2015 10:10:53	PET2	Ken Petroski	COF	star	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	7	12-21-2015 10:12:22	SED1	Dana Sedin	QA	sun	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	8	12-21-2015 10:14:08	TRU1	Jason Trujillo	QA	sun	T	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	9	12-21-2015 10:18:41	GIL2	Penelope Gilliland	LC	star	T	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	10	12-21-2015 10:21:49	SAL3	Keith Salmon	PKG	star	T	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	11	12-21-2015 10:24:56	LIM1	Pete Limbach	EVE	star	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	12	12-21-2015 10:26:06	FIS1	Mark Fischer	PAD	sun	T	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	13	12-21-2015 10:29:08	SEE1	Shawn Seeboth	MAIN	sun	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	2	sweet	1	~	2	~	sweet
+SH PR DEC 21 15	1	14	12-21-2015 10:33:48	HAL1	Tony Hall	PKG	star	T	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	15	12-21-2015 10:36:09	HAG1	Andrew Hagdorn	COF	sun	T	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	16	12-21-2015 10:36:44	REI1	Cody Reif	QA	sun	T	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	17	12-21-2015 10:42:45	KIR2	Kaylyn Kirkpatrick	QA	star	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	18	12-21-2015 10:47:49	DIC1	Perry Dickerson	QA	sun	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	19	12-21-2015 10:51:13	BUR1	Travis Burge	BH	sun	T	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	20	12-21-2015 10:57:24	HUL1	Grady Hull	PAD	sun	T	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	21	12-21-2015 11:06:33	NOR1	Ryan Norwood	QA	sun	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	22	12-21-2015 11:12:37	KOE1	Ross Koenigs	COF	star	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	23	12-21-2015 11:14:22	BAN1	Tamar Banner	COF	sun	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	24	12-21-2015 11:14:42	PON1	Dave Ponceby	LC	star	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	25	12-21-2015 11:18:37	BOU1	Peter Bouckaert	PAD	sun	T	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	very nice shift, brilliant no particles, perfect aroma	~
+SH PR DEC 21 15	1	26	12-21-2015 11:19:34	AMM1	Lisa Ammann	MKT	sun	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	27	12-21-2015 11:22:24	MCC1	Chris McCombs	ENG	sun	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	28	12-21-2015 11:27:32	AMP1	Nick Ampe	EHS	sun	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 21 15	1	29	12-21-2015 11:32:23	BEE1	Bethany Beers	PD	sun	T	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	2	i had a hard time raising foam on this sample. shift typ has a fluffy head, and nice lacing, but hardly got anything out of this. maybe just not enough in the glass?	1	~	1	~	1	~	1	i think the problems with shift on visual were due to a really small pour (less than 1/4 glass).	~
+SH PR DEC 21 15	1	30	12-21-2015 11:36:19	HUG1	Erin Hughes	HR	sun	V	1	Shift 0 Day Can	Shift	SH	151221091	0	can	0	0	0	12/21/15	12/21/15	05/22/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	wine dry finish	~

@@ -1,0 +1,28 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+VRA8 PR DEC 28 16	1	1	12-28-2016 10:01:02	SAL3	Keith Salmon	PKG	star	T	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	2	12-28-2016 10:03:24	HUL1	Grady Hull	PAD	sun	T	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	3	12-28-2016 10:04:07	MIT1	Andy Mitchell	COF	star	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	4	12-28-2016 10:04:20	LAV2	Aaron LaVanchy	PKG	star	T	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	5	12-28-2016 10:07:21	SAL1	Eric Salazar	BH	star	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	6	12-28-2016 10:09:59	FIS1	Mark Fischer	PAD	sun	T	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	7	12-28-2016 10:14:11	KOE1	Ross Koenigs	COF	star	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	8	12-28-2016 10:19:46	DAV1	Kevin Davis	COF	sun	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	9	12-28-2016 10:22:13	HUD1	Cory Hudson	IT	sun	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	10	12-28-2016 10:25:24	UNG1	Eric Unger	PKG	star	T	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	11	12-28-2016 10:25:49	COG1	Paul Coggins	BH	star	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	12	12-28-2016 10:26:26	SED1	Dana Sedin	QA	sun	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	13	12-28-2016 10:30:15	GIL1	Matty Gilliland	BH	sun	T	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	Fresh adn ttb	~
+VRA8 PR DEC 28 16	1	14	12-28-2016 10:33:27	SCH1	Ali Schultz	QA	sun	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	2	first whiff was papery, exactly like the spike	1	~	1	~	1	I think it was the glass I was smelling - schedule a time very soon to clean that glassware1	~
+VRA8 PR DEC 28 16	1	15	12-28-2016 10:35:08	BAN1	Tamar Banner	COF	sun	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	SO catty after the Whizbang samples!	~
+VRA8 PR DEC 28 16	1	16	12-28-2016 10:41:58	STE1	Kelly Stewart	BH	sun	T	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	TTB	~
+VRA8 PR DEC 28 16	1	17	12-28-2016 10:45:43	HOL2	Michelle Holbrook	EVE	sun	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	18	12-28-2016 10:45:56	OLO1	Kyle O'Loughlin	COF	star	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	19	12-28-2016 10:51:57	SKI1	Dawn Skinner	FA	sun	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb	~
+VRA8 PR DEC 28 16	1	20	12-28-2016 10:57:58	PON1	Dave Ponceby	LC	star	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	21	12-28-2016 10:58:51	SEE1	Shawn Seeboth	MAIN	sun	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	22	12-28-2016 11:03:09	BAR2	Ben Barrett	SALES	sun	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	23	12-28-2016 11:05:07	MCC1	Chris McCombs	ENG	sun	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	24	12-28-2016 11:15:16	AMP1	Nick Ampe	EHS	sun	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRA8 PR DEC 28 16	1	25	12-28-2016 11:21:19	PET1	Ted Peterson	COF	star	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	2	slightly dulled and extra gasoline-y relative to tropical fruit	1	~	1	~	2	~	the aroma seems less fruity and enjoyable.
+VRA8 PR DEC 28 16	1	26	12-28-2016 11:30:10	BAR1	Lindsay Barr	QA	sun	V	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	2	woah garlic and onion	1	~	1	~	2	~	so much veg
+VRA8 PR DEC 28 16	1	27	12-28-2016 11:32:05	BAI1	Zach Baitinger	PUR	sun	T	1	VRA8	VRA 8 hop	VRA8	161227051	1	keg	0	0	0	12/28/16	12/27/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

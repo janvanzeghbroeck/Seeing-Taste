@@ -1,0 +1,61 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+BLK PR OCT 19 15	1	1	10-19-2015 10:03:08	KIR2	Kaylyn Kirkpatrick	QA	star	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	1	10-19-2015 10:03:08	KIR2	Kaylyn Kirkpatrick	QA	star	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	2	10-19-2015 10:03:23	SEE1	Shawn Seeboth	MAIN	sun	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	2	10-19-2015 10:03:23	SEE1	Shawn Seeboth	MAIN	sun	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	1	~	1	~	1	~	1	~	2	~	ethyl Acetate
+BLK PR OCT 19 15	1	3	10-19-2015 10:06:14	FIS1	Mark Fischer	PAD	sun	T	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	3	10-19-2015 10:06:14	FIS1	Mark Fischer	PAD	sun	T	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	2	1	~	2	licorice	1	~	1	~	2	~	E Hex
+BLK PR OCT 19 15	1	4	10-19-2015 10:06:33	AMM1	Lisa Ammann	MKT	sun	T	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	4	10-19-2015 10:06:33	AMM1	Lisa Ammann	MKT	sun	T	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	2	1	~	2	really dull aroma	2	taste is bland and dull. seems watery	2	thin and watery	2	~	watery
+BLK PR OCT 19 15	1	5	10-19-2015 10:10:02	DIC2	Gary Dick	BH	sun	T	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	5	10-19-2015 10:10:02	DIC2	Gary Dick	BH	sun	T	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	6	10-19-2015 10:15:39	HUL1	Grady Hull	PAD	sun	T	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	6	10-19-2015 10:15:39	HUL1	Grady Hull	PAD	sun	T	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	7	10-19-2015 10:16:32	MIT1	Andy Mitchell	COF	star	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	7	10-19-2015 10:16:32	MIT1	Andy Mitchell	COF	star	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	8	10-19-2015 10:16:44	SED1	Dana Sedin	QA	sun	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	8	10-19-2015 10:16:44	SED1	Dana Sedin	QA	sun	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	9	10-19-2015 10:23:33	HAZ1	Alex Hazelmyer	QA	sun	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	sl darker and less brilliant than usual. sl smoky aftertaste, and sl damascenone	~
+BLK PR OCT 19 15	1	9	10-19-2015 10:23:33	HAZ1	Alex Hazelmyer	QA	sun	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	2	1	~	1	~	1	~	1	~	1	again, sl darker and less brilliant. sl less smoke in retro	~
+BLK PR OCT 19 15	1	10	10-19-2015 10:23:48	NOR1	Ryan Norwood	QA	sun	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	10	10-19-2015 10:23:48	NOR1	Ryan Norwood	QA	sun	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	11	10-19-2015 10:30:34	DAU1	Soren Daugaard	PKG	star	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	11	10-19-2015 10:30:34	DAU1	Soren Daugaard	PKG	star	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	12	10-19-2015 10:36:24	REI1	Cody Reif	QA	sun	T	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	12	10-19-2015 10:36:24	REI1	Cody Reif	QA	sun	T	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	13	10-19-2015 10:37:41	RAD1	Brent Radke	QA	star	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	13	10-19-2015 10:37:41	RAD1	Brent Radke	QA	star	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	14	10-19-2015 10:39:45	DAR1	Kevin Darst	PD	sun	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	14	10-19-2015 10:39:45	DAR1	Kevin Darst	PD	sun	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	15	10-19-2015 10:43:59	KOL1	Katy Koller	PD	sun	T	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	1	1	~	2	Waaaaay smokey. Much more than usual.	1	~	1	~	2	~	Too smokey, not chocolatey enough. It was like drinking jerky.
+BLK PR OCT 19 15	1	15	10-19-2015 10:43:59	KOL1	Katy Koller	PD	sun	T	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	16	10-19-2015 10:50:02	TRU1	Jason Trujillo	QA	sun	T	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	16	10-19-2015 10:50:02	TRU1	Jason Trujillo	QA	sun	T	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	17	10-19-2015 10:50:13	MUR1	Pat Murfin	COF	sun	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	17	10-19-2015 10:50:13	MUR1	Pat Murfin	COF	sun	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	18	10-19-2015 10:54:57	GUE4	Lindsay Guerdrum	QA	sun	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	1	1	~	2	autolysed	1	~	1	~	1		~
+BLK PR OCT 19 15	1	18	10-19-2015 10:54:57	GUE4	Lindsay Guerdrum	QA	sun	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	19	10-19-2015 10:59:31	PET3	Tyler Peters	LC	star	T	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	19	10-19-2015 10:59:31	PET3	Tyler Peters	LC	star	T	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	20	10-19-2015 11:01:17	DAV1	Kevin Davis	COF	sun	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	20	10-19-2015 11:01:17	DAV1	Kevin Davis	COF	sun	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	21	10-19-2015 11:05:19	KOE1	Ross Koenigs	COF	star	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	21	10-19-2015 11:05:19	KOE1	Ross Koenigs	COF	star	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	22	10-19-2015 11:06:13	MCC1	Chris McCombs	ENG	sun	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	22	10-19-2015 11:06:13	MCC1	Chris McCombs	ENG	sun	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	23	10-19-2015 11:06:31	BOU1	Peter Bouckaert	PAD	sun	T	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	IAA on the edge, PFB	~
+BLK PR OCT 19 15	1	23	10-19-2015 11:06:31	BOU1	Peter Bouckaert	PAD	sun	T	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	2	llooks lite in color - PFB	1	~	1	~	2	lacks body intensity - PFB	2	~	taste like 777 - 1554 light - PFB
+BLK PR OCT 19 15	1	24	10-19-2015 11:17:24	GUE1	erin	GUE		T	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	24	10-19-2015 11:17:24	GUE1	erin	GUE		T	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	25	10-19-2015 11:21:05	BLE1	Billy Bletcher	COF	star	T	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	25	10-19-2015 11:21:05	BLE1	Billy Bletcher	COF	star	T	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	1	~	1	~	1	~	1	~	1	aroma slightly dull	~
+BLK PR OCT 19 15	1	26	10-19-2015 11:21:52	SCH1	Ali Schultz	QA	sun	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	26	10-19-2015 11:21:52	SCH1	Ali Schultz	QA	sun	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	27	10-19-2015 11:22:26	STU1	Andrew Sturm	COF	star	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	27	10-19-2015 11:22:26	STU1	Andrew Sturm	COF	star	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	28	10-19-2015 11:22:27	DIC1	Perry Dickerson	QA	sun	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	28	10-19-2015 11:22:27	DIC1	Perry Dickerson	QA	sun	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	29	10-19-2015 11:32:17	BAI1	Zach Baitinger	PUR	sun	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	29	10-19-2015 11:32:17	BAI1	Zach Baitinger	PUR	sun	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	30	10-19-2015 11:33:11	HOL2	Michelle Holbrook	EVE	sun	V	2	BLK 0 Day Bottle	1554	BLK	151019091	0	bottle	0	0	0	10/19/15	10/19/15	04/24/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+BLK PR OCT 19 15	1	30	10-19-2015 11:33:11	HOL2	Michelle Holbrook	EVE	sun	V	1	BLK 1 Day Bottle	1554	BLK	151018081	1	bottle	0	0	0	10/19/15	10/18/15	04/17/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~

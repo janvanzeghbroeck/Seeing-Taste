@@ -1,0 +1,23 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT CAN PR MAR 10 16	1	1	03-10-2016 10:07:15	COG1	Paul Coggins	BH	star	T	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	2	03-10-2016 10:08:55	FIS1	Mark Fischer	PAD	sun	T	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	3	03-10-2016 10:10:09	HUL1	Grady Hull	PAD	sun	T	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	4	03-10-2016 10:11:09	PET2	Ken Petroski	COF	star	V	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	5	03-10-2016 10:12:33	MIT1	Andy Mitchell	COF	star	V	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	6	03-10-2016 10:19:05	SEE1	Shawn Seeboth	MAIN	sun	V	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	7	03-10-2016 10:26:20	MAD1	John Madigan	PKG	star	T	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	8	03-10-2016 10:27:50	PON1	Dave Ponceby	LC	star	V	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	9	03-10-2016 10:29:35	HOL1	Chris Holbrook	COF	sun	T	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	10	03-10-2016 10:30:48	HOL2	Michelle Holbrook	EVE	sun	V	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	11	03-10-2016 10:37:07	TRU1	Jason Trujillo	QA	sun	T	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	12	03-10-2016 10:37:45	AMM1	Lisa Ammann	MKT	sun	V	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	13	03-10-2016 10:40:03	KIR1	Marie Kirkpatrick	LC	star	V	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	14	03-10-2016 10:44:13	NOR1	Ryan Norwood	QA	sun	V	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	15	03-10-2016 10:52:02	GIL2	Penelope Gilliland	LC	star	T	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	16	03-10-2016 10:53:49	BAN1	Tamar Banner	COF	sun	V	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	not at all like the non-can samples.	~
+FT CAN PR MAR 10 16	1	17	03-10-2016 10:53:58	AMP1	Nick Ampe	EHS	sun	V	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	18	03-10-2016 10:58:28	UNG1	Eric Unger	PKG	star	T	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	19	03-10-2016 10:58:42	DUF1	Emily Dufficy	LC	star	V	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	20	03-10-2016 11:03:01	PET3	Tyler Peters	LC	star	T	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	21	03-10-2016 11:06:37	DAR1	Kevin Darst	PD	sun	V	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 10 16	1	22	03-10-2016 11:22:21	DAV1	Kevin Davis	COF	sun	V	1	FT 0 day can	Fat Tire Can	FT	160310052	0	can	0	0	0	03/10/16	03/10/16	08/07/16	PR	1	626	1	1	~	2	tin/iron	1	~	2	metallic	2	~	metallic

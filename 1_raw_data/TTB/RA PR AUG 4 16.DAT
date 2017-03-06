@@ -1,0 +1,51 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+RA PR AUG 4 16	1	1	08-04-2016 10:04:14	UNG1	Eric Unger	PKG	star	T	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	1	08-04-2016 10:04:14	UNG1	Eric Unger	PKG	star	T	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	2	08-04-2016 10:04:16	DAU1	Soren Daugaard	PKG	star	V	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	2	08-04-2016 10:04:16	DAU1	Soren Daugaard	PKG	star	V	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	3	08-04-2016 10:06:34	COG1	Paul Coggins	BH	star	V	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	3	08-04-2016 10:06:34	COG1	Paul Coggins	BH	star	V	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	4	08-04-2016 10:06:38	HOL1	Chris Holbrook	COF	sun	T	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	4	08-04-2016 10:06:38	HOL1	Chris Holbrook	COF	sun	T	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	5	08-04-2016 10:06:54	LAV2	Aaron LaVanchy	PKG	star	T	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	5	08-04-2016 10:06:54	LAV2	Aaron LaVanchy	PKG	star	T	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	6	08-04-2016 10:12:39	SED1	Dana Sedin	QA	sun	V	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	6	08-04-2016 10:12:39	SED1	Dana Sedin	QA	sun	V	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	7	08-04-2016 10:13:11	KOS1	Isaac Koski	BH	star	V	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	citrussy overload	~
+RA PR AUG 4 16	1	7	08-04-2016 10:13:11	KOS1	Isaac Koski	BH	star	V	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1	citrussy is mouthcoating and covers all natural hop aroma	~
+RA PR AUG 4 16	1	8	08-04-2016 10:24:21	SEE1	Shawn Seeboth	MAIN	sun	V	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	8	08-04-2016 10:24:21	SEE1	Shawn Seeboth	MAIN	sun	V	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	9	08-04-2016 10:24:51	SAL3	Keith Salmon	PKG	star	T	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	9	08-04-2016 10:24:51	SAL3	Keith Salmon	PKG	star	T	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	10	08-04-2016 10:30:41	RAD1	Brent Radke	QA	star	V	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	10	08-04-2016 10:30:41	RAD1	Brent Radke	QA	star	V	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	11	08-04-2016 10:31:26	GIL1	Matty Gilliland	BH	sun	T	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	11	08-04-2016 10:31:26	GIL1	Matty Gilliland	BH	sun	T	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1	It's Ranger. I figured it out.	~
+RA PR AUG 4 16	1	12	08-04-2016 10:31:45	SKI1	Dawn Skinner	FA	sun	V	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	ttb	~
+RA PR AUG 4 16	1	12	08-04-2016 10:31:45	SKI1	Dawn Skinner	FA	sun	V	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	2	1	~	1	~	1	~	1	~	1	ttb	~
+RA PR AUG 4 16	1	13	08-04-2016 10:35:07	FIS1	Mark Fischer	PAD	sun	T	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	13	08-04-2016 10:35:07	FIS1	Mark Fischer	PAD	sun	T	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	14	08-04-2016 10:37:36	HUL1	Grady Hull	PAD	sun	T	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	14	08-04-2016 10:37:36	HUL1	Grady Hull	PAD	sun	T	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	15	08-04-2016 10:42:18	KAR1	Matt Karn	BH	sun	T	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	15	08-04-2016 10:42:18	KAR1	Matt Karn	BH	sun	T	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	16	08-04-2016 10:45:07	HAL1	Tony Hall	PKG	star	T	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	16	08-04-2016 10:45:07	HAL1	Tony Hall	PKG	star	T	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	17	08-04-2016 10:47:20	DAR1	Kevin Darst	PD	sun	V	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	17	08-04-2016 10:47:20	DAR1	Kevin Darst	PD	sun	V	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	2	2	v little foam	2	odd spice aroma, almost chemical-y.	2	harsh, harsh bitter.	2	bitter lingerrrrrrrr	2	~	all the things.
+RA PR AUG 4 16	1	18	08-04-2016 10:47:22	SCH1	Ali Schultz	QA	sun	V	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	1	1	~	2	I keep on getting small whiffs of H2S, and I can't tell if it's just me...	1	~	1	~	1		~
+RA PR AUG 4 16	1	18	08-04-2016 10:47:22	SCH1	Ali Schultz	QA	sun	V	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	2	1	~	2	smells slightly like vanilla?! wtf.	1	~	1	~	1		~
+RA PR AUG 4 16	1	19	08-04-2016 10:56:43	MUR1	Pat Murfin	COF	sun	V	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	19	08-04-2016 10:56:43	MUR1	Pat Murfin	COF	sun	V	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	20	08-04-2016 10:58:20	BEE1	Bethany Beers	PD	sun	V	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	20	08-04-2016 10:58:20	BEE1	Bethany Beers	PD	sun	V	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	21	08-04-2016 11:05:38	BOU1	Peter Bouckaert	PAD	sun	T	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	1	2	hazy	1	~	1	~	1	~	1	lovely aroma, almost not TTB	~
+RA PR AUG 4 16	1	21	08-04-2016 11:05:38	BOU1	Peter Bouckaert	PAD	sun	T	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	2	1	~	1	~	1	~	1	~	1	nice rough and ugly ranger, cheesy with a tit of citrus, harsch ugly bitter.	~
+RA PR AUG 4 16	1	22	08-04-2016 11:05:58	VIL1	Dana Villeneuve	SUS	sun	T	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	22	08-04-2016 11:05:58	VIL1	Dana Villeneuve	SUS	sun	T	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	23	08-04-2016 11:28:36	BOG1	Brian Bogan	EVE	sun	T	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	23	08-04-2016 11:28:36	BOG1	Brian Bogan	EVE	sun	T	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	24	08-04-2016 11:30:46	FUE1	Jacob Fuentes	QA	sun	T	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR AUG 4 16	1	24	08-04-2016 11:30:46	FUE1	Jacob Fuentes	QA	sun	T	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1	small amounts of watermelon rind	~
+RA PR AUG 4 16	1	25	08-04-2016 11:34:16	HUG1	Erin Hughes	HR	sun	V	1	RA 6 day bottle	Ranger	RA	160729042	1	bottle	0	0	0	08/04/16	07/29/16	12/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	big fluffy bubbles. minimal particulate. pithy	~
+RA PR AUG 4 16	1	25	08-04-2016 11:34:16	HUG1	Erin Hughes	HR	sun	V	2	RA 1 day keg	Ranger	RA	160803031	1	keg	0	0	0	08/04/16	08/03/16	12/11/16	PR	1	711	2	1	~	2	not as aromatic in ortho nasal. the grapefruit pith is less noticable.	1	~	1	~	2	~	it seems mostly on point. it wasn't as aromatic. slightly thin and maybe that is the perception from less aromatics.

@@ -1,0 +1,31 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+ACC PR OCT 28 16	1	1	10-28-2016 10:01:06	BLE1	Billy Bletcher	COF	star	T	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	2	10-28-2016 10:03:13	BOG1	Brian Bogan	EVE	sun	T	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	3	10-28-2016 10:03:57	SEE1	Shawn Seeboth	MAIN	sun	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	4	10-28-2016 10:05:47	COG1	Paul Coggins	BH	star	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	5	10-28-2016 10:06:11	HAL1	Tony Hall	PKG	star	T	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	6	10-28-2016 10:10:31	VIC1	Tanya Victor	SALES	sun	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	7	10-28-2016 10:11:26	OLO1	Kyle O'Loughlin	COF	star	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	8	10-28-2016 10:12:01	HUL1	Grady Hull	PAD	sun	T	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	9	10-28-2016 10:14:16	PET2	Ken Petroski	COF	star	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	10	10-28-2016 10:17:36	DAU1	Soren Daugaard	PKG	star	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	11	10-28-2016 10:19:56	MIT1	Andy Mitchell	COF	star	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	12	10-28-2016 10:20:26	HOL1	Chris Holbrook	COF	sun	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	2	not hazy	1	~	1	~	1	~	2	~	clarity/haze not ttb
+ACC PR OCT 28 16	1	13	10-28-2016 10:21:31	NAB1	Josh Nabours	PAD	sun	T	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	14	10-28-2016 10:25:55	SAL3	Keith Salmon	PKG	star	T	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	15	10-28-2016 10:26:43	KIT1	Bryan Kittle	PKG	star	T	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	16	10-28-2016 10:30:32	TRU1	Jason Trujillo	QA	sun	T	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	17	10-28-2016 10:30:37	SKI1	Dawn Skinner	FA	sun	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb	~
+ACC PR OCT 28 16	1	18	10-28-2016 10:36:54	BIE1	Jeff Biegert	COF	sun	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb-hops	~
+ACC PR OCT 28 16	1	19	10-28-2016 10:38:15	KAR1	Matt Karn	BH	sun	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	20	10-28-2016 10:42:19	SED1	Dana Sedin	QA	sun	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	21	10-28-2016 10:48:04	IRB1	Jeff Irby	QA	star	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	22	10-28-2016 10:54:21	FIS1	Mark Fischer	PAD	sun	T	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	23	10-28-2016 10:58:44	BAI1	Zach Baitinger	PUR	sun	T	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	24	10-28-2016 11:01:41	BAR1	Lindsay Barr	QA	sun	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	25	10-28-2016 11:03:11	BEE1	Bethany Beers	PD	sun	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	26	10-28-2016 11:04:23	BAR2	Ben Barrett	SALES	sun	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	27	10-28-2016 11:10:50	MAT1	Tucker Mattern	BH	STAR	T	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	28	10-28-2016 11:12:59	DAV1	Kevin Davis	COF	sun	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	29	10-28-2016 11:15:42	KIR1	Marie Kirkpatrick	LC	star	V	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR OCT 28 16	1	30	10-28-2016 11:16:57	BOU1	Peter Bouckaert	PAD	sun	T	1	ACC 1 day keg	Accumulation	ACC	161027101	1	keg	0	0	0	10/28/16	10/27/16	10/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	high S	~

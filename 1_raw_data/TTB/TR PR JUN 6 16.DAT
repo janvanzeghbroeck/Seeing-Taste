@@ -1,0 +1,30 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+TR PR JUN 6 16	1	1	06-06-2016 10:07:16	SAL3	Keith Salmon	PKG	star	T	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	2	06-06-2016 10:08:27	MIT1	Andy Mitchell	COF	star	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	3	06-06-2016 10:11:24	AMP1	Nick Ampe	EHS	sun	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	4	06-06-2016 10:11:41	LAV2	Aaron LaVanchy	PKG	star	T	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	5	06-06-2016 10:39:49	DIC1	Gary Dick	BH	sun	T	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	6	06-06-2016 10:40:04	SCH1	Ali Schultz	QA	sun	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	higher ethyl acetate/permanent marker	~
+TR PR JUN 6 16	1	7	06-06-2016 10:40:16	DAV1	Kevin Davis	COF	sun	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	8	06-06-2016 10:41:20	HUD1	Cory Hudson	IT	sun	T	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	9	06-06-2016 10:42:09	FIS1	Mark Fischer	PAD	sun	T	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	10	06-06-2016 10:49:08	SED1	Dana Sedin	QA	sun	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	11	06-06-2016 10:49:52	TRU1	Jason Trujillo	QA	sun	T	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	12	06-06-2016 10:50:21	DAU1	Soren Daugaard	PKG	star	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	2	no yeast, only a few particulates	2	has a strange sour dill aroma	2	harsh bitterness	1	~	2	~	visual NO yeast, aroma sour pickle, harsh bitterness
+TR PR JUN 6 16	1	13	06-06-2016 10:54:19	BOG1	Brian Bogan	EVE	sun	T	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	14	06-06-2016 10:56:27	BAN1	Tamar Banner	COF	sun	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	2	i think you said this was trippel keg, so the particulate that i see is not ttb.	1	~	1	~	1	~	1	visual's a little off, and the so2 is right on the line of acceptable.	~
+TR PR JUN 6 16	1	15	06-06-2016 11:00:49	OLO1	Kyle O'Loughlin	COF	star	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	16	06-06-2016 11:01:22	RAD1	Brent Radke	QA	star	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	17	06-06-2016 11:01:34	KAR1	Matt Karn	BH	sun	T	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	18	06-06-2016 11:09:14	UNG1	Eric Unger	PKG	star	T	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	19	06-06-2016 11:09:21	DAR1	Kevin Darst	PD	sun	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	20	06-06-2016 11:10:23	COG1	Paul Coggins	BH	star	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	21	06-06-2016 11:15:30	HOL2	Michelle Holbrook	EVE	sun	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	22	06-06-2016 11:19:53	PET2	Ken Petroski	COF	star	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	23	06-06-2016 11:21:23	HAG1	Andrew Hagdorn	COF	sun	T	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	24	06-06-2016 11:25:08	FUE1	Jacob Fuentes	QA	sun	T	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	25	06-06-2016 11:34:13	MCC1	Chris McCombs	ENG	sun	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	26	06-06-2016 11:34:37	BOU1	Peter Bouckaert	PAD	sun	T	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	2	keg? then ok	1	~	2	too high of a bitterness and astringency without any back bone.	1	~	1	the astringency and bitterness is disturbing and makes the beer undrinkable	~
+TR PR JUN 6 16	1	27	06-06-2016 11:35:13	PET1	Ted Peterson	COF	star	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR JUN 6 16	1	28	06-06-2016 11:37:53	BIE1	Jeff Biegert	COF	sun	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	2	band aids	1	~	1	~	2	~	not ttb-heavy band aid phenolic aroma, low on bananas
+TR PR JUN 6 16	1	29	06-06-2016 11:39:03	DUF1	Emily Dufficy	LC	star	V	1	TR 1 day keg	Trippel	TR	160605061	1	keg	0	0	0	06/06/16	06/05/16	06/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

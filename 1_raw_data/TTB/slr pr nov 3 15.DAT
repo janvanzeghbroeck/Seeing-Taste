@@ -1,0 +1,35 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+SLR PR NOV 3 15	1	1	11-03-2015 10:02:43	SAL3	Keith Salmon	PKG	star	T	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	2	11-03-2015 10:04:09	LIM1	Pete Limbach	EVE	star	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	3	11-03-2015 10:04:25	KIR2	Kaylyn Kirkpatrick	QA	star	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	4	11-03-2015 10:04:50	BEE1	Bethany Beers	PD	sun	T	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	5	11-03-2015 10:05:20	FIS1	Mark Fischer	PAD	sun	T	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	6	11-03-2015 10:11:24	LAV2	Aaron LaVanchy	PKG	star	T	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	2	too much ethyl hexanoate-aaron	2	too harsh bitter=aaron	1	~	2	~	too much ethyl hex-aaron
+SLR PR NOV 3 15	1	7	11-03-2015 10:12:47	DIC1	Perry Dickerson	QA	sun	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	8	11-03-2015 10:13:11	DAU1	Soren Daugaard	PKG	star	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	9	11-03-2015 10:14:44	HUG1	Erin Hughes	HR	sun	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	2	way more than a few nigglings of particulate.	2	dull compared to the usual big aromatics.	1	~	1	~	2	~	crazy amounts of particulate and dull in aroma_
+SLR PR NOV 3 15	1	10	11-03-2015 10:15:46	PET1	Ted Peterson	COF	star	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	11	11-03-2015 10:20:02	SAL1	Eric Salazar	BH	star	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	12	11-03-2015 10:22:08	GIL2	Penelope Gilliland	LC	star	T	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	13	11-03-2015 10:22:26	COG1	Paul Coggins	BH	star	T	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	14	11-03-2015 10:25:39	GIL1	Matty Gilliland	BH	sun	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+SLR PR NOV 3 15	1	15	11-03-2015 10:29:42	HUL1	Grady Hull	PAD	sun	T	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	16	11-03-2015 10:29:50	KOL1	Katy Koller	PD	sun	T	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	17	11-03-2015 10:30:52	HOL2	Michelle Holbrook	EVE	sun	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	18	11-03-2015 10:31:41	BLE1	Billy Bletcher	COF	star	T	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	19	11-03-2015 10:44:21	MIT1	Andy Mitchell	COF	star	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	20	11-03-2015 10:49:58	KIR1	Marie Kirkpatrick	LC	star	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	21	11-03-2015 10:51:54	VAN1	Sarah VanVlerah	LC	star	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	22	11-03-2015 10:52:21	KOE1	Ross Koenigs	COF	star	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	23	11-03-2015 10:54:00	DAR1	Kevin Darst	PD	sun	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	24	11-03-2015 11:03:21	DAV1	Kevin Davis	COF	sun	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	25	11-03-2015 11:04:36	PEO1	Kaitlyn Peot	FUL	sun	T	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	26	11-03-2015 11:08:05	HAL1	Tony Hall	PKG	star	T	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	27	11-03-2015 11:10:27	HAZ1	Alex Hazelmyer	QA	sun	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	2	it's sour	1	~	1		~
+SLR PR NOV 3 15	1	28	11-03-2015 11:11:27	SEE1	Shawn Seeboth	MAIN	sun	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	29	11-03-2015 11:18:52	AMP1	Nick Ampe	EHS	sun	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	30	11-03-2015 11:21:43	HOL1	Chris Holbrook	COF	sun	T	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	31	11-03-2015 11:24:56	MCC1	Chris McCombs	ENG	sun	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	32	11-03-2015 11:25:37	REI1	Cody Reif	QA	sun	T	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	33	11-03-2015 11:29:22	MUR1	Pat Murfin	COF	sun	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR NOV 3 15	1	34	11-03-2015 11:34:27	BAI1	Zach Baitinger	PUR	sun	V	1	SLR 0 Day Keg	Slow Ride	SLR	151103101	0	keg	0	0	0	11/03/15	11/03/15	02/21/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

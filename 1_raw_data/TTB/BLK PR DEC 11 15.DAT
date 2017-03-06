@@ -1,0 +1,33 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+BLK PR DEC 11 15	1	1	12-11-2015 10:05:00	DAU1	Soren Daugaard	PKG	star	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	2	12-11-2015 10:11:40	AMM1	Lisa Ammann	MKT	sun	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	3	12-11-2015 10:12:38	PET1	Ted Peterson	COF	star	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	beef jerky	~
+BLK PR DEC 11 15	1	4	12-11-2015 10:13:24	DAR1	Kevin Darst	PD	sun	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	5	12-11-2015 10:13:53	HUG1	Erin Hughes	HR	sun	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	at first i thought it was a little light in the color...	~
+BLK PR DEC 11 15	1	6	12-11-2015 10:15:01	PET3	Tyler Peters	LC	star	T	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	7	12-11-2015 10:17:01	DIC2	Gary Dick	BH	sun	T	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	8	12-11-2015 10:20:12	SED1	Dana Sedin	QA	sun	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	9	12-11-2015 10:24:11	DIC1	Perry Dickerson	QA	sun	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	10	12-11-2015 10:24:47	HUL1	Grady Hull	PAD	sun	T	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	11	12-11-2015 10:26:44	NOR1	Ryan Norwood	QA	sun	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	12	12-11-2015 10:32:38	SEE1	Shawn Seeboth	MAIN	sun	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	13	12-11-2015 10:33:57	FIS1	Mark Fischer	PAD	sun	T	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	14	12-11-2015 10:35:44	BUR1	Travis Burge	BH	sun	T	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	15	12-11-2015 10:36:51	MIT1	Andy Mitchell	COF	star	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	16	12-11-2015 10:36:57	TRU1	Jason Trujillo	QA	sun	T	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	17	12-11-2015 10:38:37	SAL2	Lauren Salazar	QA	star	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	18	12-11-2015 10:41:14	LAV2	Aaron LaVanchy	PKG	star	T	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	19	12-11-2015 10:42:08	MCC1	Chris McCombs	ENG	sun	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	2	light color	1	~	1	~	2	thin, watery	2	~	thin, watery, light color
+BLK PR DEC 11 15	1	20	12-11-2015 10:44:08	HOL2	Michelle Holbrook	EVE	sun	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	21	12-11-2015 10:47:41	GIL2	Penelope Gilliland	LC	star	T	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	22	12-11-2015 10:51:12	KJO	Casey Kjolhede	FUL	sun	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	23	12-11-2015 10:51:39	VIC1	Tanya Victor	FUL	sun	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	24	12-11-2015 10:52:32	SAL3	Keith Salmon	PKG	star	T	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	25	12-11-2015 10:53:25	HAL1	Tony Hall	PKG	star	T	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	26	12-11-2015 10:55:28	AMP1	Nick Ampe	EHS	sun	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	detected some styrene. not enough to no go	~
+BLK PR DEC 11 15	1	27	12-11-2015 11:01:57	REI1	Cody Reif	QA	sun	T	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	28	12-11-2015 11:05:08	HAG1	Andrew Hagdorn	COF	sun	T	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	29	12-11-2015 11:06:02	BLE1	Billy Bletcher	COF	star	T	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	30	12-11-2015 11:06:21	BEE1	Bethany Beers	PD	sun	T	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	31	12-11-2015 11:13:29	BAR1	Lindsay Barr	QA	sun	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR DEC 11 15	1	32	12-11-2015 11:27:37	BAN1	Tamar Banner	COF	sun	V	1	BLK 1 day can	1554	BLK	151210051	1	can	0	0	0	12/11/15	12/10/15	06/12/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	really well balanced sample of 1554	~

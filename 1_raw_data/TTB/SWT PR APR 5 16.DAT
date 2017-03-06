@@ -1,0 +1,20 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+SWT PR ARP 5 16	1	1	04-05-2016 10:06:10	BUR1	Travis Burge	BH	sun	T	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR ARP 5 16	1	2	04-05-2016 10:10:09	BAR1	Lindsay Barr	QA	sun	V	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	_	~
+SWT PR ARP 5 16	1	3	04-05-2016 10:12:07	LIM1	Pete Limbach	EVE	star	V	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR ARP 5 16	1	4	04-05-2016 10:14:49	DAU1	Soren Daugaard	PKG	star	V	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR ARP 5 16	1	5	04-05-2016 10:19:07	FIS1	Mark Fischer	PAD	sun	T	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR ARP 5 16	1	6	04-05-2016 10:20:00	HAL1	Tony Hall	PKG	star	T	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR ARP 5 16	1	7	04-05-2016 10:23:37	HOL2	Michelle Holbrook	EVE	sun	V	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR ARP 5 16	1	8	04-05-2016 10:25:16	VIL1	Dana Villeneuve	SUS	sun	T	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	a little more acetic than i recall but i havent had one in a long while	~
+SWT PR ARP 5 16	1	9	04-05-2016 10:29:02	DAR1	Kevin Darst	PD	sun	V	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	tastes extra sour	~
+SWT PR ARP 5 16	1	10	04-05-2016 10:37:43	SAL3	Keith Salmon	PKG	star	T	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR ARP 5 16	1	11	04-05-2016 10:42:11	PEO1	Kaitlyn Peot	FUL	sun	T	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR ARP 5 16	1	12	04-05-2016 10:45:24	BAI1	Zach Baitinger	PUR	sun	V	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR ARP 5 16	1	13	04-05-2016 10:46:50	SKI1	Dawn Skinner	FA	sun	V	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb	~
+SWT PR ARP 5 16	1	14	04-05-2016 10:52:08	TRU1	Jason Trujillo	QA	sun	T	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR ARP 5 16	1	15	04-05-2016 10:52:15	KJO	Casey Kjolhede	FUL	sun	V	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR ARP 5 16	1	16	04-05-2016 11:11:36	GIL3	Penny Gill-Stuart	BH	sun	T	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR ARP 5 16	1	17	04-05-2016 11:14:59	SEE1	Shawn Seeboth	MAIN	sun	V	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR ARP 5 16	1	18	04-05-2016 11:23:05	MCC1	Chris McCombs	ENG	sun	V	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR ARP 5 16	1	19	04-05-2016 11:34:46	AMP1	Nick Ampe	EHS	sun	V	1	SWT 1 day bottle	Snapshot	SWT	160404101	1	bottle	0	0	0	04/05/16	04/04/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

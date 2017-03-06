@@ -1,0 +1,33 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+WHZ PR JAN 19 17	1	1	01-19-2017 10:07:06	LAV2	Aaron LaVanchy	PKG	star	T	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	2	01-19-2017 10:07:21	UNG1	Eric Unger	PKG	star	T	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	3	01-19-2017 10:10:06	BAN1	Tamar Banner	COF	sun	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	2	dull aroma	1	~	1	~	2	~	slightly dull aroma, fair amount of particulate
+WHZ PR JAN 19 17	1	4	01-19-2017 10:12:39	DAR1	Kevin Darst	PD	sun	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	2	totally overrun by onion and garlic.	1	~	1	~	2	~	see aroma
+WHZ PR JAN 19 17	1	5	01-19-2017 10:15:47	SED1	Dana Sedin	QA	sun	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	6	01-19-2017 10:17:29	DUB1	Kate Dubas	SALES	sun	T	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	7	01-19-2017 10:18:28	HUD1	Cory Hudson	IT	sun	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	_	~
+WHZ PR JAN 19 17	1	8	01-19-2017 10:25:09	FIS1	Mark Fischer	PAD	sun	T	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	9	01-19-2017 10:29:35	AMM1	Lisa Ammann	MKT	sun	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	10	01-19-2017 10:29:45	CHR	Rob Christiansen	QA	sun	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	Tastes like fesh WHZBNG	~
+WHZ PR JAN 19 17	1	11	01-19-2017 10:29:50	MIT1	Andy Mitchell	COF	star	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	12	01-19-2017 10:31:01	DAU1	Soren Daugaard	PKG	star	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	13	01-19-2017 10:34:19	BOG1	Brian Bogan	EVE	sun	T	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	14	01-19-2017 10:40:04	SEE1	Shawn Seeboth	MAIN	sun	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	15	01-19-2017 10:41:44	PET2	Ken Petroski	COF	star	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	16	01-19-2017 10:42:24	OLO1	Kyle O'Loughlin	COF	star	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	17	01-19-2017 10:44:58	DIC2	Josh Dick	SALES	sun	T	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	18	01-19-2017 10:45:40	KAR1	Matt Karn	BH	sun	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	19	01-19-2017 10:56:39	PON1	Dave Ponceby	LC	star	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	20	01-19-2017 10:56:48	KJO	Casey Kjolhede	FUL	sun	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	21	01-19-2017 11:03:05	BOU1	Peter Bouckaert	PAD	sun	T	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	taste like a clear accumulation to me	~
+WHZ PR JAN 19 17	1	22	01-19-2017 11:03:41	PET1	Ted Peterson	COF	star	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	very hop-pellet-like aroma, esp retro	~
+WHZ PR JAN 19 17	1	23	01-19-2017 11:04:13	AMP1	Nick Ampe	EHS	sun	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	24	01-19-2017 11:09:34	VIC1	Tanya Victor	SALES	sun	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	picked up on some sort of herbal aroma in the hops i hadn't noticed before. something in asian cooking. that's all i got.	~
+WHZ PR JAN 19 17	1	25	01-19-2017 11:11:02	PET3	Tyler Peters	LC	star	T	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	26	01-19-2017 11:14:17	CON1	Karl Conklin	QA	sun	T	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	27	01-19-2017 11:15:09	GIL1	Matty Gilliland	BH	sun	T	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+WHZ PR JAN 19 17	1	28	01-19-2017 11:16:38	BIE1	Jeff Biegert	COF	sun	T	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	tb-pine forest with onion skins	~
+WHZ PR JAN 19 17	1	29	01-19-2017 11:18:15	DAV1	Kevin Davis	COF	sun	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	30	01-19-2017 11:23:09	DUF1	Emily Dufficy	LC	star	V	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	31	01-19-2017 11:31:36	GIL2	Penelope Gilliland	HR	sun	T	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 19 17	1	32	01-19-2017 11:36:20	GIL3	Penny Gill-Stuart	BH	sun	T	1	WHZ 1 day bottle	Whizbang	WHZ	170118101	1	bottle	0	0	0	01/19/17	01/18/17	06/18/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

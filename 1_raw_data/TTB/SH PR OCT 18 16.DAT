@@ -1,0 +1,25 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+SH PR OCT 18 16	1	1	10-18-2016 10:05:59	MIT1	Andy Mitchell	COF	star	V	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	2	10-18-2016 10:07:14	LAV2	Aaron LaVanchy	PKG	star	T	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	3	10-18-2016 10:07:20	HUL1	Grady Hull	PAD	sun	T	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	4	10-18-2016 10:07:32	MAT1	Tucker Mattern	BH	STAR	T	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	5	10-18-2016 10:11:07	PET2	Ken Petroski	COF	star	V	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	bye bye shift!!!!!!!!!!	~
+SH PR OCT 18 16	1	6	10-18-2016 10:13:02	SAL3	Keith Salmon	PKG	star	T	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	7	10-18-2016 10:15:03	STE1	Kelly Stewart	BH	sun	T	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	TTB	~
+SH PR OCT 18 16	1	8	10-18-2016 10:16:50	HAL1	Tony Hall	PKG	star	T	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	9	10-18-2016 10:17:56	HOL1	Chris Holbrook	COF	sun	T	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	10	10-18-2016 10:18:47	BAR2	Ben Barrett	SALES	sun	V	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	11	10-18-2016 10:19:46	DAU1	Soren Daugaard	PKG	star	V	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	12	10-18-2016 10:22:44	TRU1	Jason Trujillo	QA	sun	T	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	13	10-18-2016 10:26:17	DAR1	Kevin Darst	PD	sun	V	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	14	10-18-2016 10:29:23	CON1	Karl Conklin	QA	sun	T	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	15	10-18-2016 10:35:55	MCC1	Chris McCombs	ENG	sun	V	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	16	10-18-2016 10:40:29	BAI1	Zach Baitinger	PUR	sun	T	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	17	10-18-2016 10:43:18	FIS1	Mark Fischer	PAD	sun	T	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	18	10-18-2016 10:43:28	COG1	Paul Coggins	BH	star	V	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	19	10-18-2016 10:50:18	SAL1	Eric Salazar	BH	star	V	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	20	10-18-2016 10:53:50	HOL2	Michelle Holbrook	EVE	sun	V	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	21	10-18-2016 10:55:08	RAD1	Brent Radke	QA	star	V	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	22	10-18-2016 10:57:34	BEE1	Bethany Beers	PD	sun	V	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	23	10-18-2016 11:01:04	IRB1	Jeff Irby	QA	star	V	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 18 16	1	24	10-18-2016 11:18:48	PON1	Dave Ponceby	LC	star	V	1	SH 1 day can	Shift	SH	161017022	1	CAN	0	0	0	10/18/16	10/17/16	03/19/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

@@ -1,0 +1,21 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+SH PR DEC 31 15	1	1	12-31-2015 10:07:10	COG1	Paul Coggins	BH	star	T	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	2	12-31-2015 10:15:47	NOR1	Ryan Norwood	QA	sun	V	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	3	12-31-2015 10:16:43	SED1	Dana Sedin	QA	sun	V	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	4	12-31-2015 10:23:04	KOE1	Ross Koenigs	COF	star	V	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	5	12-31-2015 10:28:01	KOS1	Isaac Koski	BH	star	V	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	6	12-31-2015 10:34:22	LIM1	Pete Limbach	EVE	star	V	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	7	12-31-2015 10:43:56	HUL1	Grady Hull	PAD	sun	T	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	8	12-31-2015 10:46:00	VAN1	Sarah VanVlerah	LC	star	V	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	9	12-31-2015 10:46:58	BAN1	Tamar Banner	COF	sun	V	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	2	flat	2	~	my sample was totally flat. otherwise ttb.
+SH PR DEC 31 15	1	10	12-31-2015 10:48:57	GUE1	emily	GUE		T	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	2	the bitter didn't linger slightly	1	~	1		~
+SH PR DEC 31 15	1	11	12-31-2015 10:49:23	HAG1	Andrew Hagdorn	COF	sun	T	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	12	12-31-2015 10:55:23	MCC1	Chris McCombs	ENG	sun	V	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	13	12-31-2015 10:55:49	TRU1	Jason Trujillo	QA	sun	T	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	14	12-31-2015 10:57:13	DIC1	Perry Dickerson	QA	sun	V	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	15	12-31-2015 10:58:26	HOL2	Michelle Holbrook	EVE	sun	V	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	16	12-31-2015 11:02:44	MIT1	Andy Mitchell	COF	star	V	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	17	12-31-2015 11:07:23	MAD1	John Madigan	PKG	star	T	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	18	12-31-2015 11:14:57	IRB1	Jeff Irby	QA	star	V	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	19	12-31-2015 11:22:27	SEE1	Shawn Seeboth	MAIN	sun	V	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR DEC 31 15	1	20	12-31-2015 11:33:00	PET1	Ted Peterson	COF	star	V	1	SH 2 Day Can	Shift	SH	151229041	2	can	0	0	0	12/31/15	12/29/15	05/29/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

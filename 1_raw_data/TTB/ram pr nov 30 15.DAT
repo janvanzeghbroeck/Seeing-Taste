@@ -1,0 +1,61 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+RAM PR NOV 30 15	1	1	11-30-2015 10:12:19	SEE1	Shawn Seeboth	MAIN	sun	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	1	11-30-2015 10:12:19	SEE1	Shawn Seeboth	MAIN	sun	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	2	11-30-2015 10:14:22	SCH1	Ali Schultz	QA	sun	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	2	particulate - one huge one especially	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	2	11-30-2015 10:14:22	SCH1	Ali Schultz	QA	sun	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	2	partculate_	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	3	11-30-2015 10:15:15	LIM1	Pete Limbach	EVE	star	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	3	11-30-2015 10:15:15	LIM1	Pete Limbach	EVE	star	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	4	11-30-2015 10:16:43	DIC1	Perry Dickerson	QA	sun	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	4	11-30-2015 10:16:43	DIC1	Perry Dickerson	QA	sun	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	5	11-30-2015 10:18:56	HUL1	Grady Hull	PAD	sun	T	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	5	11-30-2015 10:18:56	HUL1	Grady Hull	PAD	sun	T	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	6	11-30-2015 10:22:40	KOL1	Katy Koller	PD	sun	T	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	6	11-30-2015 10:22:40	KOL1	Katy Koller	PD	sun	T	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	7	11-30-2015 10:23:56	DIC2	Gary Dick	BH	sun	T	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	7	11-30-2015 10:23:56	DIC2	Gary Dick	BH	sun	T	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	8	11-30-2015 10:26:37	MAD1	John Madigan	PKG	star	T	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	8	11-30-2015 10:26:37	MAD1	John Madigan	PKG	star	T	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	1	~	1	~	1	~	2	seems alittle bitter	1	seems alittle more bitter at end	~
+RAM PR NOV 30 15	1	9	11-30-2015 10:32:52	DAR1	Kevin Darst	PD	sun	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	9	11-30-2015 10:32:52	DAR1	Kevin Darst	PD	sun	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	10	11-30-2015 10:33:47	SED1	Dana Sedin	QA	sun	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	10	11-30-2015 10:33:47	SED1	Dana Sedin	QA	sun	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	11	11-30-2015 10:34:02	BAR1	Lindsay Barr	QA	sun	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	1	1	~	2	vsl. aa	1	~	1	~	1		~
+RAM PR NOV 30 15	1	11	11-30-2015 10:34:02	BAR1	Lindsay Barr	QA	sun	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	2	1	~	2	harsh solventy	1	~	1	~	2	~	harsh solvent_
+RAM PR NOV 30 15	1	12	11-30-2015 10:34:06	BEE1	Bethany Beers	PD	sun	T	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	12	11-30-2015 10:34:06	BEE1	Bethany Beers	PD	sun	T	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	13	11-30-2015 10:37:05	GIL2	Penelope Gilliland	LC	star	T	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	13	11-30-2015 10:37:05	GIL2	Penelope Gilliland	LC	star	T	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	14	11-30-2015 10:43:49	RAD1	Brent Radke	QA	star	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	14	11-30-2015 10:43:49	RAD1	Brent Radke	QA	star	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	15	11-30-2015 10:44:42	NOR1	Ryan Norwood	QA	sun	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	15	11-30-2015 10:44:42	NOR1	Ryan Norwood	QA	sun	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	16	11-30-2015 10:46:37	TRU1	Jason Trujillo	QA	sun	T	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	16	11-30-2015 10:46:37	TRU1	Jason Trujillo	QA	sun	T	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	17	11-30-2015 10:47:24	KIR2	Kaylyn Kirkpatrick	QA	star	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	17	11-30-2015 10:47:24	KIR2	Kaylyn Kirkpatrick	QA	star	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	18	11-30-2015 10:57:23	AMP1	Nick Ampe	EHS	sun	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	18	11-30-2015 10:57:23	AMP1	Nick Ampe	EHS	sun	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	19	11-30-2015 11:01:27	BOU1	Peter Bouckaert	PAD	sun	T	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	2	large hairy floaties	1	~	1	~	1	~	1	almost like it cheezy is less but the booze is still there	~
+RAM PR NOV 30 15	1	19	11-30-2015 11:01:27	BOU1	Peter Bouckaert	PAD	sun	T	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	2	tuns of medium particles	1	~	1	~	1	~	1	cheezy booze	~
+RAM PR NOV 30 15	1	20	11-30-2015 11:01:51	SAL2	Lauren Salazar	QA	star	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	20	11-30-2015 11:01:51	SAL2	Lauren Salazar	QA	star	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	21	11-30-2015 11:09:33	REI1	Cody Reif	QA	sun	T	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	1	~	2	muted sl aa	1	~	1	~	1		~
+RAM PR NOV 30 15	1	21	11-30-2015 11:09:33	REI1	Cody Reif	QA	sun	T	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	22	11-30-2015 11:13:46	PON1	Dave Ponceby	LC	star	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	22	11-30-2015 11:13:46	PON1	Dave Ponceby	LC	star	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	23	11-30-2015 11:15:27	MUR1	Pat Murfin	COF	sun	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	23	11-30-2015 11:15:27	MUR1	Pat Murfin	COF	sun	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	24	11-30-2015 11:16:15	MCC1	Chris McCombs	ENG	sun	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	1	2	very small, fibrous floaties	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	24	11-30-2015 11:16:15	MCC1	Chris McCombs	ENG	sun	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	25	11-30-2015 11:19:19	PET1	Ted Peterson	COF	star	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	25	11-30-2015 11:19:19	PET1	Ted Peterson	COF	star	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	26	11-30-2015 11:20:28	SAL1	Eric Salazar	BH	star	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	26	11-30-2015 11:20:28	SAL1	Eric Salazar	BH	star	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	27	11-30-2015 11:22:37	BLE1	Billy Bletcher	COF	star	T	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	27	11-30-2015 11:22:37	BLE1	Billy Bletcher	COF	star	T	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	28	11-30-2015 11:24:33	PET2	Ken Petroski	COF	star	V	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	28	11-30-2015 11:24:33	PET2	Ken Petroski	COF	star	V	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	29	11-30-2015 11:33:48	BUR1	Travis Burge	BH	sun	T	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	29	11-30-2015 11:33:48	BUR1	Travis Burge	BH	sun	T	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	30	11-30-2015 11:36:20	HAL1	Tony Hall	PKG	star	T	2	RAM 1 Day Bottle	Rampant	RAM	151129031	1	bottle	0	0	0	11/30/15	11/29/15	04/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR NOV 30 15	1	30	11-30-2015 11:36:20	HAL1	Tony Hall	PKG	star	T	1	RAM 2 Day Bottle	Rampant	RAM	151128041	2	bottle	0	0	0	11/30/15	11/28/15	04/03/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~

@@ -1,0 +1,30 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+BLK PR NOV 5 15	1	1	11-05-2015 10:05:35	SAL2	Lauren Salazar	QA	star	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	liquorice delciousness	~
+BLK PR NOV 5 15	1	2	11-05-2015 10:06:49	BOG1	Brian Bogan	EVE	sun	T	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	3	11-05-2015 10:06:59	GUE4	Lindsay Guerdrum	QA	sun	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	2	some h2s and general off plastic aroma, almost like chlorophenol	1	~	1	~	2	~	plastic, phenol, sulfur medicinal...
+BLK PR NOV 5 15	1	4	11-05-2015 10:07:32	COG1	Paul Coggins	BH	star	T	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	5	11-05-2015 10:07:58	UNG1	Eric Unger	PKG	star	T	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	6	11-05-2015 10:15:56	GIL2	Penelope Gilliland	LC	star	T	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	7	11-05-2015 10:16:46	PEO1	Kaitlyn Peot	FUL	sun	T	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	8	11-05-2015 10:17:16	BEE1	Bethany Beers	PD	sun	T	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	9	11-05-2015 10:20:13	LIM1	Pete Limbach	EVE	star	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	2	to smokey, like jerky that was forgot on the smoker	1	~	1	~	2	~	too meat smokey
+BLK PR NOV 5 15	1	10	11-05-2015 10:20:35	HUG1	Erin Hughes	HR	sun	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	with the new pinch of nose while checking mouthfeel, BK seems to have a fuller body.	~
+BLK PR NOV 5 15	1	11	11-05-2015 10:23:35	DAU1	Soren Daugaard	PKG	star	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	12	11-05-2015 10:25:08	DIC2	Gary Dick	BH	sun	T	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	13	11-05-2015 10:29:19	MUR1	Pat Murfin	COF	sun	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	14	11-05-2015 10:33:15	MAD1	John Madigan	PKG	star	T	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	15	11-05-2015 10:33:21	REI1	Cody Reif	QA	sun	T	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	16	11-05-2015 10:36:46	GIL1	Matty Gilliland	BH	sun	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	REal good	~
+BLK PR NOV 5 15	1	17	11-05-2015 10:38:29	HUL1	Grady Hull	PAD	sun	T	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	18	11-05-2015 10:39:16	KOE1	Ross Koenigs	COF	star	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	19	11-05-2015 10:41:27	BAN1	Tamar Banner	COF	sun	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	plugging my nose (with the new method) while tasting still reveals to be a very sweet beer.	~
+BLK PR NOV 5 15	1	20	11-05-2015 10:44:42	BOU1	Peter Bouckaert	PAD	sun	T	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	IAA low - PFB	~
+BLK PR NOV 5 15	1	21	11-05-2015 10:51:25	SCH1	Ali Schultz	QA	sun	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	22	11-05-2015 10:57:37	AMP1	Nick Ampe	EHS	sun	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	23	11-05-2015 11:05:56	KIR2	Kaylyn Kirkpatrick	QA	star	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	24	11-05-2015 11:16:07	RAD1	Brent Radke	QA	star	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	25	11-05-2015 11:19:03	DIC1	Perry Dickerson	QA	sun	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	26	11-05-2015 11:20:31	PON1	Dave Ponceby	LC	star	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	27	11-05-2015 11:23:01	TRU1	Jason Trujillo	QA	sun	T	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR NOV 5 15	1	28	11-05-2015 11:29:09	IRB1	Jeff Irby	QA	star	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	2	dull	2	umami, salty	2	thin	2	~	excess smoky, soy sauce, thin
+BLK PR NOV 5 15	1	29	11-05-2015 11:30:01	VAN1	Sarah VanVlerah	LC	star	V	1	BLK 2 day keg	1554	BLK	151103041	2	keg	0	0	0	11/05/15	11/03/15	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

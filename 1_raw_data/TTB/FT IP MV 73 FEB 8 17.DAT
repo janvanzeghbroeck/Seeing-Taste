@@ -1,0 +1,11 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT IP MV 73 FEB 8 17	1	1	02-08-2017 10:15:04	RAD1	Brent Radke	QA	star	V	1	Fat Tire MV	FT MV	FT	170208730	0	IP	0	0	0	02/08/17	02/08/17	02/08/17	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+FT IP MV 73 FEB 8 17	1	2	02-08-2017 10:16:20	SED1	Dana Sedin	QA	sun	V	1	Fat Tire MV	FT MV	FT	170208730	0	IP	0	0	0	02/08/17	02/08/17	02/08/17	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+FT IP MV 73 FEB 8 17	1	3	02-08-2017 10:23:02	DAR1	Kevin Darst		sun	V	1	Fat Tire MV	FT MV	FT	170208730	0	IP	0	0	0	02/08/17	02/08/17	02/08/17	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+FT IP MV 73 FEB 8 17	1	4	02-08-2017 10:23:29	PET1	Ted Peterson	COF	star	V	1	Fat Tire MV	FT MV	FT	170208730	0	IP	0	0	0	02/08/17	02/08/17	02/08/17	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+FT IP MV 73 FEB 8 17	1	5	02-08-2017 10:26:54	DAU1	Soren Daugaard	PKG	sun	V	1	Fat Tire MV	FT MV	FT	170208730	0	IP	0	0	0	02/08/17	02/08/17	02/08/17	IP	1	641	1	1	~	1	~	1	~	1	~	1	a little H2S on the ortho	~
+FT IP MV 73 FEB 8 17	1	6	02-08-2017 10:30:23	PET2	Ken Petroski	COF	star	V	1	Fat Tire MV	FT MV	FT	170208730	0	IP	0	0	0	02/08/17	02/08/17	02/08/17	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+FT IP MV 73 FEB 8 17	1	7	02-08-2017 10:38:21	DAV1	Kevin Davis	COF	sun	V	1	Fat Tire MV	FT MV	FT	170208730	0	IP	0	0	0	02/08/17	02/08/17	02/08/17	IP	1	641	1	1	~	1	~	1	~	1	~	1	low esters	~
+FT IP MV 73 FEB 8 17	1	8	02-08-2017 10:40:51	SEE1	Shawn Seeboth	PD	sun	V	1	Fat Tire MV	FT MV	FT	170208730	0	IP	0	0	0	02/08/17	02/08/17	02/08/17	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+FT IP MV 73 FEB 8 17	1	9	02-08-2017 11:09:58	SKI1	Dawn Skinner	FA	sun	V	1	Fat Tire MV	FT MV	FT	170208730	0	IP	0	0	0	02/08/17	02/08/17	02/08/17	IP	1	641	1	1	~	1	~	1	~	1	~	1	ttb	~
+FT IP MV 73 FEB 8 17	1	10	02-08-2017 11:17:43	MCC1	Chris McCombs	ENG	sun	V	1	Fat Tire MV	FT MV	FT	170208730	0	IP	0	0	0	02/08/17	02/08/17	02/08/17	IP	1	641	1	1	~	1	~	1	~	1	~	1		~

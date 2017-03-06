@@ -1,0 +1,30 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+SLR PR JAN 19 16	1	1	01-19-2016 10:04:25	REI1	Cody Reif	QA	sun	T	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	2	01-19-2016 10:04:35	BLE1	Billy Bletcher	COF	star	T	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	3	01-19-2016 10:06:02	DAU1	Soren Daugaard	PKG	star	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	4	01-19-2016 10:06:25	HUL1	Grady Hull	PAD	sun	T	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	5	01-19-2016 10:12:41	MAD1	John Madigan	PKG	star	T	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	6	01-19-2016 10:17:04	OLO1	Kyle O'Loughlin	COF	star	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	7	01-19-2016 10:17:17	SAL1	Eric Salazar	BH	star	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	8	01-19-2016 10:17:48	AMM1	Lisa Ammann	MKT	sun	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	9	01-19-2016 10:20:39	DAR1	Kevin Darst	PD	sun	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	10	01-19-2016 10:26:00	VAN1	Sarah VanVlerah	LC	star	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	11	01-19-2016 10:29:23	MCC1	Chris McCombs	ENG	sun	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	12	01-19-2016 10:29:48	MIT1	Andy Mitchell	COF	star	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	13	01-19-2016 10:30:39	COG1	Paul Coggins	BH	star	T	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	14	01-19-2016 10:38:23	KIR2	Kaylyn Kirkpatrick	QA	star	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	15	01-19-2016 10:40:58	NOR1	Ryan Norwood	QA	sun	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	16	01-19-2016 10:45:41	PEO1	Kaitlyn Peot	FUL	sun	T	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	17	01-19-2016 10:49:16	BAR1	Lindsay Barr	QA	sun	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	not fresh	~
+SLR PR JAN 19 16	1	18	01-19-2016 10:50:36	KOE1	Ross Koenigs	COF	star	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	19	01-19-2016 10:52:14	KIT1	Bryan Kittle	PKG	star	T	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	20	01-19-2016 10:56:59	SED1	Dana Sedin	QA	sun	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	21	01-19-2016 10:58:52	HOL1	Chris Holbrook	COF	sun	T	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	22	01-19-2016 10:59:34	HAG1	Andrew Hagdorn	COF	sun	T	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	23	01-19-2016 11:03:47	BAI1	Zach Baitinger	PUR	sun	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	24	01-19-2016 11:17:11	SCH1	Ali Schultz	QA	sun	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	higher catty/herbal. less tropical	~
+SLR PR JAN 19 16	1	25	01-19-2016 11:24:11	DIC1	Perry Dickerson	QA	sun	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	26	01-19-2016 11:26:05	PET1	Ted Peterson	COF	star	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	a little diesel-fuely	~
+SLR PR JAN 19 16	1	27	01-19-2016 11:29:09	RAD1	Brent Radke	QA	star	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SLR PR JAN 19 16	1	28	01-19-2016 11:29:40	BOU1	Peter Bouckaert	PAD	sun	T	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	2	ok if can	2	different beer, miss the S and the fruit punch, smells like 2Below	1	~	1	~	2	~	not ok, smells completely different, no S, not tropical fruit punch almost as 2Below
+SLR PR JAN 19 16	1	29	01-19-2016 11:33:06	BIE2	Jeff Biegert	COF	sun	V	1	SLR 1 Day Can	Slow Ride	SLR	160118012	1	can	0	0	0	01/19/16	01/18/16	05/08/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb-sweat and garlic	~

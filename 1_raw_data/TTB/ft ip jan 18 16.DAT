@@ -1,0 +1,25 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT IP JAN 18 16	1	1	01-18-2016 10:03:05	DAU1	Soren Daugaard	PKG	sun	V	2	FT  MV	FT MV	FT	160118680	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	355	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 18 16	1	1	01-18-2016 10:03:05	DAU1	Soren Daugaard	PKG	sun	V	1	FT MV	FT MV	FT	160118630	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	537	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 18 16	1	2	01-18-2016 10:05:03	HUL1	Grady Hull	BH	sun	T	1	FT MV	FT MV	FT	160118630	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	537	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 18 16	1	2	01-18-2016 10:05:03	HUL1	Grady Hull	BH	sun	T	2	FT  MV	FT MV	FT	160118680	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	355	2	1	~	2	ethyl hex grady	1	~	1	~	2	~	ethyl hex grady
+FT IP JAN 18 16	1	3	01-18-2016 10:17:00	MCC1	Chris McCombs	ENG	sun	V	2	FT  MV	FT MV	FT	160118680	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	355	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 18 16	1	3	01-18-2016 10:17:00	MCC1	Chris McCombs	ENG	sun	V	1	FT MV	FT MV	FT	160118630	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	537	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 18 16	1	4	01-18-2016 10:20:27	BOU1	Peter Bouckaert	BH	star	T	2	FT  MV	FT MV	FT	160118680	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	355	1	1	~	1	~	1	~	1	~	1	sharp, young	~
+FT IP JAN 18 16	1	4	01-18-2016 10:20:27	BOU1	Peter Bouckaert	BH	star	T	1	FT MV	FT MV	FT	160118630	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	537	2	1	~	1	~	1	~	1	~	1	does not smell or taste the freshest but no off flavors	~
+FT IP JAN 18 16	1	5	01-18-2016 10:27:07	NOR1	Ryan Norwood	QA	sun	V	2	FT  MV	FT MV	FT	160118680	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	355	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 18 16	1	5	01-18-2016 10:27:07	NOR1	Ryan Norwood	QA	sun	V	1	FT MV	FT MV	FT	160118630	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	537	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 18 16	1	6	01-18-2016 10:41:17	DAV1	Kevin Davis	COF	sun	V	1	FT MV	FT MV	FT	160118630	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	537	1	1	~	2	slight cloves note, little papery, dull	1	~	1	~	2	~	dull, watery
+FT IP JAN 18 16	1	6	01-18-2016 10:41:17	DAV1	Kevin Davis	COF	sun	V	2	FT  MV	FT MV	FT	160118680	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	355	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 18 16	1	7	01-18-2016 10:51:23	SAL1	Eric Salazar	BH	sun	V	1	FT MV	FT MV	FT	160118630	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	537	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 18 16	1	7	01-18-2016 10:51:23	SAL1	Eric Salazar	BH	sun	V	2	FT  MV	FT MV	FT	160118680	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	355	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 18 16	1	8	01-18-2016 10:59:25	DIC1	Perry Dickerson	QA	sun	V	1	FT MV	FT MV	FT	160118630	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	537	1	1	~	2	solvent/ EA	1	~	1	~	1	some extra solvent/ ethyl acetate, but not terrible	~
+FT IP JAN 18 16	1	8	01-18-2016 10:59:25	DIC1	Perry Dickerson	QA	sun	V	2	FT  MV	FT MV	FT	160118680	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	355	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 18 16	1	9	01-18-2016 11:06:21	KIR1	Marie Kirkpatrick	LC	star	V	2	FT  MV	FT MV	FT	160118680	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	355	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 18 16	1	9	01-18-2016 11:06:21	KIR1	Marie Kirkpatrick	LC	star	V	1	FT MV	FT MV	FT	160118630	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	537	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 18 16	1	10	01-18-2016 11:07:43	HUG1	Erin Hughes	TLC	star	v	2	FT  MV	FT MV	FT	160118680	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	355	1	1	~	1	~	1	~	1	~	1	medium sheen with a side of strawberry goat.	~
+FT IP JAN 18 16	1	10	01-18-2016 11:07:43	HUG1	Erin Hughes	TLC	star	v	1	FT MV	FT MV	FT	160118630	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	537	2	1	~	2	solventy is not subtle in this sample. emulsion paint like. acetaldehyde.	2	solventy bitterness.	2	not spritzy. not smooth.	2	~	solventy characteristics at first sniff. seems like emulsion paint.
+FT IP JAN 18 16	1	11	01-18-2016 11:08:03	SCH1	Ali Schultz	QA	sun	V	1	FT MV	FT MV	FT	160118630	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	537	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 18 16	1	11	01-18-2016 11:08:03	SCH1	Ali Schultz	QA	sun	V	2	FT  MV	FT MV	FT	160118680	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	355	2	1	~	1	~	1	~	1	~	1	lower breadiness	~
+FT IP JAN 18 16	1	12	01-18-2016 11:13:16	SEE1	Shawn Seeboth	PD	sun	V	1	FT MV	FT MV	FT	160118630	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	537	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 18 16	1	12	01-18-2016 11:13:16	SEE1	Shawn Seeboth	PD	sun	V	2	FT  MV	FT MV	FT	160118680	0	IP	0	0	0	01/18/16	01/18/16	01/18/16	IP	1	355	2	1	~	1	~	1	~	1	~	1		~

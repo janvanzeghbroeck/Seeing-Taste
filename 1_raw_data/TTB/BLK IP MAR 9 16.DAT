@@ -1,0 +1,19 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+BLK IP MAR 9 16	1	1	03-09-2016 15:09:27	BAR1	Lindsay Barr	QA	sun	V	1	BLK MV	BLK MV	BLK	160309080	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	137	1	1	~	2	not much iaa or anise	1	~	2	thin	2	~	low iaa and licorice low body and color, vsl aa
+BLK IP MAR 9 16	1	1	03-09-2016 15:09:27	BAR1	Lindsay Barr	QA	sun	V	2	BLK	BLK MV	BLK	160309740	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	442	2	1	~	1	~	1	~	1	~	1		~
+BLK IP MAR 9 16	1	1	03-09-2016 15:09:27	BAR1	Lindsay Barr	QA	sun	V	3	BLKMV	BLK MV	BLK	160309001	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	911	3	1	~	2	some aa, less iaa	1	~	1	~	1	close but on the fence with less esters and some aa	~
+BLK IP MAR 9 16	1	2	03-09-2016 15:12:50	SED1	Dana Sedin	QA	sun	V	1	BLK MV	BLK MV	BLK	160309080	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	137	1	1	~	1	~	1	~	1	~	1		~
+BLK IP MAR 9 16	1	2	03-09-2016 15:12:50	SED1	Dana Sedin	QA	sun	V	2	BLK	BLK MV	BLK	160309740	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	442	2	1	~	1	~	1	~	1	~	1		~
+BLK IP MAR 9 16	1	2	03-09-2016 15:12:50	SED1	Dana Sedin	QA	sun	V	3	BLKMV	BLK MV	BLK	160309001	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	911	3	1	~	1	~	1	~	1	~	1		~
+BLK IP MAR 9 16	1	3	03-09-2016 15:14:35	VAN1	Sarah VanVlerah	LC	star	V	3	BLKMV	BLK MV	BLK	160309001	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	911	1	1	~	1	~	1	~	1	~	1		~
+BLK IP MAR 9 16	1	3	03-09-2016 15:14:35	VAN1	Sarah VanVlerah	LC	star	V	1	BLK MV	BLK MV	BLK	160309080	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	137	2	1	~	1	~	1	~	1	~	1		~
+BLK IP MAR 9 16	1	3	03-09-2016 15:14:35	VAN1	Sarah VanVlerah	LC	star	V	2	BLK	BLK MV	BLK	160309740	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	442	3	1	~	1	~	1	~	1	~	1		~
+BLK IP MAR 9 16	1	4	03-09-2016 15:46:17	NOR1	Ryan Norwood	QA	sun	V	2	BLK	BLK MV	BLK	160309740	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	442	1	1	~	1	~	1	~	1	~	1		~
+BLK IP MAR 9 16	1	4	03-09-2016 15:46:17	NOR1	Ryan Norwood	QA	sun	V	3	BLKMV	BLK MV	BLK	160309001	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	911	2	1	~	1	~	1	~	1	~	1		~
+BLK IP MAR 9 16	1	4	03-09-2016 15:46:17	NOR1	Ryan Norwood	QA	sun	V	1	BLK MV	BLK MV	BLK	160309080	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	137	3	1	~	2	unpleasant cheesy aroma lacking the coffee malty aroma that i am used to	2	not as sweet or balanced	2	harsh mouthfeel with a ttb body	2	~	unpleasant cheesy stinky drain aroma with a harsh mouthfeel
+BLK IP MAR 9 16	1	5	03-09-2016 15:52:54	DAV1	Kevin Davis	COF	sun	V	1	BLK MV	BLK MV	BLK	160309080	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	137	1	1	~	1	~	1	~	1	~	1		~
+BLK IP MAR 9 16	1	5	03-09-2016 15:52:54	DAV1	Kevin Davis	COF	sun	V	3	BLKMV	BLK MV	BLK	160309001	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	911	2	1	~	1	~	1	~	1	~	1		~
+BLK IP MAR 9 16	1	5	03-09-2016 15:52:54	DAV1	Kevin Davis	COF	sun	V	2	BLK	BLK MV	BLK	160309740	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	442	3	1	~	1	~	1	~	1	~	1		~
+BLK IP MAR 9 16	1	6	03-09-2016 16:01:53	PET1	Ted Peterson	COF	star	V	1	BLK MV	BLK MV	BLK	160309080	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	137	1	1	~	1	~	1	~	1	~	1	sl thin maybe. big banana	~
+BLK IP MAR 9 16	1	6	03-09-2016 16:01:53	PET1	Ted Peterson	COF	star	V	3	BLKMV	BLK MV	BLK	160309001	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	911	2	1	~	1	~	1	~	1	~	1	sl more solvent/less banana, seems less fresh	~
+BLK IP MAR 9 16	1	6	03-09-2016 16:01:53	PET1	Ted Peterson	COF	star	V	2	BLK	BLK MV	BLK	160309740	0	IP	0	0	0	03/09/16	03/09/16	03/09/16	IP	1	442	3	1	~	1	~	1	~	1	~	1	hint of alcohol aroma	~

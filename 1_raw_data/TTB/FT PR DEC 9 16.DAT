@@ -1,0 +1,23 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT PR DEC 9 16	1	1	12-09-2016 10:04:01	DAU1	Soren Daugaard	PKG	star	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 9 16	1	2	12-09-2016 10:04:03	BLE1	Billy Bletcher	COF	star	T	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 9 16	1	3	12-09-2016 10:05:26	SCH1	Ali Schultz	QA	sun	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	high caramel	~
+FT PR DEC 9 16	1	4	12-09-2016 10:06:31	HUL1	Grady Hull	PAD	sun	T	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 9 16	1	5	12-09-2016 10:10:08	MIT1	Andy Mitchell	COF	star	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 9 16	1	6	12-09-2016 10:15:36	SAL1	Eric Salazar	BH	star	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 9 16	1	7	12-09-2016 10:19:22	BAN1	Tamar Banner	COF	sun	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	just like the calibration sample, but both strike me as a hair sweet	~
+FT PR DEC 9 16	1	8	12-09-2016 10:25:30	PET2	Ken Petroski	COF	star	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 9 16	1	9	12-09-2016 10:27:41	DAV1	Kevin Davis	COF	sun	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 9 16	1	10	12-09-2016 10:31:06	GIL1	Matty Gilliland	BH	sun	T	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+FT PR DEC 9 16	1	11	12-09-2016 10:39:42	STE1	Kelly Stewart	BH	sun	T	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	TTB	~
+FT PR DEC 9 16	1	12	12-09-2016 10:41:35	SED1	Dana Sedin	QA	sun	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 9 16	1	13	12-09-2016 10:42:52	VAN1	Sarah VanVlerah	LC	star	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	2	some butaric acid going on.	1	~	1	~	2	~	butyric acid
+FT PR DEC 9 16	1	14	12-09-2016 10:43:32	KOS1	Isaac Koski	BH	star	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 9 16	1	15	12-09-2016 10:43:48	PON1	Dave Ponceby	LC	star	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 9 16	1	16	12-09-2016 10:49:15	HUD1	Cory Hudson	IT	sun	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 9 16	1	17	12-09-2016 10:50:55	HOL2	Michelle Holbrook	EVE	sun	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	2	slightly watery and then ASTRINGENT	2	~	really astringent
+FT PR DEC 9 16	1	18	12-09-2016 11:02:56	HOL1	Chris Holbrook	COF	sun	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 9 16	1	19	12-09-2016 11:06:37	COG1	Paul Coggins	BH	star	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 9 16	1	20	12-09-2016 11:16:06	PET1	Ted Peterson	COF	star	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	at first i thought maybe the slightest hint of diacetyl	~
+FT PR DEC 9 16	1	21	12-09-2016 11:22:36	DAR1	Kevin Darst	PD	sun	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 9 16	1	22	12-09-2016 11:23:55	LIM1	Pete Limbach	EVE	star	V	1	FT 3 day bottle	Fat Tire	FT	161209004	3	bottle	0	0	0	12/09/16	12/06/16	04/16/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

@@ -1,0 +1,49 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT PR SEP 20 16	1	1	09-20-2016 10:04:13	MIT1	Andy Mitchell	COF	star	V	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	1	09-20-2016 10:04:13	MIT1	Andy Mitchell	COF	star	V	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	2	09-20-2016 10:07:17	SAL3	Keith Salmon	PKG	star	T	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	2	09-20-2016 10:07:17	SAL3	Keith Salmon	PKG	star	T	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	3	09-20-2016 10:07:31	HUL1	Grady Hull	PAD	sun	T	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	3	09-20-2016 10:07:31	HUL1	Grady Hull	PAD	sun	T	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	4	09-20-2016 10:09:21	HOL1	Chris Holbrook	COF	sun	T	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	sl papery	~
+FT PR SEP 20 16	1	4	09-20-2016 10:09:21	HOL1	Chris Holbrook	COF	sun	T	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	5	09-20-2016 10:13:29	FIS1	Mark Fischer	PAD	sun	T	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	5	09-20-2016 10:13:29	FIS1	Mark Fischer	PAD	sun	T	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	6	09-20-2016 10:14:03	DIC1	Gary Dick	BH	sun	T	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	6	09-20-2016 10:14:03	DIC1	Gary Dick	BH	sun	T	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	7	09-20-2016 10:17:54	KOE1	Ross Koenigs	COF	star	V	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	7	09-20-2016 10:17:54	KOE1	Ross Koenigs	COF	star	V	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	8	09-20-2016 10:23:03	DAU1	Soren Daugaard	PKG	star	V	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	8	09-20-2016 10:23:03	DAU1	Soren Daugaard	PKG	star	V	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	9	09-20-2016 10:24:16	HUD1	Cory Hudson	IT	sun	T	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	9	09-20-2016 10:24:16	HUD1	Cory Hudson	IT	sun	T	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	10	09-20-2016 10:31:43	OLO1	Kyle O'Loughlin	COF	star	V	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	10	09-20-2016 10:31:43	OLO1	Kyle O'Loughlin	COF	star	V	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	11	09-20-2016 10:34:12	BAI1	Zach Baitinger	PUR	sun	T	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	11	09-20-2016 10:34:12	BAI1	Zach Baitinger	PUR	sun	T	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	12	09-20-2016 10:35:37	RAD1	Brent Radke	QA	star	V	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	12	09-20-2016 10:35:37	RAD1	Brent Radke	QA	star	V	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	13	09-20-2016 10:35:53	TRU1	Jason Trujillo	QA	sun	T	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	13	09-20-2016 10:35:53	TRU1	Jason Trujillo	QA	sun	T	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	14	09-20-2016 10:45:58	BIE1	Jeff Biegert	COF	sun	V	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	ttb-bland but ok, malty, grainy	~
+FT PR SEP 20 16	1	14	09-20-2016 10:45:58	BIE1	Jeff Biegert	COF	sun	V	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	2	1	~	2	diacetyl present, like the kind from a dirty tap line	1	~	2	slick with diacetyl	2	~	not ttb-low level of diacetyl present
+FT PR SEP 20 16	1	15	09-20-2016 10:48:20	KAR1	Matt Karn	BH	sun	T	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	15	09-20-2016 10:48:20	KAR1	Matt Karn	BH	sun	T	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	16	09-20-2016 10:48:34	SAL1	Eric Salazar	BH	star	V	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	16	09-20-2016 10:48:34	SAL1	Eric Salazar	BH	star	V	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	17	09-20-2016 10:51:17	MCK1	Kelly McKnight	BH	star	T	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	17	09-20-2016 10:51:17	MCK1	Kelly McKnight	BH	star	T	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	18	09-20-2016 10:54:27	SEE1	Shawn Seeboth	MAIN	sun	V	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	18	09-20-2016 10:54:27	SEE1	Shawn Seeboth	MAIN	sun	V	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	19	09-20-2016 10:55:33	BEE1	Bethany Beers	PD	sun	V	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	19	09-20-2016 10:55:33	BEE1	Bethany Beers	PD	sun	V	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	20	09-20-2016 10:56:26	SCH1	Ali Schultz	QA	sun	V	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	20	09-20-2016 10:56:26	SCH1	Ali Schultz	QA	sun	V	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	2	2	many tiny particles	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	21	09-20-2016 10:59:05	HAL1	Tony Hall	PKG	star	T	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	21	09-20-2016 10:59:05	HAL1	Tony Hall	PKG	star	T	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	22	09-20-2016 11:05:22	VAN1	Sarah VanVlerah	LC	star	V	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	1	1	~	2	hint of diacetyl	1	~	1	~	1	i get teeny bits of diacetyl but I'm super sensitive to it.	~
+FT PR SEP 20 16	1	22	09-20-2016 11:05:22	VAN1	Sarah VanVlerah	LC	star	V	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	2	1	~	2	waxy	2	lacking sweetness	1	~	2	~	papery
+FT PR SEP 20 16	1	23	09-20-2016 11:14:54	IRB1	Jeff Irby	QA	star	V	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	1	1	~	2	sharpe, solventy, e acetate/e butyrate	1	~	1	~	1	meant to hit not TTB.  solventy, thin, and sharpe	~
+FT PR SEP 20 16	1	23	09-20-2016 11:14:54	IRB1	Jeff Irby	QA	star	V	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 20 16	1	24	09-20-2016 11:18:06	BOU1	Peter Bouckaert	PAD	sun	T	2	FT 1 Day  Keg	Fat Tire	FT	160919102	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	711	1	1	~	2	weird, smells like a FT reduction, plain heated FT.  Vanilla, veggie, red berry.	1	~	1	~	2	~	of smell, like heated FT.
+FT PR SEP 20 16	1	24	09-20-2016 11:18:06	BOU1	Peter Bouckaert	PAD	sun	T	1	FT 1 Day Keg	Fat Tire	FT	160919021	1	keg	0	0	0	09/20/16	09/19/16	01/29/17	PR	1	845	2	1	~	2	first to mind was diacetyl, last to mind the same	1	~	1	~	2	~	diacetyl

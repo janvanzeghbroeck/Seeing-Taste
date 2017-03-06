@@ -1,0 +1,19 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+VRA IP DEC 22 16	1	1	12-22-2016 10:03:13	BAN1	Tamar Banner	COF	star	V	2	VRA  MV	VRA MV	VRA	161222710	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	355	1	1	~	1	~	1	~	1	~	1	nails the description perfectly	~
+VRA IP DEC 22 16	1	1	12-22-2016 10:03:13	BAN1	Tamar Banner	COF	star	V	1	VRA MV	VRA MV	VRA	161222680	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	537	2	1	~	1	~	1	~	1	~	1		~
+VRA IP DEC 22 16	1	2	12-22-2016 10:04:53	BOU1	Peter Bouckaert	BH	star	T	1	VRA MV	VRA MV	VRA	161222680	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	537	1	1	~	1	~	1	~	1	~	1		~
+VRA IP DEC 22 16	1	2	12-22-2016 10:04:53	BOU1	Peter Bouckaert	BH	star	T	2	VRA  MV	VRA MV	VRA	161222710	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	355	2	1	~	2	lacks the pungent myrcene/fruit in the aroma, has it retronasal, but defeats the initial punch IPA drinkers look for	1	~	1	~	1	still good in aroma retronasal, blend?	~
+VRA IP DEC 22 16	1	3	12-22-2016 10:07:42	PET1	Ted Peterson	COF	star	V	2	VRA  MV	VRA MV	VRA	161222710	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	355	1	1	~	1	~	1	~	1	~	1		~
+VRA IP DEC 22 16	1	3	12-22-2016 10:07:42	PET1	Ted Peterson	COF	star	V	1	VRA MV	VRA MV	VRA	161222680	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	537	2	1	~	1	~	1	~	1	~	1		~
+VRA IP DEC 22 16	1	4	12-22-2016 10:10:20	HUL1	Grady Hull	BH	sun	V	2	VRA  MV	VRA MV	VRA	161222710	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	355	1	1	~	1	~	1	~	1	~	1		~
+VRA IP DEC 22 16	1	4	12-22-2016 10:10:20	HUL1	Grady Hull	BH	sun	V	1	VRA MV	VRA MV	VRA	161222680	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	537	2	1	~	1	~	1	~	1	~	1		~
+VRA IP DEC 22 16	1	5	12-22-2016 10:16:27	SED1	Dana Sedin	QA	sun	V	2	VRA  MV	VRA MV	VRA	161222710	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	355	1	1	~	1	~	1	~	1	~	1		~
+VRA IP DEC 22 16	1	5	12-22-2016 10:16:27	SED1	Dana Sedin	QA	sun	V	1	VRA MV	VRA MV	VRA	161222680	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	537	2	1	~	1	~	1	~	1	~	1		~
+VRA IP DEC 22 16	1	6	12-22-2016 10:17:19	SCH1	Ali Schultz	QA	sun	V	1	VRA MV	VRA MV	VRA	161222680	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	537	1	1	~	2	low tropical - mostly pine and a plastic aroma	1	~	1	~	1		~
+VRA IP DEC 22 16	1	6	12-22-2016 10:17:19	SCH1	Ali Schultz	QA	sun	V	2	VRA  MV	VRA MV	VRA	161222710	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	355	2	1	~	1	~	1	~	1	~	1		~
+VRA IP DEC 22 16	1	7	12-22-2016 10:22:51	DAR1	Kevin Darst		sun	V	1	VRA MV	VRA MV	VRA	161222680	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	537	1	1	~	1	~	1	~	1	~	1	bit of jet fuel / rubber	~
+VRA IP DEC 22 16	1	7	12-22-2016 10:22:51	DAR1	Kevin Darst		sun	V	2	VRA  MV	VRA MV	VRA	161222710	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	355	2	1	~	1	~	1	~	1	~	1		~
+VRA IP DEC 22 16	1	8	12-22-2016 10:56:06	SKI1	Dawn Skinner	FA	sun	V	1	VRA MV	VRA MV	VRA	161222680	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	537	1	1	~	1	~	1	~	1	~	1	ttb	~
+VRA IP DEC 22 16	1	8	12-22-2016 10:56:06	SKI1	Dawn Skinner	FA	sun	V	2	VRA  MV	VRA MV	VRA	161222710	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	355	2	1	~	1	~	1	~	1	~	1	ttb	~
+VRA IP DEC 22 16	1	9	12-22-2016 11:22:22	DAU1	Soren Daugaard	PKG	sun	V	2	VRA  MV	VRA MV	VRA	161222710	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	355	1	1	~	1	~	1	~	1	~	1		~
+VRA IP DEC 22 16	1	9	12-22-2016 11:22:22	DAU1	Soren Daugaard	PKG	sun	V	1	VRA MV	VRA MV	VRA	161222680	0	IP	0	0	0	12/22/16	12/22/16	12/22/16	IP	1	537	2	1	~	1	~	1	~	1	~	1		~

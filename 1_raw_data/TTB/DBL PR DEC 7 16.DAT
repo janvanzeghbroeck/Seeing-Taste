@@ -1,0 +1,31 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+DBL PR DEC 7 16	1	1	12-07-2016 10:10:49	AMP1	Nick Ampe	EHS	sun	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	2	12-07-2016 10:11:20	PET2	Ken Petroski	COF	star	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	3	12-07-2016 10:11:47	LAV2	Aaron LaVanchy	PKG	star	T	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	4	12-07-2016 10:12:18	HUL1	Grady Hull	PAD	sun	T	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	5	12-07-2016 10:12:24	MAD1	John Madigan	PKG	star	T	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	6	12-07-2016 10:21:06	DAU1	Soren Daugaard	PKG	star	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	7	12-07-2016 10:21:34	GIL1	Matty Gilliland	BH	sun	T	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+DBL PR DEC 7 16	1	8	12-07-2016 10:22:11	UNG1	Eric Unger	PKG	star	T	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	9	12-07-2016 10:22:58	DAV1	Kevin Davis	COF	sun	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	10	12-07-2016 10:24:29	KAR1	Matt Karn	BH	sun	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	11	12-07-2016 10:29:12	COG1	Paul Coggins	BH	star	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	12	12-07-2016 10:29:40	HUG1	Erin Hughes	HR	sun	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	kind of dull, so thinking it maybe me.	~
+DBL PR DEC 7 16	1	13	12-07-2016 10:29:46	SED1	Dana Sedin	QA	sun	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	14	12-07-2016 10:31:59	SAL1	Eric Salazar	BH	star	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	15	12-07-2016 10:34:48	STE1	Kelly Stewart	BH	sun	T	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	TTB	~
+DBL PR DEC 7 16	1	16	12-07-2016 10:35:28	BLE1	Billy Bletcher	COF	star	T	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	17	12-07-2016 10:37:43	HOL1	Chris Holbrook	COF	sun	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	18	12-07-2016 10:41:00	BOU1	Peter Bouckaert	PAD	sun	T	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	first to mind was puke, the S with the cereal huskyness is not very attractive to me._	~
+DBL PR DEC 7 16	1	19	12-07-2016 10:49:26	SKI1	Dawn Skinner	FA	sun	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb	~
+DBL PR DEC 7 16	1	20	12-07-2016 10:51:39	KIR1	Marie Kirkpatrick	LC	star	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	21	12-07-2016 10:52:04	SCH1	Ali Schultz	QA	sun	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	22	12-07-2016 10:53:21	RAD1	Brent Radke	QA	star	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	23	12-07-2016 10:56:09	SEE1	Shawn Seeboth	MAIN	sun	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	24	12-07-2016 11:11:42	HAG1	Andrew Hagdorn	COF	sun	T	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	25	12-07-2016 11:18:51	BIE1	Jeff Biegert	COF	sun	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb-slight caprylic, overall ok	~
+DBL PR DEC 7 16	1	26	12-07-2016 11:20:20	LIM1	Pete Limbach	EVE	star	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	27	12-07-2016 11:24:43	BAR1	Lindsay Barr	QA	sun	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	28	12-07-2016 11:26:04	VIC1	Tanya Victor	SALES	sun	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	29	12-07-2016 11:27:56	DIC2	Josh Dick	SALES	sun	T	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR DEC 7 16	1	30	12-07-2016 11:29:43	DAR1	Kevin Darst	PD	sun	V	1	DBL 1 day can	Dayblazer	DBL	161206081	1	can	0	0	0	12/07/16	12/06/16	05/07/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

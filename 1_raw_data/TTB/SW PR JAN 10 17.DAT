@@ -1,0 +1,32 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+SW PR JAN 10 17	1	1	01-10-2017 10:03:13	SAL3	Keith Salmon	PKG	star	T	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	2	01-10-2017 10:03:44	LAV2	Aaron LaVanchy	PKG	star	T	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	3	01-10-2017 10:04:15	HUL1	Grady Hull	PAD	sun	T	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	4	01-10-2017 10:06:41	FIS1	Mark Fischer	PAD	sun	T	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	5	01-10-2017 10:12:09	CHR	Rob Christiansen	QA	sun	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	6	01-10-2017 10:14:03	HAL1	Tony Hall	PKG	star	T	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	7	01-10-2017 10:14:04	HOL1	Chris Holbrook	COF	sun	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	great sw	~
+SW PR JAN 10 17	1	8	01-10-2017 10:16:45	BOU1	Peter Bouckaert	PAD	sun	T	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	2	coriander low and not bright.	1	~	1	~	2	~	coriander intensity low and not bright
+SW PR JAN 10 17	1	9	01-10-2017 10:18:50	OLO1	Kyle O'Loughlin	COF	star	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	10	01-10-2017 10:22:25	SED1	Dana Sedin	QA	sun	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	11	01-10-2017 10:24:48	PET2	Ken Petroski	COF	star	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	12	01-10-2017 10:26:54	KJO	Casey Kjolhede	FUL	sun	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	13	01-10-2017 10:29:21	DAU1	Soren Daugaard	PKG	star	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	2	low amounts of linalool	1	~	1	~	1	low amounts of linalool	~
+SW PR JAN 10 17	1	14	01-10-2017 10:29:49	HOL2	Michelle Holbrook	EVE	sun	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	slightly dull aroma but no ox notes	~
+SW PR JAN 10 17	1	15	01-10-2017 10:33:00	DUB1	Kate Dubas	SALES	sun	T	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	I noticed a lot of linalool in this SW.  Probably just because it is super fresh - doesn't seem off; just more noticable than usual for me today.	~
+SW PR JAN 10 17	1	16	01-10-2017 10:35:46	PEO1	Kaitlyn Peot	FUL	sun	T	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	17	01-10-2017 10:39:01	SKI1	Dawn Skinner	FA	sun	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb	~
+SW PR JAN 10 17	1	18	01-10-2017 10:40:28	GIL1	Matty Gilliland	BH	sun	T	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+SW PR JAN 10 17	1	19	01-10-2017 10:41:50	AMM1	Lisa Ammann	MKT	sun	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	2	aroma seemssuper dull to me.	1	~	1	~	2	~	tast and mf are fine but the aroma just sems plain. i thin kthis might be watery. i dunno
+SW PR JAN 10 17	1	20	01-10-2017 10:48:11	KOE1	Ross Koenigs	COF	star	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	21	01-10-2017 10:48:26	HUD1	Cory Hudson	IT	sun	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	22	01-10-2017 10:51:22	KAR1	Matt Karn	BH	sun	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	23	01-10-2017 10:53:03	AMP1	Nick Ampe	EHS	sun	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	2	no light sheen, pretty much bright	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	24	01-10-2017 10:57:16	DIC2	Josh Dick	SALES	sun	T	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	25	01-10-2017 11:01:07	PON1	Dave Ponceby	LC	star	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	26	01-10-2017 11:02:27	MCC1	Chris McCombs	ENG	sun	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	27	01-10-2017 11:08:05	SCH1	Ali Schultz	QA	sun	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	muted aroma	~
+SW PR JAN 10 17	1	28	01-10-2017 11:13:55	BAI1	Zach Baitinger	PUR	sun	T	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	29	01-10-2017 11:20:33	DAR1	Kevin Darst	PD	sun	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	30	01-10-2017 11:20:51	PET1	Ted Peterson	COF	star	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SW PR JAN 10 17	1	31	01-10-2017 11:25:15	MUR1	Pat Murfin	COF	sun	V	1	SW 1 day keg	Sunshine Wheat	SW	170109021	1	keg	0	0	0	01/10/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

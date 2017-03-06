@@ -1,0 +1,31 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+TRTR PR DEC 7 16	1	1	12-07-2016 10:04:48	HUL1	Grady Hull	PAD	sun	T	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	2	12-07-2016 10:11:24	AMP1	Nick Ampe	EHS	sun	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	3	12-07-2016 10:11:59	PET2	Ken Petroski	COF	star	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	4	12-07-2016 10:12:08	LAV2	Aaron LaVanchy	PKG	star	T	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	5	12-07-2016 10:12:50	MAD1	John Madigan	PKG	star	T	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	6	12-07-2016 10:21:42	DAU1	Soren Daugaard	PKG	star	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	7	12-07-2016 10:22:11	GIL1	Matty Gilliland	BH	sun	T	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+TRTR PR DEC 7 16	1	8	12-07-2016 10:22:38	UNG1	Eric Unger	PKG	star	T	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	9	12-07-2016 10:23:40	DAV1	Kevin Davis	COF	sun	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	10	12-07-2016 10:25:15	KAR1	Matt Karn	BH	sun	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	11	12-07-2016 10:29:35	COG1	Paul Coggins	BH	star	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	12	12-07-2016 10:30:19	SED1	Dana Sedin	QA	sun	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	13	12-07-2016 10:30:42	HUG1	Erin Hughes	HR	sun	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb	~
+TRTR PR DEC 7 16	1	14	12-07-2016 10:32:25	SAL1	Eric Salazar	BH	star	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	15	12-07-2016 10:35:23	STE1	Kelly Stewart	BH	sun	T	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	TTB	~
+TRTR PR DEC 7 16	1	16	12-07-2016 10:35:56	BLE1	Billy Bletcher	COF	star	T	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	17	12-07-2016 10:38:18	HOL1	Chris Holbrook	COF	sun	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	more of a medium uniform haze than a sheen, but I think this is TTB	~
+TRTR PR DEC 7 16	1	18	12-07-2016 10:42:55	BOU1	Peter Bouckaert	PAD	sun	T	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	best radler ever, ideal breakfast beer.	~
+TRTR PR DEC 7 16	1	19	12-07-2016 10:50:00	SKI1	Dawn Skinner	FA	sun	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb	~
+TRTR PR DEC 7 16	1	20	12-07-2016 10:52:43	KIR1	Marie Kirkpatrick	LC	star	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	21	12-07-2016 10:53:01	SCH1	Ali Schultz	QA	sun	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	2	transparent, light sheen	2	no strong sulfur	1	~	1	~	2	~	aroma and visual are off
+TRTR PR DEC 7 16	1	22	12-07-2016 10:53:53	RAD1	Brent Radke	QA	star	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	23	12-07-2016 10:56:32	SEE1	Shawn Seeboth	MAIN	sun	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	24	12-07-2016 11:12:25	HAG1	Andrew Hagdorn	COF	sun	T	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	25	12-07-2016 11:19:54	BIE1	Jeff Biegert	COF	sun	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb-clean, big bright ginger aroma	~
+TRTR PR DEC 7 16	1	26	12-07-2016 11:20:53	LIM1	Pete Limbach	EVE	star	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	27	12-07-2016 11:25:06	BAR1	Lindsay Barr	QA	sun	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	28	12-07-2016 11:26:37	VIC1	Tanya Victor	SALES	sun	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	a bit of sulfur at first maybe h2s....but overall ttb	~
+TRTR PR DEC 7 16	1	29	12-07-2016 11:28:30	DIC2	Josh Dick	SALES	sun	T	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TRTR PR DEC 7 16	1	30	12-07-2016 11:30:03	DAR1	Kevin Darst	PD	sun	V	1	TRTA 2 day can	Tartastic	TRTA	161205061	2	can	0	0	0	12/07/16	12/05/16	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

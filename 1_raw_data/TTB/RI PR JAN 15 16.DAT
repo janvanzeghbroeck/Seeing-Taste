@@ -1,0 +1,33 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+RI PR JAN 15 16	1	1	01-15-2016 10:09:28	SAL1	Eric Salazar	BH	star	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	2	01-15-2016 10:10:03	COG1	Paul Coggins	BH	star	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	3	01-15-2016 10:10:40	REI1	Cody Reif	QA	sun	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	4	01-15-2016 10:13:05	MAD1	John Madigan	PKG	star	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	2	very dry	1	very dry with astrigent	~
+RI PR JAN 15 16	1	5	01-15-2016 10:15:47	SED1	Dana Sedin	QA	sun	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	sheen and chunks	~
+RI PR JAN 15 16	1	6	01-15-2016 10:17:29	FIS1	Mark Fischer	PAD	sun	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	7	01-15-2016 10:18:40	DIC2	Gary Dick	BH	sun	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	8	01-15-2016 10:19:50	BOG1	Brian Bogan	EVE	sun	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	9	01-15-2016 10:20:35	NOR1	Ryan Norwood	QA	sun	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	10	01-15-2016 10:26:04	BUR1	Travis Burge	BH	sun	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	11	01-15-2016 10:27:16	HOL1	Chris Holbrook	COF	sun	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	12	01-15-2016 10:29:08	KOL1	Katy Koller	PD	sun	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	13	01-15-2016 10:32:17	DAU1	Soren Daugaard	PKG	star	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	14	01-15-2016 10:34:51	KJO	Casey Kjolhede	FUL	sun	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	15	01-15-2016 10:35:48	PET2	Ken Petroski	COF	star	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	16	01-15-2016 10:36:34	BOU1	Peter Bouckaert	PAD	sun	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	love this beer	~
+RI PR JAN 15 16	1	17	01-15-2016 10:37:35	MIT1	Andy Mitchell	COF	star	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	18	01-15-2016 10:40:48	SEE1	Shawn Seeboth	MAIN	sun	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	19	01-15-2016 10:41:34	DUF1	Emily Dufficy	LC	star	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	20	01-15-2016 10:43:00	HOL2	Michelle Holbrook	EVE	sun	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	21	01-15-2016 10:48:51	PEO1	Kaitlyn Peot	FUL	sun	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	22	01-15-2016 10:48:52	HAG1	Andrew Hagdorn	COF	sun	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	23	01-15-2016 10:51:37	GIL2	Penelope Gilliland	LC	star	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	24	01-15-2016 10:58:20	PET3	Tyler Peters	LC	star	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	25	01-15-2016 11:11:24	IRB1	Jeff Irby	QA	star	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	some sl veggie aromas in the finish	~
+RI PR JAN 15 16	1	26	01-15-2016 11:18:49	AMM1	Lisa Ammann	MKT	sun	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	27	01-15-2016 11:22:05	DIC1	Perry Dickerson	QA	sun	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	28	01-15-2016 11:23:38	UNG1	Eric Unger	PKG	star	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	30	01-15-2016 11:28:13	PON1	Dave Ponceby	LC	star	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	31	01-15-2016 11:29:57	BAN1	Tamar Banner	COF	sun	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	32	01-15-2016 11:30:18	BLE1	Billy Bletcher	COF	star	T	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RI PR JAN 15 16	1	33	01-15-2016 11:35:07	PET1	Ted Peterson	COF	star	V	1	RI 1 day bottle	Rye IPA	RI	160114011	1	bottle	0	0	0	01/15/16	01/14/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

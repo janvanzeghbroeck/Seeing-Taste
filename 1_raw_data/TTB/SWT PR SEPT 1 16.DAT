@@ -1,0 +1,20 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+SWT PR SEPT 1 16	1	1	09-01-2016 10:05:36	DAU1	Soren Daugaard	PKG	star	V	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	2	loads of lacto/dms aroma	1	~	1	~	1	loads of lacto/dms aroma with some H2S on the retro	~
+SWT PR SEPT 1 16	1	2	09-01-2016 10:07:37	HUL1	Grady Hull	PAD	sun	T	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR SEPT 1 16	1	3	09-01-2016 10:16:03	PET2	Ken Petroski	COF	star	V	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR SEPT 1 16	1	4	09-01-2016 10:28:14	BEE1	Bethany Beers	PD	sun	V	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR SEPT 1 16	1	5	09-01-2016 10:31:36	FIS1	Mark Fischer	PAD	sun	T	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR SEPT 1 16	1	6	09-01-2016 10:33:37	HOL2	Michelle Holbrook	EVE	sun	V	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR SEPT 1 16	1	7	09-01-2016 10:36:06	SEE1	Shawn Seeboth	MAIN	sun	V	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR SEPT 1 16	1	8	09-01-2016 10:36:52	LAV2	Aaron LaVanchy	PKG	star	T	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR SEPT 1 16	1	9	09-01-2016 10:36:56	SAL3	Keith Salmon	PKG	star	T	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR SEPT 1 16	1	10	09-01-2016 10:52:50	HOL1	Chris Holbrook	COF	sun	T	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR SEPT 1 16	1	11	09-01-2016 10:55:19	BOU1	Peter Bouckaert	PAD	sun	T	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	too soft acidity or too sweet?	~
+SWT PR SEPT 1 16	1	12	09-01-2016 10:58:48	SED1	Dana Sedin	QA	sun	V	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR SEPT 1 16	1	13	09-01-2016 11:01:30	GIL2	Penelope Gilliland	LC	star	T	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR SEPT 1 16	1	14	09-01-2016 11:05:21	RAD1	Brent Radke	QA	star	V	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR SEPT 1 16	1	15	09-01-2016 11:10:53	BOG1	Brian Bogan	EVE	sun	T	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR SEPT 1 16	1	16	09-01-2016 11:11:45	DIC2	Josh Dick	SALES	sun	T	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR SEPT 1 16	1	17	09-01-2016 11:14:09	BAN1	Tamar Banner	COF	sun	V	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	nice level of sourness	~
+SWT PR SEPT 1 16	1	18	09-01-2016 11:23:31	LIM1	Pete Limbach	EVE	star	V	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SWT PR SEPT 1 16	1	19	09-01-2016 11:25:04	AMP1	Nick Ampe	EHS	sun	V	1	SWT 1 day bottle	Snapshot	SWT	160831043	1	bottle	0	0	0	09/01/16	08/31/16	01/29/17	PR	1	626	1	1	~	2	acetaldehyde very apparent after cover and smell	1	~	1	~	2	~	acetaldehyde

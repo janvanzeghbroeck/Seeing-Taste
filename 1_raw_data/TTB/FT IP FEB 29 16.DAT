@@ -1,0 +1,14 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT IP FEB 29 16	1	1	02-29-2016 10:14:30	SED1	Dana Sedin	QA	sun	V	1	FT MV	FT MV	FT	160229570	0	IP	0	0	0	02/29/16	02/29/16	02/29/16	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+FT IP FEB 29 16	1	2	02-29-2016 10:16:38	MIT1	Andy Mitchell	COF	star	V	1	FT MV	FT MV	FT	160229570	0	IP	0	0	0	02/29/16	02/29/16	02/29/16	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+FT IP FEB 29 16	1	3	02-29-2016 10:17:38	NOR1	Ryan Norwood	QA	sun	V	1	FT MV	FT MV	FT	160229570	0	IP	0	0	0	02/29/16	02/29/16	02/29/16	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+FT IP FEB 29 16	1	4	02-29-2016 10:31:34	DAV1	Kevin Davis	COF	sun	V	1	FT MV	FT MV	FT	160229570	0	IP	0	0	0	02/29/16	02/29/16	02/29/16	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+FT IP FEB 29 16	1	5	02-29-2016 10:37:03	DAR1	Kevin Darst		sun	V	1	FT MV	FT MV	FT	160229570	0	IP	0	0	0	02/29/16	02/29/16	02/29/16	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+FT IP FEB 29 16	1	6	02-29-2016 10:43:05	BAN1	Tamar Banner	COF	star	V	1	FT MV	FT MV	FT	160229570	0	IP	0	0	0	02/29/16	02/29/16	02/29/16	IP	1	641	1	1	~	1	~	1	~	1	~	1	based on the visual, this is a really young MV.  which is why it tastes a little like home brew (some acetaldehyde, really jammy, high esters, high ABV, kind of yeasty).	~
+FT IP FEB 29 16	1	7	02-29-2016 10:50:25	SKI1	Dawn Skinner	FA	sun	V	1	FT MV	FT MV	FT	160229570	0	IP	0	0	0	02/29/16	02/29/16	02/29/16	IP	1	641	1	2	more than just sl hazy- opaque.	1	~	1	~	1	~	1	ttb	~
+FT IP FEB 29 16	1	8	02-29-2016 11:12:31	DAU1	Soren Daugaard	PKG	sun	V	1	FT MV	FT MV	FT	160229570	0	IP	0	0	0	02/29/16	02/29/16	02/29/16	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+FT IP FEB 29 16	1	9	02-29-2016 11:14:20	DIC1	Perry Dickerson	QA	sun	V	1	FT MV	FT MV	FT	160229570	0	IP	0	0	0	02/29/16	02/29/16	02/29/16	IP	1	641	1	1	~	1	~	2	sl high sour	1	~	1	sl high sour	~
+FT IP FEB 29 16	1	10	02-29-2016 11:16:46	KOS1	Isaac Koski	COF	star	T	1	FT MV	FT MV	FT	160229570	0	IP	0	0	0	02/29/16	02/29/16	02/29/16	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+FT IP FEB 29 16	1	11	02-29-2016 11:18:59	HUL1	Grady Hull	BH	sun	V	1	FT MV	FT MV	FT	160229570	0	IP	0	0	0	02/29/16	02/29/16	02/29/16	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+FT IP FEB 29 16	1	12	02-29-2016 11:34:18	BIE2	Jeff Biegert	COF	star	V	1	FT MV	FT MV	FT	160229570	0	IP	0	0	0	02/29/16	02/29/16	02/29/16	IP	1	641	1	1	~	1	~	1	~	1	~	1	ttb more sweet and maltier than normal	~
+FT IP FEB 29 16	1	13	02-29-2016 11:40:39	BAR1	Lindsay Barr	QA	sun	V	1	FT MV	FT MV	FT	160229570	0	IP	0	0	0	02/29/16	02/29/16	02/29/16	IP	1	641	1	1	~	1	~	1	~	1	~	1		~

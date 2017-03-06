@@ -1,0 +1,29 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+SH PR OCT 8 15	1	1	10-08-2015 10:11:00	STU1	Andrew Sturm	COF	star	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	2	10-08-2015 10:11:14	COG1	Paul Coggins	BH	star	T	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	3	10-08-2015 10:12:57	OLO1	Kyle O'Loughlin	COF	star	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	4	10-08-2015 10:15:39	MAD1	John Madigan	PKG	star	T	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	5	10-08-2015 10:15:41	HOL1	Chris Holbrook	COF	sun	T	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	6	10-08-2015 10:22:21	NOR1	Ryan Norwood	QA	sun	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	7	10-08-2015 10:23:01	DIC1	Perry Dickerson	QA	sun	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	8	10-08-2015 10:24:29	FIS1	Mark Fischer	PAD	sun	T	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	9	10-08-2015 10:27:58	DAR1	Kevin Darst	PD	sun	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	10	10-08-2015 10:30:43	REI1	Cody Reif	QA	sun	T	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	11	10-08-2015 10:31:01	HUL1	Grady Hull	PAD	sun	T	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	12	10-08-2015 10:38:16	DAV1	Kevin Davis	COF	sun	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	13	10-08-2015 10:39:19	RAD1	Brent Radke	QA	star	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	14	10-08-2015 10:39:42	TRU1	Jason Trujillo	QA	sun	T	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	15	10-08-2015 10:47:00	MUR1	Pat Murfin	COF	sun	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	16	10-08-2015 10:49:19	BOU1	Peter Bouckaert	PAD	sun	T	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	nice lager, Nelson a bit over the top - PFB	~
+SH PR OCT 8 15	1	17	10-08-2015 10:56:18	SCH1	Ali Schultz	QA	sun	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	fuck yes.	~
+SH PR OCT 8 15	1	18	10-08-2015 10:59:03	DAU1	Soren Daugaard	PKG	star	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	19	10-08-2015 11:00:11	KOE1	Ross Koenigs	COF	star	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	20	10-08-2015 11:05:13	PEO1	Kaitlyn Peot	FUL	sun	T	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	21	10-08-2015 11:05:45	KIR2	Kaylyn Kirkpatrick	QA	star	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	22	10-08-2015 11:12:13	GIL2	Penelope Gilliland	LC	star	T	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	23	10-08-2015 11:13:15	HOL2	Michelle Holbrook	EVE	sun	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	24	10-08-2015 11:13:47	BAI1	Zach Baitinger	PUR	sun	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	25	10-08-2015 11:18:52	PET1	Ted Peterson	COF	star	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	26	10-08-2015 11:25:40	AMP1	Nick Ampe	EHS	sun	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	27	10-08-2015 11:26:14	MCC1	Chris McCombs	ENG	sun	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+SH PR OCT 8 15	1	28	10-08-2015 11:27:38	IRB1	Jeff Irby	QA	star	V	1	SH 1 day keg	Shift	SH	151007081	1	keg	0	0	0	10/08/15	10/07/15	02/14/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

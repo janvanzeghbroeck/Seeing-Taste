@@ -1,0 +1,10 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+BP IP MV 70 MAY 20 16	1	1	05-20-2016 10:02:02	SCH1	Ali Schultz	QA	sun	V	1	BP MV	BP MV	BP	160520700	0	IP	0	0	0	05/20/16	05/20/16	05/20/16	IP	1	641	1	1	~	1	~	2	bitter linger isn't harsh...quite pleasant, actually!	1	~	1		~
+BP IP MV 70 MAY 20 16	1	2	05-20-2016 10:10:03	MCC1	Chris McCombs	ENG	sun	V	1	BP MV	BP MV	BP	160520700	0	IP	0	0	0	05/20/16	05/20/16	05/20/16	IP	1	641	1	1	~	1	~	1	~	1	~	1	ttb	~
+BP IP MV 70 MAY 20 16	1	3	05-20-2016 10:18:22	HUG1	Erin Hughes	TLC	star	v	1	BP MV	BP MV	BP	160520700	0	IP	0	0	0	05/20/16	05/20/16	05/20/16	IP	1	641	1	1	~	1	~	1	~	1	~	1	ttb	~
+BP IP MV 70 MAY 20 16	1	4	05-20-2016 10:25:07	PET2	Ken Petroski	COF	star	V	1	BP MV	BP MV	BP	160520700	0	IP	0	0	0	05/20/16	05/20/16	05/20/16	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+BP IP MV 70 MAY 20 16	1	5	05-20-2016 10:35:26	SEE1	Shawn Seeboth	PD	sun	V	1	BP MV	BP MV	BP	160520700	0	IP	0	0	0	05/20/16	05/20/16	05/20/16	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+BP IP MV 70 MAY 20 16	1	6	05-20-2016 10:55:26	PET1	Ted Peterson	COF	star	V	1	BP MV	BP MV	BP	160520700	0	IP	0	0	0	05/20/16	05/20/16	05/20/16	IP	1	641	1	1	~	1	~	1	~	1	~	1	awfully pilsenery, to me	~
+BP IP MV 70 MAY 20 16	1	7	05-20-2016 10:56:48	FUE1	Jacob Fuentes	QA	sun	T	1	BP MV	BP MV	BP	160520700	0	IP	0	0	0	05/20/16	05/20/16	05/20/16	IP	1	641	1	1	~	1	~	1	~	1	~	1		~
+BP IP MV 70 MAY 20 16	1	8	05-20-2016 11:04:48	DAR1	Kevin Darst		sun	V	1	BP MV	BP MV	BP	160520700	0	IP	0	0	0	05/20/16	05/20/16	05/20/16	IP	1	641	1	1	~	2	big stinky sock aroma going on in the ortho. not sure if it's mercaptan or isovaleric, or even caprylic	1	~	1	~	2	~	stinky socks
+BP IP MV 70 MAY 20 16	1	9	05-20-2016 11:22:53	VAN1	Sarah VanVlerah	LC	star	V	1	BP MV	BP MV	BP	160520700	0	IP	0	0	0	05/20/16	05/20/16	05/20/16	IP	1	641	1	1	~	1	~	1	~	1	~	1		~

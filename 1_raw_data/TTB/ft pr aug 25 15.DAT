@@ -1,0 +1,35 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT PR AUG 25 15	1	1	08-25-2015 10:01:45	HOL1	Chris Holbrook	COF	sun	T	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	2	08-25-2015 10:03:19	DAU1	Soren Daugaard	PKG	star	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	3	08-25-2015 10:03:47	SAL3	Keith Salmon	PKG	star	T	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	4	08-25-2015 10:03:56	LAV2	Aaron LaVanchy	PKG	star	T	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	5	08-25-2015 10:04:32	MIT1	Andy Mitchell	COF	star	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	6	08-25-2015 10:11:45	HAL1	Tony Hall	PKG	star	T	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	7	08-25-2015 10:12:15	FIS1	Mark Fischer	PAD	sun	T	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	8	08-25-2015 10:12:27	BOG1	Brian Bogan	EVE	sun	T	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	9	08-25-2015 10:13:45	HUL1	Grady Hull	PAD	sun	T	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	10	08-25-2015 10:14:28	NOR1	Ryan Norwood	QA	sun	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	11	08-25-2015 10:19:43	DAR1	Kevin Darst	PD	sun	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	12	08-25-2015 10:24:45	PET1	Ted Peterson	COF	star	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	2	v sl aged?	1	~	1	~	1	seemed to maybe have slight aged aromas	~
+FT PR AUG 25 15	1	13	08-25-2015 10:27:32	DAV1	Kevin Davis	COF	sun	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	14	08-25-2015 10:37:10	KIR1	Marie Kirkpatrick	LC	star	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	15	08-25-2015 10:39:05	GUE4	Lindsay Guerdrum	QA	sun	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	16	08-25-2015 10:41:29	TRE1	Kelly Tretter	QA	sun	T	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	17	08-25-2015 10:43:11	LIM1	Pete Limbach	EVE	star	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	2	particulate	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	18	08-25-2015 10:45:13	SED1	Dana Sedin	QA	sun	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	19	08-25-2015 10:46:46	RAD1	Brent Radke	QA	star	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	20	08-25-2015 10:46:48	SEE1	Shawn Seeboth	MAIN	sun	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	21	08-25-2015 10:50:15	AMP1	Nick Ampe	EHS	sun	T	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	22	08-25-2015 10:55:04	VAN1	Sarah VanVlerah	LC	star	T	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	23	08-25-2015 10:56:28	SCH1	Ali Schultz	QA	sun	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	2	large particulate	1	~	1	~	1	~	1	higher caramel malt, and nasty particulate floating all up in there, weird diacetyl thing	~
+FT PR AUG 25 15	1	24	08-25-2015 11:01:16	GIL2	Penelope Gilliland	LC	star	T	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	2	aged	2	aged	2	aged	2	~	smells like paper, slight sherry aroma, bland hop/malt attributes, aged
+FT PR AUG 25 15	1	25	08-25-2015 11:10:45	HOL2	Michelle Holbrook	EVE	sun	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	26	08-25-2015 11:12:24	HAG1	Andrew Hagdorn	COF	sun	T	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	27	08-25-2015 11:17:20	BAN1	Tamar Banner	COF	sun	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	2	many small particles	1	~	1	~	1	~	1	visual not great, otherwise ttb	~
+FT PR AUG 25 15	1	28	08-25-2015 11:19:25	REI1	Cody Reif	QA	sun	T	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	29	08-25-2015 11:28:59	SAL2	Lauren Salazar	QA	star	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	sl harsh metallic almost	~
+FT PR AUG 25 15	1	30	08-25-2015 11:29:56	HUG1	Erin Hughes	HR	sun	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb	~
+FT PR AUG 25 15	1	31	08-25-2015 11:30:31	BAI1	Zach Baitinger	PUR	sun	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	extra malty?  some strong after bitter	~
+FT PR AUG 25 15	1	32	08-25-2015 11:30:45	AMM1	Lisa Ammann	MKT	sun	T	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	33	08-25-2015 11:31:35	MUR1	Pat Murfin	COF	sun	V	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 25 15	1	34	08-25-2015 11:37:48	KOE1	Ross Koenigs	COF	star	T	1	FT 0 Day Bottle	Fat Tire	FT	150825081	0	bottle	0	0	0	08/25/15	08/25/15	01/03/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

@@ -1,0 +1,70 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT PR MAY 13 16	1	1	05-13-2016 10:01:38	DAU1	Soren Daugaard	PKG	star	V	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	1	05-13-2016 10:01:38	DAU1	Soren Daugaard	PKG	star	V	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	1	05-13-2016 10:01:38	DAU1	Soren Daugaard	PKG	star	V	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	2	05-13-2016 10:05:11	HUL1	Grady Hull	PAD	sun	T	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	2	05-13-2016 10:05:11	HUL1	Grady Hull	PAD	sun	T	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	2	05-13-2016 10:05:11	HUL1	Grady Hull	PAD	sun	T	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	3	05-13-2016 10:08:30	BAI1	Zach Baitinger	PUR	sun	T	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	3	05-13-2016 10:08:30	BAI1	Zach Baitinger	PUR	sun	T	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	3	05-13-2016 10:08:30	BAI1	Zach Baitinger	PUR	sun	T	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	4	05-13-2016 10:10:04	KOS1	Isaac Koski	BH	star	V	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	4	05-13-2016 10:10:04	KOS1	Isaac Koski	BH	star	V	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	4	05-13-2016 10:10:04	KOS1	Isaac Koski	BH	star	V	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	5	05-13-2016 10:10:22	COG1	Paul Coggins	BH	star	V	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	5	05-13-2016 10:10:22	COG1	Paul Coggins	BH	star	V	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	5	05-13-2016 10:10:22	COG1	Paul Coggins	BH	star	V	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	6	05-13-2016 10:10:40	MUR1	Pat Murfin	COF	sun	V	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	6	05-13-2016 10:10:40	MUR1	Pat Murfin	COF	sun	V	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	6	05-13-2016 10:10:40	MUR1	Pat Murfin	COF	sun	V	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	7	05-13-2016 10:12:37	PET3	Tyler Peters	LC	star	T	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	7	05-13-2016 10:12:37	PET3	Tyler Peters	LC	star	T	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	7	05-13-2016 10:12:37	PET3	Tyler Peters	LC	star	T	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	3	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	8	05-13-2016 10:13:26	BAN1	Tamar Banner	COF	sun	V	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	1	1	~	1	~	1	~	1	~	1	malt character somewhat lacking	~
+FT PR MAY 13 16	1	8	05-13-2016 10:13:26	BAN1	Tamar Banner	COF	sun	V	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	2	1	~	1	~	1	~	1	~	1	malt character/aroma better than last sample.  now here's what's weird - for the second time this week, i've gotten a distinct 3-hexenol aroma in the retronasal. fleeting, but there.	~
+FT PR MAY 13 16	1	8	05-13-2016 10:13:26	BAN1	Tamar Banner	COF	sun	V	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	3	1	~	1	~	1	~	1	~	1	high caramel flavor.	~
+FT PR MAY 13 16	1	9	05-13-2016 10:14:29	DAV1	Kevin Davis	COF	sun	V	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	9	05-13-2016 10:14:29	DAV1	Kevin Davis	COF	sun	V	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	2	1	~	2	low diacetyl, or 'dairy like' DMS - creamed corn	1	~	1	~	2	~	wierd dairy-like flavor
+FT PR MAY 13 16	1	9	05-13-2016 10:14:29	DAV1	Kevin Davis	COF	sun	V	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	10	05-13-2016 10:15:26	DAR1	Kevin Darst	PD	sun	V	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	10	05-13-2016 10:15:26	DAR1	Kevin Darst	PD	sun	V	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	2	1	~	2	noticable mercaptan. smells like a drain.	1	~	1	~	2	~	mercaptan, mercaptan
+FT PR MAY 13 16	1	10	05-13-2016 10:15:26	DAR1	Kevin Darst	PD	sun	V	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	3	1	~	2	a little papery, a little ... almost ... vanilla or somethinbg.	1	~	1	~	2	~	see aroma
+FT PR MAY 13 16	1	11	05-13-2016 10:15:55	FIS1	Mark Fischer	PAD	sun	T	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	11	05-13-2016 10:15:55	FIS1	Mark Fischer	PAD	sun	T	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	11	05-13-2016 10:15:55	FIS1	Mark Fischer	PAD	sun	T	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	12	05-13-2016 10:19:51	HOL2	Michelle Holbrook	EVE	sun	V	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	12	05-13-2016 10:19:51	HOL2	Michelle Holbrook	EVE	sun	V	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	2	1	~	2	i get a smidge of sulfiDIC + ttb	1	~	2	seems a bit astringent	1	i left a few notes but was not sure if I should no go it	~
+FT PR MAY 13 16	1	12	05-13-2016 10:19:51	HOL2	Michelle Holbrook	EVE	sun	V	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	3	1	~	2	smidge of sulphiDIC	1	~	1	~	1	smidge of hot springs in my sample	~
+FT PR MAY 13 16	1	13	05-13-2016 10:24:43	STE1	Kelly Stewart	BH	sun	T	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	1	1	~	1	~	1	~	1	~	1	TTB	~
+FT PR MAY 13 16	1	13	05-13-2016 10:24:43	STE1	Kelly Stewart	BH	sun	T	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	2	1	~	1	~	1	~	1	~	1	TTB	~
+FT PR MAY 13 16	1	13	05-13-2016 10:24:43	STE1	Kelly Stewart	BH	sun	T	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	3	1	~	1	~	1	~	1	~	1	TTB	~
+FT PR MAY 13 16	1	14	05-13-2016 10:27:57	BOU1	Peter Bouckaert	PAD	sun	T	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	1	1	~	1	~	1	~	1	~	1	bit trashy S	~
+FT PR MAY 13 16	1	14	05-13-2016 10:27:57	BOU1	Peter Bouckaert	PAD	sun	T	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	2	1	~	1	~	1	~	1	~	1	bit beery S, making a thinner perception._	~
+FT PR MAY 13 16	1	14	05-13-2016 10:27:57	BOU1	Peter Bouckaert	PAD	sun	T	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	3	1	~	2	tit diacetyl like, do not recognize it as such but all atributes are pointing that direction like buttery aroma, bit sweeter and slicker.	1	~	1	~	2	~	on the fence for this one, a bit a toss up.  Diacetyl like perception, some more sweet malty than normal
+FT PR MAY 13 16	1	15	05-13-2016 10:30:50	BLE1	Billy Bletcher	COF	star	T	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	15	05-13-2016 10:30:50	BLE1	Billy Bletcher	COF	star	T	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	15	05-13-2016 10:30:50	BLE1	Billy Bletcher	COF	star	T	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	16	05-13-2016 10:31:56	KJO	Casey Kjolhede	FUL	sun	V	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	16	05-13-2016 10:31:56	KJO	Casey Kjolhede	FUL	sun	V	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	16	05-13-2016 10:31:56	KJO	Casey Kjolhede	FUL	sun	V	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	3	1	~	2	diacetyl	2	diacetyl	2	diacetyl	2	~	diacetyl
+FT PR MAY 13 16	1	17	05-13-2016 10:32:38	HOL1	Chris Holbrook	COF	sun	T	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	17	05-13-2016 10:32:38	HOL1	Chris Holbrook	COF	sun	T	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	2	1	~	1	~	1	~	1	~	1	slight H2S in aroma	~
+FT PR MAY 13 16	1	17	05-13-2016 10:32:38	HOL1	Chris Holbrook	COF	sun	T	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	3	1	~	2	diacetyl, caramel, aged	1	~	1	~	2	~	diacetyl, caramel corn, aged
+FT PR MAY 13 16	1	18	05-13-2016 10:39:13	HAL1	Tony Hall	PKG	star	T	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	18	05-13-2016 10:39:13	HAL1	Tony Hall	PKG	star	T	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	18	05-13-2016 10:39:13	HAL1	Tony Hall	PKG	star	T	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	19	05-13-2016 10:53:27	BAR1	Lindsay Barr	QA	sun	V	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	1	1	~	1	~	1	~	2	sl thin	1		~
+FT PR MAY 13 16	1	19	05-13-2016 10:53:27	BAR1	Lindsay Barr	QA	sun	V	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	2	1	~	2	mercaptan	1	~	1	~	2	~	mer
+FT PR MAY 13 16	1	19	05-13-2016 10:53:27	BAR1	Lindsay Barr	QA	sun	V	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	3	1	~	2	leathery	1	~	2	astrin	2	~	leathery...
+FT PR MAY 13 16	1	20	05-13-2016 10:53:47	MCC1	Chris McCombs	ENG	sun	V	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	20	05-13-2016 10:53:47	MCC1	Chris McCombs	ENG	sun	V	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	20	05-13-2016 10:53:47	MCC1	Chris McCombs	ENG	sun	V	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	3	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	21	05-13-2016 11:21:24	HUD1	Cory Hudson	IT	sun	T	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	21	05-13-2016 11:21:24	HUD1	Cory Hudson	IT	sun	T	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	2	1	~	1	~	1	~	1	~	1	overall ttb, but I would say sweetness on taste was a little light and aroma wise, I felt the DMS/ehex was stronger than in some others, but not overpowering.	~
+FT PR MAY 13 16	1	21	05-13-2016 11:21:24	HUD1	Cory Hudson	IT	sun	T	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	3	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	22	05-13-2016 11:25:08	KOE1	Ross Koenigs	COF	star	V	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	22	05-13-2016 11:25:08	KOE1	Ross Koenigs	COF	star	V	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	2	1	~	2	low level diacetyl	1	~	2	a little slick	2	~	low level diacetyl
+FT PR MAY 13 16	1	22	05-13-2016 11:25:08	KOE1	Ross Koenigs	COF	star	V	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	23	05-13-2016 11:27:04	PET1	Ted Peterson	COF	star	V	3	FT 0 day keg	Fat Tire	FT	160513081	0	keg	0	0	0	05/13/16	05/13/16	05/13/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	23	05-13-2016 11:27:04	PET1	Ted Peterson	COF	star	V	2	FT 1 day keg	Fat Tire	FT	160512037	1	keg	0	0	0	05/13/16	05/12/16	05/13/16	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 13 16	1	23	05-13-2016 11:27:04	PET1	Ted Peterson	COF	star	V	1	FT 7 day bottle	Fat Tire	FT	160506033	2	bottle	0	0	0	05/13/16	05/06/16	09/24/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~

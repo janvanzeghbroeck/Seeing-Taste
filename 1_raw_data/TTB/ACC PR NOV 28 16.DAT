@@ -1,0 +1,29 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+ACC PR NOV 28 16	1	1	11-28-2016 10:05:07	LAV2	Aaron LaVanchy	PKG	star	T	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	2	11-28-2016 10:06:12	STE1	Kelly Stewart	BH	sun	T	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	TTB	~
+ACC PR NOV 28 16	1	3	11-28-2016 10:06:23	HOL1	Chris Holbrook	COF	sun	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	4	11-28-2016 10:07:28	BOG1	Brian Bogan	EVE	sun	T	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	5	11-28-2016 10:14:55	GIL1	Matty Gilliland	BH	sun	T	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+ACC PR NOV 28 16	1	6	11-28-2016 10:15:07	PET1	Ted Peterson	COF	star	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	dirty diesel hop aroma	~
+ACC PR NOV 28 16	1	7	11-28-2016 10:17:34	HUL1	Grady Hull	PAD	sun	T	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	8	11-28-2016 10:19:47	DAV1	Kevin Davis	COF	sun	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	9	11-28-2016 10:22:04	TRU1	Jason Trujillo	QA	sun	T	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	10	11-28-2016 10:29:06	HUD1	Cory Hudson	IT	sun	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	11	11-28-2016 10:30:09	HAG1	Andrew Hagdorn	COF	sun	T	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	12	11-28-2016 10:33:10	MAD1	John Madigan	PKG	star	T	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	13	11-28-2016 10:38:53	SAL1	Eric Salazar	BH	star	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	14	11-28-2016 10:41:23	SCH1	Ali Schultz	QA	sun	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	15	11-28-2016 10:44:35	BAR1	Lindsay Barr	QA	sun	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	16	11-28-2016 10:45:26	VIC1	Tanya Victor	SALES	sun	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	17	11-28-2016 10:48:56	KAR1	Matt Karn	BH	sun	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	18	11-28-2016 10:54:37	DAU1	Soren Daugaard	PKG	star	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	19	11-28-2016 10:55:17	BEE1	Bethany Beers	PD	sun	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	20	11-28-2016 10:58:14	SKI1	Dawn Skinner	FA	sun	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb	~
+ACC PR NOV 28 16	1	21	11-28-2016 11:03:16	RAD1	Brent Radke	QA	star	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	that's a nice sheen!	~
+ACC PR NOV 28 16	1	22	11-28-2016 11:05:33	CON1	Karl Conklin	QA	sun	T	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	23	11-28-2016 11:06:14	KOE1	Ross Koenigs	COF	star	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	24	11-28-2016 11:11:25	PET2	Ken Petroski	COF	star	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	25	11-28-2016 11:16:14	MCC1	Chris McCombs	ENG	sun	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	26	11-28-2016 11:22:46	BOU1	Peter Bouckaert	PAD	sun	T	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	lovely	~
+ACC PR NOV 28 16	1	27	11-28-2016 11:31:38	DAR1	Kevin Darst	PD	sun	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+ACC PR NOV 28 16	1	28	11-28-2016 11:34:13	BIE1	Jeff Biegert	COF	sun	V	1	ACC 1 day bottle	Accumulation	ACC	161127041	1	bottle	0	0	0	11/28/16	11/27/16	04/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb-hops, quite variable visual this season, from bright to medium haze!!!	~

@@ -1,0 +1,30 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+RA PR MAY 9 16	1	1	05-09-2016 10:11:22	KOS1	Isaac Koski	BH	star	V	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	this was for the ranger sample	~
+RA PR MAY 9 16	1	2	05-09-2016 10:13:05	COG1	Paul Coggins	BH	star	V	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	3	05-09-2016 10:13:52	LAV2	Aaron LaVanchy	PKG	star	T	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	4	05-09-2016 10:14:22	HUL1	Grady Hull	PAD	sun	T	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	5	05-09-2016 10:14:52	DAV1	Kevin Davis	COF	sun	V	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	6	05-09-2016 10:23:25	FIS1	Mark Fischer	PAD	sun	T	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	7	05-09-2016 10:23:32	SAL3	Keith Salmon	PKG	star	T	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	8	05-09-2016 10:26:02	BAR2	Ben Barrett	SALES	sun	T	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	9	05-09-2016 10:26:50	HAL1	Tony Hall	PKG	star	T	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	10	05-09-2016 10:27:16	GUE2	Josh Dick	GUE		T	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	11	05-09-2016 10:30:46	PEO1	Kaitlyn Peot	FUL	sun	T	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	2	very dull lacking any myrcene and citrus aroma	1	~	1	~	1		~
+RA PR MAY 9 16	1	12	05-09-2016 10:30:50	SED1	Dana Sedin	QA	sun	V	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	13	05-09-2016 10:40:19	MUR1	Pat Murfin	COF	sun	V	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	14	05-09-2016 10:40:43	LIM1	Pete Limbach	EVE	star	V	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	mega myrcene, catty	~
+RA PR MAY 9 16	1	15	05-09-2016 10:41:04	KIR1	Marie Kirkpatrick	LC	star	V	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	16	05-09-2016 10:42:24	HUG1	Erin Hughes	HR	sun	V	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	gets more aromatic in the retro	~
+RA PR MAY 9 16	1	17	05-09-2016 10:42:46	HOL2	Michelle Holbrook	EVE	sun	V	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	18	05-09-2016 10:51:24	KJO	Casey Kjolhede	FUL	sun	V	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	19	05-09-2016 10:51:50	HOL1	Chris Holbrook	COF	sun	T	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	20	05-09-2016 10:53:00	AMP1	Nick Ampe	EHS	sun	V	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	2	citrus is lacking, but still ttb	1	~	1	~	1	lacking a bit of citrus aroma, but still ttb	~
+RA PR MAY 9 16	1	21	05-09-2016 10:54:30	PON1	Dave Ponceby	LC	star	V	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	22	05-09-2016 10:54:33	BOU1	Peter Bouckaert	PAD	sun	T	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	nice citrussy.	~
+RA PR MAY 9 16	1	23	05-09-2016 11:11:34	BEE1	Bethany Beers	PD	sun	T	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	24	05-09-2016 11:12:10	FUE1	Jacob Fuentes	QA	sun	T	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	25	05-09-2016 11:12:24	BAR1	Lindsay Barr	QA	sun	V	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	2	pineapple fruityness and less myrcene	2	not as bitter	2	juicy	2	~	fruity, less bitter and juicy_
+RA PR MAY 9 16	1	26	05-09-2016 11:14:05	KAR1	Matt Karn	BH	sun	T	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	27	05-09-2016 11:14:34	PET3	Tyler Peters	LC	star	T	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	28	05-09-2016 11:19:32	BLE1	Billy Bletcher	COF	star	T	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 9 16	1	29	05-09-2016 11:24:04	BAI1	Zach Baitinger	PUR	sun	V	1	RA 0 day keg	Ranger	RA	160509092	0	keg	0	0	0	05/09/16	05/09/16	09/18/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

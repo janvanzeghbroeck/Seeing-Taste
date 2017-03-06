@@ -1,0 +1,55 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+CITRA PR NOV 29 16	1	1	11-29-2016 10:07:35	COG1	Paul Coggins	BH	star	V	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	1	11-29-2016 10:07:35	COG1	Paul Coggins	BH	star	V	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	2	1	~	2	seems subdued and dull- watery	1	~	2	watery, dilute	2	~	seems diluted down in aroma and in taste
+CITRA PR NOV 29 16	1	2	11-29-2016 10:08:44	LAV2	Aaron LaVanchy	PKG	star	T	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	2	11-29-2016 10:08:44	LAV2	Aaron LaVanchy	PKG	star	T	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	3	11-29-2016 10:09:23	HUL1	Grady Hull	PAD	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	3	11-29-2016 10:09:23	HUL1	Grady Hull	PAD	sun	T	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	4	11-29-2016 10:11:51	KOE1	Ross Koenigs	COF	star	V	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	4	11-29-2016 10:11:51	KOE1	Ross Koenigs	COF	star	V	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	5	11-29-2016 10:15:00	PET1	Ted Peterson	COF	star	V	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	5	11-29-2016 10:15:00	PET1	Ted Peterson	COF	star	V	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	6	11-29-2016 10:16:59	PET2	Ken Petroski	COF	star	V	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	6	11-29-2016 10:16:59	PET2	Ken Petroski	COF	star	V	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	7	11-29-2016 10:21:13	SEE1	Shawn Seeboth	MAIN	sun	V	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	7	11-29-2016 10:21:13	SEE1	Shawn Seeboth	MAIN	sun	V	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	8	11-29-2016 10:25:36	HAL1	Tony Hall	PKG	star	T	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	8	11-29-2016 10:25:36	HAL1	Tony Hall	PKG	star	T	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	9	11-29-2016 10:25:39	GIL2	Penelope Gilliland	HR	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	9	11-29-2016 10:25:39	GIL2	Penelope Gilliland	HR	sun	T	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	10	11-29-2016 10:26:47	DUB1	Kate Dubas	SALES	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	10	11-29-2016 10:26:47	DUB1	Kate Dubas	SALES	sun	T	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	11	11-29-2016 10:32:24	GIL1	Matty Gilliland	BH	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+CITRA PR NOV 29 16	1	11	11-29-2016 10:32:24	GIL1	Matty Gilliland	BH	sun	T	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	2	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+CITRA PR NOV 29 16	1	12	11-29-2016 10:33:56	PET3	Tyler Peters	LC	star	T	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	12	11-29-2016 10:33:56	PET3	Tyler Peters	LC	star	T	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	13	11-29-2016 10:34:35	SAL3	Keith Salmon	PKG	star	T	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	13	11-29-2016 10:34:35	SAL3	Keith Salmon	PKG	star	T	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	14	11-29-2016 10:36:47	MCC1	Chris McCombs	ENG	sun	V	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	14	11-29-2016 10:36:47	MCC1	Chris McCombs	ENG	sun	V	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	15	11-29-2016 10:42:08	HUD1	Cory Hudson	IT	sun	V	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	15	11-29-2016 10:42:08	HUD1	Cory Hudson	IT	sun	V	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	16	11-29-2016 10:45:11	BOU1	Peter Bouckaert	PAD	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	ok	~
+CITRA PR NOV 29 16	1	16	11-29-2016 10:45:11	BOU1	Peter Bouckaert	PAD	sun	T	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	17	11-29-2016 10:50:28	RAD1	Brent Radke	QA	star	V	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	17	11-29-2016 10:50:28	RAD1	Brent Radke	QA	star	V	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	18	11-29-2016 10:51:09	LIM1	Pete Limbach	EVE	star	V	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	more myrcenein this batch than tang	~
+CITRA PR NOV 29 16	1	18	11-29-2016 10:51:09	LIM1	Pete Limbach	EVE	star	V	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	19	11-29-2016 10:55:58	TRU1	Jason Trujillo	QA	sun	T	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	19	11-29-2016 10:55:58	TRU1	Jason Trujillo	QA	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	20	11-29-2016 10:56:09	KOS1	Isaac Koski	BH	star	V	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	20	11-29-2016 10:56:09	KOS1	Isaac Koski	BH	star	V	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	21	11-29-2016 10:58:07	SED1	Dana Sedin	QA	sun	V	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	21	11-29-2016 10:58:07	SED1	Dana Sedin	QA	sun	V	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	22	11-29-2016 11:08:04	CON1	Karl Conklin	QA	sun	T	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	22	11-29-2016 11:08:04	CON1	Karl Conklin	QA	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	23	11-29-2016 11:21:40	DAU1	Soren Daugaard	PKG	star	V	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	1	1	~	1	~	1	~	1	~	1	slightly vegetal	~
+CITRA PR NOV 29 16	1	23	11-29-2016 11:21:40	DAU1	Soren Daugaard	PKG	star	V	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	2	1	~	1	~	1	~	1	~	1	slightly vegetal	~
+CITRA PR NOV 29 16	1	24	11-29-2016 11:23:49	STE1	Kelly Stewart	BH	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	TTB	~
+CITRA PR NOV 29 16	1	24	11-29-2016 11:23:49	STE1	Kelly Stewart	BH	sun	T	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	2	1	~	1	~	1	~	1	~	1	TTB	~
+CITRA PR NOV 29 16	1	25	11-29-2016 11:26:36	DAV1	Kevin Davis	COF	sun	V	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	25	11-29-2016 11:26:36	DAV1	Kevin Davis	COF	sun	V	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	26	11-29-2016 11:32:34	HOL1	Chris Holbrook	COF	sun	V	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	26	11-29-2016 11:32:34	HOL1	Chris Holbrook	COF	sun	V	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR NOV 29 16	1	27	11-29-2016 11:34:16	BIE1	Jeff Biegert	COF	sun	V	1	CITRA 8 day bottle	Citradelic	CITRA	161129007	8	bottle	0	0	0	11/29/16	11/21/16	04/02/17	PR	1	845	1	1	~	1	~	1	~	1	~	1	ttb-fruit juice beer	~
+CITRA PR NOV 29 16	1	27	11-29-2016 11:34:16	BIE1	Jeff Biegert	COF	sun	V	2	CITRA 1 day keg	Citradelic	CITRA	161128031	1	keg	0	0	0	11/29/16	11/28/16	04/09/17	PR	1	711	2	1	~	1	~	1	~	1	~	1	ttb	~

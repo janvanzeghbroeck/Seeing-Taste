@@ -1,0 +1,35 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT PR MAY 27 16	1	1	05-27-2016 10:04:13	HUL1	Grady Hull	PAD	sun	T	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	1	05-27-2016 10:04:13	HUL1	Grady Hull	PAD	sun	T	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	2	05-27-2016 10:06:38	BOU1	Peter Bouckaert	PAD	sun	T	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	lovely malty and nutty	~
+FT PR MAY 27 16	1	2	05-27-2016 10:06:38	BOU1	Peter Bouckaert	PAD	sun	T	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	2	1	~	1	~	1	~	1	~	1	nice but some weird blanding, almost tannic	~
+FT PR MAY 27 16	1	3	05-27-2016 10:07:37	SAL3	Keith Salmon	PKG	star	T	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	3	05-27-2016 10:07:37	SAL3	Keith Salmon	PKG	star	T	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	4	05-27-2016 10:08:55	DIC1	Gary Dick	BH	sun	T	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	4	05-27-2016 10:08:55	DIC1	Gary Dick	BH	sun	T	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	5	05-27-2016 10:11:40	KOS1	Isaac Koski	BH	star	V	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	5	05-27-2016 10:11:40	KOS1	Isaac Koski	BH	star	V	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	6	05-27-2016 10:22:20	PET1	Ted Peterson	COF	star	V	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	sl maltier	~
+FT PR MAY 27 16	1	6	05-27-2016 10:22:20	PET1	Ted Peterson	COF	star	V	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	7	05-27-2016 10:22:40	PET2	Ken Petroski	COF	star	V	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	lots of ehex today	~
+FT PR MAY 27 16	1	7	05-27-2016 10:22:40	PET2	Ken Petroski	COF	star	V	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	8	05-27-2016 10:34:37	DAU1	Soren Daugaard	PKG	star	V	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	1	1	~	2	low levels of dms	1	~	1	~	2	~	low levels of dms_
+FT PR MAY 27 16	1	8	05-27-2016 10:34:37	DAU1	Soren Daugaard	PKG	star	V	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	2	1	~	2	diacetyl and low levels of dms	1	~	1	~	2	~	low levels of diacetyl and dms
+FT PR MAY 27 16	1	9	05-27-2016 10:47:33	VAN1	Sarah VanVlerah	LC	star	V	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	9	05-27-2016 10:47:33	VAN1	Sarah VanVlerah	LC	star	V	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	10	05-27-2016 10:49:25	BOG1	Brian Bogan	EVE	sun	T	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	10	05-27-2016 10:49:25	BOG1	Brian Bogan	EVE	sun	T	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	11	05-27-2016 10:53:07	KJO	Casey Kjolhede	FUL	sun	V	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	11	05-27-2016 10:53:07	KJO	Casey Kjolhede	FUL	sun	V	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	12	05-27-2016 10:59:11	HUG1	Erin Hughes	HR	sun	V	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	the bubbles are slightly bigger. there is def particulate. smells like caprylic yeastiness.	~
+FT PR MAY 27 16	1	12	05-27-2016 10:59:11	HUG1	Erin Hughes	HR	sun	V	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	2	1	~	1	~	1	~	1	~	1	caprylic yeastiness. bigger bubbles in the foam.	~
+FT PR MAY 27 16	1	13	05-27-2016 11:02:47	TRU1	Jason Trujillo	QA	sun	T	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	13	05-27-2016 11:02:47	TRU1	Jason Trujillo	QA	sun	T	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	14	05-27-2016 11:11:45	KOE1	Ross Koenigs	COF	star	V	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	14	05-27-2016 11:11:45	KOE1	Ross Koenigs	COF	star	V	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	15	05-27-2016 11:12:48	SEE1	Shawn Seeboth	MAIN	sun	V	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	15	05-27-2016 11:12:48	SEE1	Shawn Seeboth	MAIN	sun	V	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	16	05-27-2016 11:21:30	IRB1	Jeff Irby	QA	star	V	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	16	05-27-2016 11:21:30	IRB1	Jeff Irby	QA	star	V	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	17	05-27-2016 11:22:06	MCC1	Chris McCombs	ENG	sun	V	2	FT 6 day bottle	Fat Tire	FT	160521068	6	bottle	0	0	0	05/27/16	05/27/16	09/25/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR MAY 27 16	1	17	05-27-2016 11:22:06	MCC1	Chris McCombs	ENG	sun	V	1	FT 0 day bottle	Fat Tire	FT	160527041	0	bottle	0	0	0	05/27/16	05/27/16	10/02/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~

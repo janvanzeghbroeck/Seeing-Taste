@@ -1,0 +1,88 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT PR JAN 23 17	1	1	01-23-2017 09:59:53	BOG1	Brian Bogan	EVE	sun	T	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	1	01-23-2017 09:59:53	BOG1	Brian Bogan	EVE	sun	T	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	1	01-23-2017 09:59:53	BOG1	Brian Bogan	EVE	sun	T	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	2	01-23-2017 10:01:37	LAV2	Aaron LaVanchy	PKG	star	T	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	2	01-23-2017 10:01:37	LAV2	Aaron LaVanchy	PKG	star	T	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	2	01-23-2017 10:01:37	LAV2	Aaron LaVanchy	PKG	star	T	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	3	01-23-2017 10:01:39	UNG1	Eric Unger	PKG	star	T	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	3	01-23-2017 10:01:39	UNG1	Eric Unger	PKG	star	T	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	3	01-23-2017 10:01:39	UNG1	Eric Unger	PKG	star	T	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	4	01-23-2017 10:02:14	DAV1	Kevin Davis	COF	sun	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	4	01-23-2017 10:02:14	DAV1	Kevin Davis	COF	sun	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	4	01-23-2017 10:02:14	DAV1	Kevin Davis	COF	sun	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	3	1	~	1	~	1	~	1	~	2	~	noticed high SO2 after I got past aroma.  not horrible, but noticeable
+FT PR JAN 23 17	1	5	01-23-2017 10:02:16	PET2	Ken Petroski	COF	star	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	5	01-23-2017 10:02:16	PET2	Ken Petroski	COF	star	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	5	01-23-2017 10:02:16	PET2	Ken Petroski	COF	star	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	6	01-23-2017 10:07:15	BLE1	Billy Bletcher	COF	star	T	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	6	01-23-2017 10:07:15	BLE1	Billy Bletcher	COF	star	T	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	6	01-23-2017 10:07:15	BLE1	Billy Bletcher	COF	star	T	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	7	01-23-2017 10:07:49	FIS1	Mark Fischer	PAD	sun	T	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	7	01-23-2017 10:07:49	FIS1	Mark Fischer	PAD	sun	T	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	7	01-23-2017 10:07:49	FIS1	Mark Fischer	PAD	sun	T	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	8	01-23-2017 10:21:44	GIL1	Matty Gilliland	BH	sun	T	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	1	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+FT PR JAN 23 17	1	8	01-23-2017 10:21:44	GIL1	Matty Gilliland	BH	sun	T	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	2	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+FT PR JAN 23 17	1	8	01-23-2017 10:21:44	GIL1	Matty Gilliland	BH	sun	T	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	3	1	~	1	~	1	~	1	~	1	Little dry	~
+FT PR JAN 23 17	1	9	01-23-2017 10:24:49	SEE1	Shawn Seeboth	MAIN	sun	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	9	01-23-2017 10:24:49	SEE1	Shawn Seeboth	MAIN	sun	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	9	01-23-2017 10:24:49	SEE1	Shawn Seeboth	MAIN	sun	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	10	01-23-2017 10:25:18	HOL1	Chris Holbrook	COF	sun	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	10	01-23-2017 10:25:18	HOL1	Chris Holbrook	COF	sun	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	10	01-23-2017 10:25:18	HOL1	Chris Holbrook	COF	sun	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	11	01-23-2017 10:25:26	KOE1	Ross Koenigs	COF	star	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	11	01-23-2017 10:25:26	KOE1	Ross Koenigs	COF	star	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	11	01-23-2017 10:25:26	KOE1	Ross Koenigs	COF	star	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	12	01-23-2017 10:26:03	KAR1	Matt Karn	BH	sun	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	12	01-23-2017 10:26:03	KAR1	Matt Karn	BH	sun	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	12	01-23-2017 10:26:03	KAR1	Matt Karn	BH	sun	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	13	01-23-2017 10:29:34	AMP1	Nick Ampe	EHS	sun	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	13	01-23-2017 10:29:34	AMP1	Nick Ampe	EHS	sun	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	13	01-23-2017 10:29:34	AMP1	Nick Ampe	EHS	sun	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	3	1	~	2	strong sulfidic aroma	1	~	1	~	2	~	sulfidic rotten egg aroma
+FT PR JAN 23 17	1	14	01-23-2017 10:33:58	SED1	Dana Sedin	QA	sun	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	14	01-23-2017 10:33:58	SED1	Dana Sedin	QA	sun	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	14	01-23-2017 10:33:58	SED1	Dana Sedin	QA	sun	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	15	01-23-2017 10:40:58	KIR1	Marie Kirkpatrick	LC	star	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	15	01-23-2017 10:40:58	KIR1	Marie Kirkpatrick	LC	star	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	15	01-23-2017 10:40:58	KIR1	Marie Kirkpatrick	LC	star	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	16	01-23-2017 10:43:41	TRU1	Jason Trujillo	QA	sun	T	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	16	01-23-2017 10:43:41	TRU1	Jason Trujillo	QA	sun	T	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	16	01-23-2017 10:43:41	TRU1	Jason Trujillo	QA	sun	T	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	17	01-23-2017 10:47:53	STE1	Kelly Stewart	BH	sun	T	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	1	1	~	1	~	1	~	1	~	1	TTB	~
+FT PR JAN 23 17	1	17	01-23-2017 10:47:53	STE1	Kelly Stewart	BH	sun	T	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	2	1	~	2	sl geosmin?	1	~	1	~	2	~	aroma
+FT PR JAN 23 17	1	17	01-23-2017 10:47:53	STE1	Kelly Stewart	BH	sun	T	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	3	1	~	2	sl ethyl acetate	1	~	1	~	1	still perhaps ttb	~
+FT PR JAN 23 17	1	18	01-23-2017 10:48:01	RAD1	Brent Radke	QA	star	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	18	01-23-2017 10:48:01	RAD1	Brent Radke	QA	star	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	18	01-23-2017 10:48:01	RAD1	Brent Radke	QA	star	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	19	01-23-2017 10:55:36	MCC1	Chris McCombs	ENG	sun	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	19	01-23-2017 10:55:36	MCC1	Chris McCombs	ENG	sun	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	19	01-23-2017 10:55:36	MCC1	Chris McCombs	ENG	sun	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	20	01-23-2017 10:56:40	BAR2	Ben Barrett	SALES	sun	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	20	01-23-2017 10:56:40	BAR2	Ben Barrett	SALES	sun	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	20	01-23-2017 10:56:40	BAR2	Ben Barrett	SALES	sun	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	3	1	~	1	~	1	~	2	Watery	2	~	This sample seems to be watery.  Probably not noticed by the general public but compared to samples 1 and 2 it seems off.
+FT PR JAN 23 17	1	21	01-23-2017 10:58:29	PEO1	Kaitlyn Peot	FUL	sun	T	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	21	01-23-2017 10:58:29	PEO1	Kaitlyn Peot	FUL	sun	T	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	21	01-23-2017 10:58:29	PEO1	Kaitlyn Peot	FUL	sun	T	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	22	01-23-2017 10:59:44	BOU1	Peter Bouckaert	PAD	sun	T	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	1	1	~	1	~	1	~	1	~	1	Miss the EH on a fresh FT	~
+FT PR JAN 23 17	1	22	01-23-2017 10:59:44	BOU1	Peter Bouckaert	PAD	sun	T	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	2	1	~	1	~	1	~	1	~	1	ok	~
+FT PR JAN 23 17	1	22	01-23-2017 10:59:44	BOU1	Peter Bouckaert	PAD	sun	T	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	3	1	~	2	H2S pretty high, would expect this maybe on a 3.2 but not on regular	1	~	1	~	2	~	H2S too high
+FT PR JAN 23 17	1	23	01-23-2017 11:01:34	HOL2	Michelle Holbrook	EVE	sun	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	23	01-23-2017 11:01:34	HOL2	Michelle Holbrook	EVE	sun	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	23	01-23-2017 11:01:34	HOL2	Michelle Holbrook	EVE	sun	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	24	01-23-2017 11:04:02	KJO	Casey Kjolhede	FUL	sun	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	24	01-23-2017 11:04:02	KJO	Casey Kjolhede	FUL	sun	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	24	01-23-2017 11:04:02	KJO	Casey Kjolhede	FUL	sun	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	25	01-23-2017 11:05:20	DUB1	Kate Dubas	SALES	sun	T	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	25	01-23-2017 11:05:20	DUB1	Kate Dubas	SALES	sun	T	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	25	01-23-2017 11:05:20	DUB1	Kate Dubas	SALES	sun	T	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	26	01-23-2017 11:07:16	HUD1	Cory Hudson	IT	sun	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	1	1	~	1	~	1	~	1	~	1	yes, but.....I put ttb, bu there were a variety of very subtle things I wanted to call out.  On aroma, I thought I caught a very slight H2S aroma, but it was slight and after a few more tries, done-zo.  Taste and MF, felt like a tiny bit of sour in there and a mildly lighter mf.__Anyway, all of these were slight, so I TTB...	~
+FT PR JAN 23 17	1	26	01-23-2017 11:07:16	HUD1	Cory Hudson	IT	sun	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	2	1	~	2	Not sure how to describe it, but it smells sort of sour and metallic-y.  Not getting the nutty grainy, dmsy front.  no good.	1	~	1	~	2	~	aroma is off
+FT PR JAN 23 17	1	26	01-23-2017 11:07:16	HUD1	Cory Hudson	IT	sun	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	3	1	~	1	~	1	~	1	~	1	on visual, slightly elevated particulate - tiny and in suspension.	~
+FT PR JAN 23 17	1	27	01-23-2017 11:16:54	CHR	Rob Christiansen				3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	1	1	~	1	~	1	~	1	~	1	_	~
+FT PR JAN 23 17	1	27	01-23-2017 11:16:54	CHR	Rob Christiansen				2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	2	1	~	1	~	1	~	1	~	1	Nothing 'wrong' or not TTB sticks out but the sample did seem somewhat dull and lacking in aroma	~
+FT PR JAN 23 17	1	27	01-23-2017 11:16:54	CHR	Rob Christiansen				1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	3	1	~	2	metalic and ethyl acetate, no typical FT aroma characters present	2	Astringent, metalic and solventy	2	bitter and lacking sweetness	2	~	Overall this is a fail.  I hope this is a spike!
+FT PR JAN 23 17	1	28	01-23-2017 11:21:45	MUR1	Pat Murfin	COF	sun	V	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	28	01-23-2017 11:21:45	MUR1	Pat Murfin	COF	sun	V	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	28	01-23-2017 11:21:45	MUR1	Pat Murfin	COF	sun	V	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	29	01-23-2017 11:25:05	BAI1	Zach Baitinger	PUR	sun	T	2	FT 1 day bottle	Fat Tire	FT	170122071	1	bottle	0	0	0	01/23/17	01/22/17	05/28/17	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	29	01-23-2017 11:25:05	BAI1	Zach Baitinger	PUR	sun	T	1	FT 2 day bottle	Fat Tire	FT	170121051	2	bottle	0	0	0	01/23/17	01/21/17	05/28/17	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 23 17	1	29	01-23-2017 11:25:05	BAI1	Zach Baitinger	PUR	sun	T	3	FT 13 day bottle	Fat Tire	FT	170123001	13	bottle	0	0	0	01/23/17	01/09/17	05/21/17	PR	1	492	3	1	~	1	~	1	~	1	~	1		~

@@ -1,0 +1,39 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+GPA PR SEPT 2 16	1	1	09-02-2016 10:13:41	HUL1	Grady Hull	PAD	sun	T	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	1	09-02-2016 10:13:41	HUL1	Grady Hull	PAD	sun	T	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	2	09-02-2016 10:17:43	SEE1	Shawn Seeboth	MAIN	sun	V	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	2	09-02-2016 10:17:43	SEE1	Shawn Seeboth	MAIN	sun	V	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	3	09-02-2016 10:19:03	FIS1	Mark Fischer	PAD	sun	T	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	3	09-02-2016 10:19:03	FIS1	Mark Fischer	PAD	sun	T	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	4	09-02-2016 10:21:45	AMM1	Lisa Ammann	MKT	sun	V	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	4	09-02-2016 10:21:45	AMM1	Lisa Ammann	MKT	sun	V	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	5	09-02-2016 10:25:42	MIT1	Andy Mitchell	COF	star	V	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	5	09-02-2016 10:25:42	MIT1	Andy Mitchell	COF	star	V	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	6	09-02-2016 10:29:25	GIL2	Penelope Gilliland	HR	sun	T	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	6	09-02-2016 10:29:25	GIL2	Penelope Gilliland	HR	sun	T	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	7	09-02-2016 10:35:09	PET2	Ken Petroski	COF	star	V	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	7	09-02-2016 10:35:09	PET2	Ken Petroski	COF	star	V	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	8	09-02-2016 10:36:43	DAU1	Soren Daugaard	PKG	star	V	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	8	09-02-2016 10:36:43	DAU1	Soren Daugaard	PKG	star	V	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	2	1	~	2	very small amounts of acetaldehyde	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	9	09-02-2016 10:39:03	SAL3	Keith Salmon	PKG	star	T	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	9	09-02-2016 10:39:03	SAL3	Keith Salmon	PKG	star	T	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	10	09-02-2016 10:41:52	DAR1	Kevin Darst	PD	sun	V	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	10	09-02-2016 10:41:52	DAR1	Kevin Darst	PD	sun	V	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	2	1	~	1	~	1	~	1	~	1	does seem to have a bit harsher bitterness, but hard to tell. more solventy, perhaps?	~
+GPA PR SEPT 2 16	1	11	09-02-2016 10:51:07	HOL2	Michelle Holbrook	EVE	sun	V	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	11	09-02-2016 10:51:07	HOL2	Michelle Holbrook	EVE	sun	V	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	12	09-02-2016 10:53:14	KAR1	Matt Karn	BH	sun	T	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	12	09-02-2016 10:53:14	KAR1	Matt Karn	BH	sun	T	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	13	09-02-2016 11:05:53	OLO1	Kyle O'Loughlin	COF	star	V	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	13	09-02-2016 11:05:53	OLO1	Kyle O'Loughlin	COF	star	V	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	14	09-02-2016 11:10:21	GIL1	Matty Gilliland	BH	sun	T	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	Fresh and ttb_	~
+GPA PR SEPT 2 16	1	14	09-02-2016 11:10:21	GIL1	Matty Gilliland	BH	sun	T	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	2	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+GPA PR SEPT 2 16	1	15	09-02-2016 11:10:51	PET3	Tyler Peters	LC	star	T	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	1	1	~	2	Smells like tangerine! Is that because you just said the words citradelic?	1	~	1	~	1	It's TTB. I thought I smelled tangerine.	~
+GPA PR SEPT 2 16	1	15	09-02-2016 11:10:51	PET3	Tyler Peters	LC	star	T	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	16	09-02-2016 11:11:42	HOL1	Chris Holbrook	COF	sun	T	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	16	09-02-2016 11:11:42	HOL1	Chris Holbrook	COF	sun	T	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	17	09-02-2016 11:17:48	HUG1	Erin Hughes	HR	sun	V	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	ttb. nice hip hop aroma.	~
+GPA PR SEPT 2 16	1	17	09-02-2016 11:17:48	HUG1	Erin Hughes	HR	sun	V	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	2	1	~	1	~	1	~	1	~	1	ttb	~
+GPA PR SEPT 2 16	1	18	09-02-2016 11:23:57	HUD1	Cory Hudson	IT	sun	T	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	18	09-02-2016 11:23:57	HUD1	Cory Hudson	IT	sun	T	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	19	09-02-2016 11:30:00	UNG1	Eric Unger	PKG	star	T	1	GPA 1 day bottle	Gluntiny Pale	GPA	160901031	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+GPA PR SEPT 2 16	1	19	09-02-2016 11:30:00	UNG1	Eric Unger	PKG	star	T	2	GPA 1 day can	Gluntiny Pale	GPA	160901061	1	bottle	0	0	0	09/02/16	09/01/16	01/08/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~

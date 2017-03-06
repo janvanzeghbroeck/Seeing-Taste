@@ -1,0 +1,23 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT IP DEC 28 15	1	1	12-28-2015 10:12:05	NOR1	Ryan Norwood	QA	sun	V	2	FT  MV 49	FT MV	FT	151228490	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	355	1	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 28 15	1	1	12-28-2015 10:12:05	NOR1	Ryan Norwood	QA	sun	V	1	FT MV 43	FT MV	FT	151228430	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	537	2	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 28 15	1	2	12-28-2015 10:14:14	PET2	Ken Petroski	COF	star	V	1	FT MV 43	FT MV	FT	151228430	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	537	1	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 28 15	1	2	12-28-2015 10:14:14	PET2	Ken Petroski	COF	star	V	2	FT  MV 49	FT MV	FT	151228490	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	355	2	1	~	1	~	1	~	1	~	1	these both seem a bit dull...and a bit more sour than expected	~
+FT IP DEC 28 15	1	3	12-28-2015 10:15:30	SAL2	Lauren Salazar	BH	sun	V	2	FT  MV 49	FT MV	FT	151228490	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	355	1	1	~	1	~	1	~	1	~	1	normal amounts of acetaldehyde, caramel malt, etc	~
+FT IP DEC 28 15	1	3	12-28-2015 10:15:30	SAL2	Lauren Salazar	BH	sun	V	1	FT MV 43	FT MV	FT	151228430	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	537	2	1	~	2	not way outta spec, but real weird isoAA (wrong ester) profile. lots of bubblegum phenol too... wrong aroma.	1	~	1	~	2	~	banana isoAA and bubblegum phenol. not ttb.
+FT IP DEC 28 15	1	4	12-28-2015 10:20:32	DAV1	Kevin Davis	COF	sun	V	2	FT  MV 49	FT MV	FT	151228490	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	355	1	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 28 15	1	4	12-28-2015 10:20:32	DAV1	Kevin Davis	COF	sun	V	1	FT MV 43	FT MV	FT	151228430	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	537	2	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 28 15	1	5	12-28-2015 10:24:50	SED1	Dana Sedin	QA	sun	V	2	FT  MV 49	FT MV	FT	151228490	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	355	1	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 28 15	1	5	12-28-2015 10:24:50	SED1	Dana Sedin	QA	sun	V	1	FT MV 43	FT MV	FT	151228430	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	537	2	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 28 15	1	6	12-28-2015 10:27:27	SAL1	Eric Salazar	BH	sun	V	1	FT MV 43	FT MV	FT	151228430	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	537	1	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 28 15	1	6	12-28-2015 10:27:27	SAL1	Eric Salazar	BH	sun	V	2	FT  MV 49	FT MV	FT	151228490	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	355	2	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 28 15	1	7	12-28-2015 10:40:33	HUL1	Grady Hull	BH	sun	T	1	FT MV 43	FT MV	FT	151228430	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	537	1	1	~	1	~	1	~	1	~	1	solventy, high ethanol grady	~
+FT IP DEC 28 15	1	7	12-28-2015 10:40:33	HUL1	Grady Hull	BH	sun	T	2	FT  MV 49	FT MV	FT	151228490	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	355	2	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 28 15	1	8	12-28-2015 10:47:29	SEE1	Shawn Seeboth	PD	sun	V	1	FT MV 43	FT MV	FT	151228430	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	537	1	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 28 15	1	8	12-28-2015 10:47:29	SEE1	Shawn Seeboth	PD	sun	V	2	FT  MV 49	FT MV	FT	151228490	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	355	2	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 28 15	1	9	12-28-2015 11:01:58	BAN1	Tamar Banner	COF	star	V	2	FT  MV 49	FT MV	FT	151228490	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	355	1	1	~	1	~	1	~	1	~	1	young, but no off flavors.  no bitter linger either.	~
+FT IP DEC 28 15	1	9	12-28-2015 11:01:58	BAN1	Tamar Banner	COF	star	V	1	FT MV 43	FT MV	FT	151228430	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	537	2	1	~	2	phenolic, slt ethyl acetate, some ethyl hex	1	~	1	~	2	~	ester profile strong and not right.  recommend blending this one out.
+FT IP DEC 28 15	1	10	12-28-2015 11:16:03	MCC1	Chris McCombs	ENG	sun	V	2	FT  MV 49	FT MV	FT	151228490	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	355	1	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 28 15	1	10	12-28-2015 11:16:03	MCC1	Chris McCombs	ENG	sun	V	1	FT MV 43	FT MV	FT	151228430	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	537	2	1	~	1	~	2	overly sweet	1	~	2	~	high sweetnes
+FT IP DEC 28 15	1	11	12-28-2015 11:17:48	BOU1	Peter Bouckaert	BH	star	T	1	FT MV 43	FT MV	FT	151228430	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	537	1	1	~	1	~	2	too sweet -	1	~	2	~	taste too sweet, lacks the dryness of fT
+FT IP DEC 28 15	1	11	12-28-2015 11:17:48	BOU1	Peter Bouckaert	BH	star	T	2	FT  MV 49	FT MV	FT	151228490	0	IP	0	0	0	12/28/15	12/28/15	12/28/15	IP	1	355	2	1	~	1	~	1	~	1	~	1	ok	~

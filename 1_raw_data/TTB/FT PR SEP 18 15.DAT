@@ -1,0 +1,41 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT PR SEP 18 15	1	1	09-18-2015 10:06:25	LAV2	Aaron LaVanchy	PKG	star	T	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	1	1	~	2	diacetyl, no ex hex or green apple-aaron	2	too sweet-aaron	1	~	2	~	diacetyl and little bitterness-aaron
+FT PR SEP 18 15	1	1	09-18-2015 10:06:25	LAV2	Aaron LaVanchy	PKG	star	T	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	2	09-18-2015 10:07:27	KOS1	Isaac Koski	BH	star	V	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	1	1	~	1	~	2	trshy bitter	2	sharp finish, metallic	2	~	metallic finish, harsh with some mercaptin
+FT PR SEP 18 15	1	2	09-18-2015 10:07:27	KOS1	Isaac Koski	BH	star	V	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	3	09-18-2015 10:07:54	DIC1	Perry Dickerson	QA	sun	V	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	3	09-18-2015 10:07:54	DIC1	Perry Dickerson	QA	sun	V	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	4	09-18-2015 10:11:01	AMM1	Lisa Ammann	MKT	sun	T	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	4	09-18-2015 10:11:01	AMM1	Lisa Ammann	MKT	sun	T	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	5	09-18-2015 10:19:30	GIL2	Penelope Gilliland	LC	star	T	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	1	1	~	2	papery aroma	2	papery /lipstick taste - kind of bitter	2	very drying / astringent	2	~	papery
+FT PR SEP 18 15	1	5	09-18-2015 10:19:30	GIL2	Penelope Gilliland	LC	star	T	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	6	09-18-2015 10:20:10	GIL1	Matty Gilliland	BH	sun	V	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	1	1	~	2	Little h2s in there	1	~	1	~	2	~	TIny bit of h2s_
+FT PR SEP 18 15	1	6	09-18-2015 10:20:10	GIL1	Matty Gilliland	BH	sun	V	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+FT PR SEP 18 15	1	7	09-18-2015 10:25:23	DAR1	Kevin Darst	PD	sun	V	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	7	09-18-2015 10:25:23	DAR1	Kevin Darst	PD	sun	V	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	8	09-18-2015 10:28:15	SCH1	Ali Schultz	QA	sun	V	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	I'm totally bias, but it seems a little sour! watch, this isn't even the 3.2	~
+FT PR SEP 18 15	1	8	09-18-2015 10:28:15	SCH1	Ali Schultz	QA	sun	V	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	9	09-18-2015 10:32:39	PEO1	Kaitlyn Peot	FUL	sun	T	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	slight amounts of isovaleric coming through in the nose	~
+FT PR SEP 18 15	1	9	09-18-2015 10:32:39	PEO1	Kaitlyn Peot	FUL	sun	T	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	10	09-18-2015 10:34:29	DAU1	Soren Daugaard	PKG	star	V	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	1	1	~	1	~	1	~	2	this one seems thin to me	1	seemed a little thin and had a nutty malt thing going on	~
+FT PR SEP 18 15	1	10	09-18-2015 10:34:29	DAU1	Soren Daugaard	PKG	star	V	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	11	09-18-2015 10:37:08	NOR1	Ryan Norwood	QA	sun	V	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	11	09-18-2015 10:37:08	NOR1	Ryan Norwood	QA	sun	V	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	12	09-18-2015 10:43:28	HUL1	Grady Hull	PAD	sun	T	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	12	09-18-2015 10:43:28	HUL1	Grady Hull	PAD	sun	T	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	2	1	~	2	sulfury grady	1	~	1	~	2	~	sweaty sulfur grady
+FT PR SEP 18 15	1	13	09-18-2015 10:46:27	DAV1	Kevin Davis	COF	sun	V	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	1	2	great foam retention	1	~	1	~	1	~	1	dull esters, low ethyl acetate (clean), light body	~
+FT PR SEP 18 15	1	13	09-18-2015 10:46:27	DAV1	Kevin Davis	COF	sun	V	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	2	2	great foam retention	1	~	1	~	1	~	1	missing bready/biscuity, dull/clean, light body	~
+FT PR SEP 18 15	1	14	09-18-2015 10:49:15	PET3	Tyler Peters	LC	star	T	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	14	09-18-2015 10:49:15	PET3	Tyler Peters	LC	star	T	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	15	09-18-2015 10:56:34	PET1	Ted Peterson	COF	star	V	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	15	09-18-2015 10:56:34	PET1	Ted Peterson	COF	star	V	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	2	1	~	1	~	1	~	1	~	1	quite grainy	~
+FT PR SEP 18 15	1	16	09-18-2015 11:07:13	MCC1	Chris McCombs	ENG	sun	V	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	16	09-18-2015 11:07:13	MCC1	Chris McCombs	ENG	sun	V	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	17	09-18-2015 11:12:26	SEE1	Shawn Seeboth	MAIN	sun	V	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	17	09-18-2015 11:12:26	SEE1	Shawn Seeboth	MAIN	sun	V	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	18	09-18-2015 11:15:58	HAG1	Andrew Hagdorn	COF	sun	T	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	18	09-18-2015 11:15:58	HAG1	Andrew Hagdorn	COF	sun	T	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	19	09-18-2015 11:23:39	BAN1	Tamar Banner	COF	sun	V	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	slight papery	~
+FT PR SEP 18 15	1	19	09-18-2015 11:23:39	BAN1	Tamar Banner	COF	sun	V	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	2	~	pretty papery, slight dull/watery
+FT PR SEP 18 15	1	20	09-18-2015 11:28:32	MIL1	Mandy Miller	QA	sun	V	1	FT 1 day keg	Fat Tire	FT	150917011	1	keg	0	0	0	09/18/15	09/17/15	01/24/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR SEP 18 15	1	20	09-18-2015 11:28:32	MIL1	Mandy Miller	QA	sun	V	2	FT 1day keg	Fat Tire	FT	150917101	1	keg	0	0	0	09/18/15	09/17/15	01/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~

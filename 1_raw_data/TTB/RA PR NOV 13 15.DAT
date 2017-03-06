@@ -1,0 +1,32 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+RA PR NOV 13 15	1	1	11-13-2015 10:10:17	DAU1	Soren Daugaard	PKG	star	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	2	11-13-2015 10:10:27	LAV2	Aaron LaVanchy	PKG	star	T	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	3	11-13-2015 10:11:44	SAL3	Keith Salmon	PKG	star	T	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	4	11-13-2015 10:11:45	KIR1	Marie Kirkpatrick	LC	star	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	5	11-13-2015 10:13:02	FIS1	Mark Fischer	PAD	sun	T	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	6	11-13-2015 10:16:41	GIL2	Penelope Gilliland	LC	star	T	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	7	11-13-2015 10:19:52	NOR1	Ryan Norwood	QA	sun	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	8	11-13-2015 10:20:14	HOL2	Michelle Holbrook	EVE	sun	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	9	11-13-2015 10:21:18	SED1	Dana Sedin	QA	sun	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	10	11-13-2015 10:25:55	HAL1	Tony Hall	PKG	star	T	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	11	11-13-2015 10:29:10	HUL1	Grady Hull	PAD	sun	T	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	2	more particulate than normal grady	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	12	11-13-2015 10:30:06	DAV1	Kevin Davis	COF	sun	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	13	11-13-2015 10:30:48	BOG1	Brian Bogan	EVE	sun	T	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	14	11-13-2015 10:39:07	VAN1	Sarah VanVlerah	LC	star	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	15	11-13-2015 10:39:11	LIM1	Pete Limbach	EVE	star	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	16	11-13-2015 10:40:56	TRU1	Jason Trujillo	QA	sun	T	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	17	11-13-2015 10:41:56	SCH1	Ali Schultz	QA	sun	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	tastes like shame from yesterday's training	~
+RA PR NOV 13 15	1	18	11-13-2015 10:51:52	AMM1	Lisa Ammann	MKT	sun	T	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	19	11-13-2015 10:52:36	BEE1	Bethany Beers	PD	sun	T	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	20	11-13-2015 10:54:10	BUR1	Travis Burge	BH	sun	T	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	21	11-13-2015 10:56:44	KJO	Casey Kjolhede	FUL	sun	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	22	11-13-2015 10:58:26	KOE1	Ross Koenigs	COF	star	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	23	11-13-2015 10:59:07	SAL2	Lauren Salazar	QA	star	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	24	11-13-2015 11:14:56	SEE1	Shawn Seeboth	MAIN	sun	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	25	11-13-2015 11:16:53	OLO1	Kyle O'Loughlin	COF	star	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	26	11-13-2015 11:19:08	STU1	Andrew Sturm	COF	star	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	27	11-13-2015 11:19:39	IRB1	Jeff Irby	QA	star	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	28	11-13-2015 11:23:38	DAR1	Kevin Darst	PD	sun	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	29	11-13-2015 11:27:47	HAG1	Andrew Hagdorn	COF	sun	T	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	30	11-13-2015 11:28:24	SAL1	Eric Salazar	BH	star	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 13 15	1	31	11-13-2015 11:31:26	MIT1	Andy Mitchell	COF	star	V	1	RA 0 day bottle	Ranger	RA	151113101	0	bottle	0	0	0	11/13/15	11/13/15	03/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

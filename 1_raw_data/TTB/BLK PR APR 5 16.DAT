@@ -1,0 +1,20 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+BLK PR APR 5 16	1	1	04-05-2016 10:06:46	BUR1	Travis Burge	BH	sun	T	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR APR 5 16	1	2	04-05-2016 10:10:39	BAR1	Lindsay Barr	QA	sun	V	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR APR 5 16	1	3	04-05-2016 10:12:54	LIM1	Pete Limbach	EVE	star	V	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	a little extra smokey	~
+BLK PR APR 5 16	1	4	04-05-2016 10:15:28	DAU1	Soren Daugaard	PKG	star	V	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR APR 5 16	1	5	04-05-2016 10:20:10	FIS1	Mark Fischer	PAD	sun	T	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR APR 5 16	1	6	04-05-2016 10:21:12	HAL1	Tony Hall	PKG	star	T	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR APR 5 16	1	7	04-05-2016 10:24:14	HOL2	Michelle Holbrook	EVE	sun	V	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR APR 5 16	1	8	04-05-2016 10:27:03	VIL1	Dana Villeneuve	SUS	sun	T	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR APR 5 16	1	9	04-05-2016 10:30:06	DAR1	Kevin Darst	PD	sun	V	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR APR 5 16	1	10	04-05-2016 10:38:08	SAL3	Keith Salmon	PKG	star	T	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR APR 5 16	1	11	04-05-2016 10:42:33	PEO1	Kaitlyn Peot	FUL	sun	T	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR APR 5 16	1	12	04-05-2016 10:45:58	BAI1	Zach Baitinger	PUR	sun	V	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	smoky 1554	~
+BLK PR APR 5 16	1	13	04-05-2016 10:47:27	SKI1	Dawn Skinner	FA	sun	V	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb	~
+BLK PR APR 5 16	1	14	04-05-2016 10:52:39	TRU1	Jason Trujillo	QA	sun	T	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR APR 5 16	1	15	04-05-2016 10:52:49	KJO	Casey Kjolhede	FUL	sun	V	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR APR 5 16	1	16	04-05-2016 11:14:09	GIL3	Penny Gill-Stuart	BH	sun	T	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR APR 5 16	1	17	04-05-2016 11:15:23	SEE1	Shawn Seeboth	MAIN	sun	V	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR APR 5 16	1	18	04-05-2016 11:23:45	MCC1	Chris McCombs	ENG	sun	V	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BLK PR APR 5 16	1	19	04-05-2016 11:35:35	AMP1	Nick Ampe	EHS	sun	V	1	BLK 1 day keg	1554	BLK	160404031	1	keg	0	0	0	04/05/16	04/04/16	10/09/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

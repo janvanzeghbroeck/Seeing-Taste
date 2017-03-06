@@ -1,0 +1,29 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+VRAI PR JAN 3 17	1	1	01-03-2017 10:06:43	SED1	Dana Sedin	QA	sun	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	2	01-03-2017 10:11:45	LAV2	Aaron LaVanchy	PKG	star	T	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	3	01-03-2017 10:15:53	AMM1	Lisa Ammann	MKT	sun	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	4	01-03-2017 10:18:02	FIS1	Mark Fischer	PAD	sun	T	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	5	01-03-2017 10:19:22	HOL1	Chris Holbrook	COF	sun	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	6	01-03-2017 10:26:06	TRU1	Jason Trujillo	QA	sun	T	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	7	01-03-2017 10:29:12	SAL1	Eric Salazar	BH	star	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	8	01-03-2017 10:32:36	STE1	Kelly Stewart	BH	sun	T	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	9	01-03-2017 10:34:27	DIC2	Josh Dick	SALES	sun	T	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	10	01-03-2017 10:36:33	SEE1	Shawn Seeboth	MAIN	sun	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	11	01-03-2017 10:38:47	MAD1	John Madigan	PKG	star	T	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	12	01-03-2017 10:42:26	DAR1	Kevin Darst	PD	sun	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	13	01-03-2017 10:42:50	HUL1	Grady Hull	PAD	sun	T	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	14	01-03-2017 10:44:11	BAR2	Ben Barrett	SALES	sun	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	15	01-03-2017 10:45:05	DAV1	Kevin Davis	COF	sun	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	16	01-03-2017 10:46:48	UNG1	Eric Unger	PKG	star	T	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	17	01-03-2017 10:51:17	DAU1	Soren Daugaard	PKG	star	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	18	01-03-2017 10:51:44	GIL2	Penelope Gilliland	HR	sun	T	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	19	01-03-2017 10:53:13	OLO1	Kyle O'Loughlin	COF	star	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	20	01-03-2017 10:54:23	PON1	Dave Ponceby	LC	star	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	21	01-03-2017 10:59:38	MCC1	Chris McCombs	ENG	sun	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	22	01-03-2017 11:01:48	SKI1	Dawn Skinner	FA	sun	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb--- this keyboard needs to be replaced, byw.	~
+VRAI PR JAN 3 17	1	23	01-03-2017 11:03:43	HUG1	Erin Hughes	HR	sun	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	myrcene resin is saturating my palate.	~
+VRAI PR JAN 3 17	1	24	01-03-2017 11:04:27	KOE1	Ross Koenigs	COF	star	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	25	01-03-2017 11:09:36	HUD1	Cory Hudson	IT	sun	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	aok	~
+VRAI PR JAN 3 17	1	26	01-03-2017 11:15:59	KJO	Casey Kjolhede	FUL	sun	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	27	01-03-2017 11:35:01	MUR1	Pat Murfin	COF	sun	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+VRAI PR JAN 3 17	1	28	01-03-2017 11:37:31	SAL2	Lauren Limbach	QA	star	V	1	VRAI 0 day keg	VR Imperial	VRAI	170103011	0	keg	0	0	0	01/03/17	01/03/17	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	intensely ttb	~

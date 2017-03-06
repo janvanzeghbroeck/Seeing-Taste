@@ -1,0 +1,23 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+BP PR SEP 21 16	1	1	09-21-2016 10:01:28	HAL1	Tony Hall	PKG	star	T	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BP PR SEP 21 16	1	2	09-21-2016 10:03:11	COG1	Paul Coggins	BH	star	V	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BP PR SEP 21 16	1	3	09-21-2016 10:03:47	KOE1	Ross Koenigs	COF	star	V	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BP PR SEP 21 16	1	4	09-21-2016 10:04:51	MIT1	Andy Mitchell	COF	star	V	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BP PR SEP 21 16	1	5	09-21-2016 10:10:00	HOL1	Chris Holbrook	COF	sun	T	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BP PR SEP 21 16	1	6	09-21-2016 10:12:33	HUD1	Cory Hudson	IT	sun	T	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BP PR SEP 21 16	1	7	09-21-2016 10:14:45	HUL1	Grady Hull	PAD	sun	T	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BP PR SEP 21 16	1	8	09-21-2016 10:15:31	BIE1	Jeff Biegert	COF	sun	V	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb-flinty, floral and fresh	~
+BP PR SEP 21 16	1	9	09-21-2016 10:27:59	VIL1	Dana Villeneuve	SUS	sun	T	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BP PR SEP 21 16	1	10	09-21-2016 10:28:41	SEE1	Shawn Seeboth	MAIN	sun	V	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BP PR SEP 21 16	1	11	09-21-2016 10:29:12	CON1	Karl Conklin	QA	sun	T	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BP PR SEP 21 16	1	12	09-21-2016 10:34:46	BAR1	Lindsay Barr	QA	sun	V	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BP PR SEP 21 16	1	13	09-21-2016 10:38:26	GIL2	Penelope Gilliland	HR	sun	T	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BP PR SEP 21 16	1	14	09-21-2016 10:47:02	BOU1	Peter Bouckaert	PAD	sun	T	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	2	misses IAA, unpleasant husky	2	out of balance	2	harsch linger	2	~	pretty bad, no IAA, husky taste and linger is ugly
+BP PR SEP 21 16	1	15	09-21-2016 10:49:54	KAR1	Matt Karn	BH	sun	T	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	_	~
+BP PR SEP 21 16	1	16	09-21-2016 10:50:47	TRU1	Jason Trujillo	QA	sun	T	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BP PR SEP 21 16	1	17	09-21-2016 10:50:51	SAL1	Eric Salazar	BH	star	V	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BP PR SEP 21 16	1	18	09-21-2016 10:51:21	GIL1	Matty Gilliland	BH	sun	T	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+BP PR SEP 21 16	1	19	09-21-2016 11:09:50	VAN1	Sarah VanVlerah	LC	star	V	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+BP PR SEP 21 16	1	20	09-21-2016 11:20:10	HUG1	Erin Hughes	HR	sun	V	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	big sulfers_	~
+BP PR SEP 21 16	1	21	09-21-2016 11:20:35	PET1	Ted Peterson	COF	star	V	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	2	sl h2s	1	~	1	~	1	a little bit of h2s in aroma	~
+BP PR SEP 21 16	1	22	09-21-2016 11:24:52	STE1	Kelly Stewart	BH	sun	T	1	BP 1 day keg	Blue Paddle	BP	160920091	1	keg	0	0	0	09/21/16	09/20/16	03/26/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	TTB	~

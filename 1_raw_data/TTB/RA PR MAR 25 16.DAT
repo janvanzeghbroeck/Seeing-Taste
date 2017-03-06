@@ -1,0 +1,82 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+RA PR MAR 25 16	1	1	03-25-2016 10:11:38	MAD1	John Madigan	PKG	star	T	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	1	03-25-2016 10:11:38	MAD1	John Madigan	PKG	star	T	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	1	03-25-2016 10:11:38	MAD1	John Madigan	PKG	star	T	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	2	03-25-2016 10:11:41	DAU1	Soren Daugaard	PKG	star	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	2	03-25-2016 10:11:41	DAU1	Soren Daugaard	PKG	star	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	2	03-25-2016 10:11:41	DAU1	Soren Daugaard	PKG	star	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	3	03-25-2016 10:15:40	HOL2	Michelle Holbrook	EVE	sun	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	3	03-25-2016 10:15:40	HOL2	Michelle Holbrook	EVE	sun	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	2	2	low foam	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	3	03-25-2016 10:15:40	HOL2	Michelle Holbrook	EVE	sun	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	3	1	~	2	aged. carmel, biscuity/malty	1	~	1	~	2	~	not ttb - seems aged
+RA PR MAR 25 16	1	4	03-25-2016 10:24:58	BUR1	Travis Burge	BH	sun	T	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	1	1	~	1	~	1	~	1	~	1	something sl off on aroma but can;t place my tongue on it.	~
+RA PR MAR 25 16	1	4	03-25-2016 10:24:58	BUR1	Travis Burge	BH	sun	T	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	4	03-25-2016 10:24:58	BUR1	Travis Burge	BH	sun	T	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	3	1	~	2	differnt beer like citrusy and not bitter	2	low bitter	1	~	1	NOT TRUE TO BRAND, differnt beer.	~
+RA PR MAR 25 16	1	5	03-25-2016 10:26:35	KJO	Casey Kjolhede	FUL	sun	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	5	03-25-2016 10:26:35	KJO	Casey Kjolhede	FUL	sun	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	5	03-25-2016 10:26:35	KJO	Casey Kjolhede	FUL	sun	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	6	03-25-2016 10:31:12	BAN1	Tamar Banner	COF	sun	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	1	1	~	2	weirdly tropical, also slight mercaptan/garbage drain, going to put it all together and call it... BUTYRIC.	1	~	2	thin	2	~	butyric. no go. don't sell this.
+RA PR MAR 25 16	1	6	03-25-2016 10:31:12	BAN1	Tamar Banner	COF	sun	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	2	1	~	1	~	1	~	1	~	1	tastes night and day different from my last sample, so if that one was ttb, then this one is not.  but this is closer to the description in all ways, especially in that it is nice and dry not juicy and weird.	~
+RA PR MAR 25 16	1	6	03-25-2016 10:31:12	BAN1	Tamar Banner	COF	sun	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	3	2	intensely chunky.  lots of particulate, in small, medium, large, and extra large size.	1	~	1	~	1	~	2	~	i'm going to go ahead and in this rare situation, no go this for visual.  it tastes and smells right to me, but the visual is intensely off.
+RA PR MAR 25 16	1	7	03-25-2016 10:37:46	SEE1	Shawn Seeboth	MAIN	sun	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	7	03-25-2016 10:37:46	SEE1	Shawn Seeboth	MAIN	sun	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	7	03-25-2016 10:37:46	SEE1	Shawn Seeboth	MAIN	sun	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	8	03-25-2016 10:44:40	BAI1	Zach Baitinger	PUR	sun	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	8	03-25-2016 10:44:40	BAI1	Zach Baitinger	PUR	sun	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	8	03-25-2016 10:44:40	BAI1	Zach Baitinger	PUR	sun	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	3	1	~	1	~	1	~	1	~	1	dull , coating	~
+RA PR MAR 25 16	1	9	03-25-2016 10:45:09	BIE2	Jeff Biegert	COF	sun	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	1	1	~	1	~	1	~	1	~	1	ttb-dull hop aroma, overall ok	~
+RA PR MAR 25 16	1	9	03-25-2016 10:45:09	BIE2	Jeff Biegert	COF	sun	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	2	1	~	1	~	1	~	1	~	1	ttb-bland but ok	~
+RA PR MAR 25 16	1	9	03-25-2016 10:45:09	BIE2	Jeff Biegert	COF	sun	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	3	1	~	1	~	1	~	1	~	1	ttb-muted hop aroma	~
+RA PR MAR 25 16	1	10	03-25-2016 10:46:48	BEE1	Bethany Beers	PD	sun	T	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	1	1	~	2	aroma seemed very dull, but could be my sl cold	1	~	1	~	2	~	see aroma
+RA PR MAR 25 16	1	10	03-25-2016 10:46:48	BEE1	Bethany Beers	PD	sun	T	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	10	03-25-2016 10:46:48	BEE1	Bethany Beers	PD	sun	T	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	11	03-25-2016 10:54:51	MIT1	Andy Mitchell	COF	star	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	11	03-25-2016 10:54:51	MIT1	Andy Mitchell	COF	star	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	11	03-25-2016 10:54:51	MIT1	Andy Mitchell	COF	star	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	12	03-25-2016 10:57:11	HUL1	Grady Hull	PAD	sun	T	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	12	03-25-2016 10:57:11	HUL1	Grady Hull	PAD	sun	T	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	12	03-25-2016 10:57:11	HUL1	Grady Hull	PAD	sun	T	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	3	1	~	1	~	1	~	1	~	1	slight stale grady	~
+RA PR MAR 25 16	1	13	03-25-2016 10:59:14	KIR1	Marie Kirkpatrick	LC	star	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	13	03-25-2016 10:59:14	KIR1	Marie Kirkpatrick	LC	star	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	13	03-25-2016 10:59:14	KIR1	Marie Kirkpatrick	LC	star	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	14	03-25-2016 11:01:53	PET3	Tyler Peters	LC	star	T	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	14	03-25-2016 11:01:53	PET3	Tyler Peters	LC	star	T	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	14	03-25-2016 11:01:53	PET3	Tyler Peters	LC	star	T	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	15	03-25-2016 11:05:04	HOL1	Chris Holbrook	COF	sun	T	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	15	03-25-2016 11:05:04	HOL1	Chris Holbrook	COF	sun	T	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	15	03-25-2016 11:05:04	HOL1	Chris Holbrook	COF	sun	T	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	16	03-25-2016 11:08:21	DAV1	Kevin Davis	COF	sun	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	1	1	~	1	~	1	~	1	~	2	~	sorry, meant to ding the aroma.  also ovreall for waxy caprylic
+RA PR MAR 25 16	1	16	03-25-2016 11:08:21	DAV1	Kevin Davis	COF	sun	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	16	03-25-2016 11:08:21	DAV1	Kevin Davis	COF	sun	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	17	03-25-2016 11:09:57	AMM1	Lisa Ammann	MKT	sun	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	1	1	~	2	old and cheesy. either aged or isovaleric	1	~	1	~	2	~	old?
+RA PR MAR 25 16	1	17	03-25-2016 11:09:57	AMM1	Lisa Ammann	MKT	sun	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	17	03-25-2016 11:09:57	AMM1	Lisa Ammann	MKT	sun	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	18	03-25-2016 11:13:13	VAN1	Sarah VanVlerah	LC	star	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	1	1	~	2	pretty dull. Not a lot of bold american hop aromas	1	~	1	~	1		~
+RA PR MAR 25 16	1	18	03-25-2016 11:13:13	VAN1	Sarah VanVlerah	LC	star	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	2	1	~	2	dull and presence of isovaleric	1	~	1	~	2	~	it's showing aged characteristics which isn't cool for a production release
+RA PR MAR 25 16	1	18	03-25-2016 11:13:13	VAN1	Sarah VanVlerah	LC	star	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	19	03-25-2016 11:13:31	BAR1	Lindsay Barr	QA	sun	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	1	1	~	2	dull and grassy and too much myrcene if there is such a thing	1	~	1	~	2	~	no citrus jsut grass and pine
+RA PR MAR 25 16	1	19	03-25-2016 11:13:31	BAR1	Lindsay Barr	QA	sun	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	2	1	~	2	no citrus just grass and pine	1	~	1	~	2	~	no citrus just grass and pine
+RA PR MAR 25 16	1	19	03-25-2016 11:13:31	BAR1	Lindsay Barr	QA	sun	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	3	1	~	1	~	1	~	1	~	1	there it is!	~
+RA PR MAR 25 16	1	20	03-25-2016 11:15:08	MCC1	Chris McCombs	ENG	sun	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	20	03-25-2016 11:15:08	MCC1	Chris McCombs	ENG	sun	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	20	03-25-2016 11:15:08	MCC1	Chris McCombs	ENG	sun	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	21	03-25-2016 11:21:20	TRU1	Jason Trujillo	QA	sun	T	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	21	03-25-2016 11:21:20	TRU1	Jason Trujillo	QA	sun	T	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	21	03-25-2016 11:21:20	TRU1	Jason Trujillo	QA	sun	T	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	22	03-25-2016 11:25:41	PON1	Dave Ponceby	LC	star	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	22	03-25-2016 11:25:41	PON1	Dave Ponceby	LC	star	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	22	03-25-2016 11:25:41	PON1	Dave Ponceby	LC	star	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	23	03-25-2016 11:26:58	LIM1	Pete Limbach	EVE	star	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	23	03-25-2016 11:26:58	LIM1	Pete Limbach	EVE	star	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	2	1	~	2	trans 2 nononal	1	~	2	drying	2	~	papery ox
+RA PR MAR 25 16	1	23	03-25-2016 11:26:58	LIM1	Pete Limbach	EVE	star	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	24	03-25-2016 11:31:49	SED1	Dana Sedin	QA	sun	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	24	03-25-2016 11:31:49	SED1	Dana Sedin	QA	sun	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	24	03-25-2016 11:31:49	SED1	Dana Sedin	QA	sun	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	25	03-25-2016 11:35:45	COG1	Paul Coggins	BH	star	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	25	03-25-2016 11:35:45	COG1	Paul Coggins	BH	star	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	25	03-25-2016 11:35:45	COG1	Paul Coggins	BH	star	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	26	03-25-2016 11:37:12	PET1	Ted Peterson	COF	star	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	26	03-25-2016 11:37:12	PET1	Ted Peterson	COF	star	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	26	03-25-2016 11:37:12	PET1	Ted Peterson	COF	star	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	3	1	~	1	~	1	~	1	~	1	extra citrus	~
+RA PR MAR 25 16	1	27	03-25-2016 11:37:14	IRB1	Jeff Irby	QA	star	V	3	RA 3 day keg	Ranger	RA	160322760	3	keg	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	492	1	1	~	1	~	1	~	1	~	1	sl more vegetal than tropical	~
+RA PR MAR 25 16	1	27	03-25-2016 11:37:14	IRB1	Jeff Irby	QA	star	V	2	RA 3 day bottle	Ranger	RA	160322067	3	bottle	0	0	0	03/25/16	03/22/16	03/25/16	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAR 25 16	1	27	03-25-2016 11:37:14	IRB1	Jeff Irby	QA	star	V	1	RA 1 day bottle	Ranger	RA	160324101	1	bottle	0	0	0	03/25/16	03/24/16	07/31/16	PR	1	193	3	1	~	1	~	1	~	1	~	1	sl grassy	~

@@ -1,0 +1,39 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNum	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT PR DEC 15 15	1	1	12-15-2015 11:57:00	PET2	Ken Petroski	COF	star	V	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	1	12-15-2015 11:57:00	PET2	Ken Petroski	COF	star	V	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	2	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	2	12-15-2015 11:57:00	SCH1	Ali Schultz	QA	sun	V	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	2	12-15-2015 11:57:00	SCH1	Ali Schultz	QA	sun	V	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	2	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	3	12-15-2015 11:57:00	KO81	Isaac Koski	LC	star	V	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	3	12-15-2015 11:57:00	KO81	Isaac Koski	LC	star	V	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	2	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	4	12-15-2015 11:57:00	TRU1	Jason Trujillo	QA	sun	T	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	4	12-15-2015 11:57:00	TRU1	Jason Trujillo	QA	sun	T	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	2	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	5	12-15-2015 11:57:00	BAR1	Lindsay Barr	QA	sun	V	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	1	1	~	1	~	1	~	2	very very dry	1	crazy astringent	~
+FT PR DEC 15 15	1	5	12-15-2015 11:57:00	BAR1	Lindsay Barr	QA	sun	V	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	2	1	~	1	~	1	~	2	very astringent!	1	"Again, crazy astringent"	~
+FT PR DEC 15 15	1	6	12-15-2015 11:57:00	DAR1	Kevin Darst	PD	sun	V	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	6	12-15-2015 11:57:00	DAR1	Kevin Darst	PD	sun	V	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	2	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	7	12-15-2015 11:57:00	KIR2	Kaylyn Kirkpatrick	QA	star	V	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	7	12-15-2015 11:57:00	KIR2	Kaylyn Kirkpatrick	QA	star	V	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	2	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	8	12-15-2015 11:57:00	LIM1	Pete Limbach	EVE	star	V	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	1	2	particulate	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	8	12-15-2015 11:57:00	LIM1	Pete Limbach	EVE	star	V	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	2	2	particulate	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	9	12-15-2015 11:57:00	BLE1	Billy Bletcher	COF	star	T	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	1	1	~	1	~	1	~	1	~	1	hmmmm	~
+FT PR DEC 15 15	1	9	12-15-2015 11:57:00	BLE1	Billy Bletcher	COF	star	T	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	2	1	~	1	~	1	~	1	~	1	hmmmm	~
+FT PR DEC 15 15	1	10	12-15-2015 11:57:00	RAD1	Brent Radke	QA	star	V	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	10	12-15-2015 11:57:00	RAD1	Brent Radke	QA	star	V	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	2	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	11	12-15-2015 11:57:00	SEO1	Dana Sedin	QA	sun	V	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	11	12-15-2015 11:57:00	SEO1	Dana Sedin	QA	sun	V	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	2	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	12	12-15-2015 11:57:00	BUR1	Travis Burge	BH	sun	T	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	12	12-15-2015 11:57:00	BUR1	Travis Burge	BH	sun	T	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	2	1	~	1	~	1	~	1	~	1	sl tr solventy	~
+FT PR DEC 15 15	1	13	12-15-2015 11:57:00	FIS1	Mark Fischer	PAD	sun	T	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	13	12-15-2015 11:57:00	FIS1	Mark Fischer	PAD	sun	T	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	2	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	14	12-15-2015 11:57:00	AMP1	Nick Ampe	EHS	sun	V	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	14	12-15-2015 11:57:00	AMP1	Nick Ampe	EHS	sun	V	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	2	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	15	12-15-2015 11:57:00	LAV2	Aaron LaVanchy	PKG	star	T	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	15	12-15-2015 11:57:00	LAV2	Aaron LaVanchy	PKG	star	T	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	2	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	16	12-15-2015 11:57:00	NOR1	Ryan Norwood	QA	sun	V	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	16	12-15-2015 11:57:00	NOR1	Ryan Norwood	QA	sun	V	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	2	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	17	12-15-2015 11:57:00	HAL1	Tony Hall	PKG	star	T	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	1	1	~	1	~	2	watery	2	lacking carbonation	2	~	watery
+FT PR DEC 15 15	1	17	12-15-2015 11:57:00	HAL1	Tony Hall	PKG	star	T	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	2	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	18	12-15-2015 11:57:00	PEO1	Kaitlyn Peot	FUL	sun	T	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	18	12-15-2015 11:57:00	PEO1	Kaitlyn Peot	FUL	sun	T	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	2	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	19	12-15-2015 11:57:00	MCCl	Chris McCombs	ENG	sun	V	2	FT 0 day keg	Fat Tire	FT	151215061	0	keg	0	0	0	12/15/15	12/15/15	04/24/16	PR	1	589	1	1	~	1	~	1	~	1	~	1		~
+FT PR DEC 15 15	1	19	12-15-2015 11:57:00	MCCl	Chris McCombs	ENG	sun	V	1	FT 1 day bottle	Fat Tire	FT	151214091	1	bottle	0	0	0	12/15/15	12/14/15	04/24/16	PR	1	219	2	1	~	1	~	1	~	1	~	1		~

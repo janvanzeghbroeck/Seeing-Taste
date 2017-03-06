@@ -1,0 +1,63 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+RA PR FEB 18 16	1	1	02-18-2016 10:09:01	RAD1	Brent Radke	QA	star	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	1	02-18-2016 10:09:01	RAD1	Brent Radke	QA	star	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	2	02-18-2016 10:11:41	DIC2	Gary Dick	BH	sun	T	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	2	02-18-2016 10:11:41	DIC2	Gary Dick	BH	sun	T	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	3	02-18-2016 10:12:16	MIT1	Andy Mitchell	COF	star	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	3	02-18-2016 10:12:16	MIT1	Andy Mitchell	COF	star	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	4	02-18-2016 10:13:24	COG1	Paul Coggins	BH	star	T	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	4	02-18-2016 10:13:24	COG1	Paul Coggins	BH	star	T	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	5	02-18-2016 10:13:40	HUL1	Grady Hull	PAD	sun	T	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	5	02-18-2016 10:13:40	HUL1	Grady Hull	PAD	sun	T	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	6	02-18-2016 10:20:24	DAR1	Kevin Darst	PD	sun	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	6	02-18-2016 10:20:24	DAR1	Kevin Darst	PD	sun	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	7	02-18-2016 10:26:34	HOL1	Chris Holbrook	COF	sun	T	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	7	02-18-2016 10:26:34	HOL1	Chris Holbrook	COF	sun	T	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	8	02-18-2016 10:30:42	KOS1	Isaac Koski	BH	star	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	8	02-18-2016 10:30:42	KOS1	Isaac Koski	BH	star	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	9	02-18-2016 10:31:20	PET1	Ted Peterson	COF	star	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	9	02-18-2016 10:31:20	PET1	Ted Peterson	COF	star	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	10	02-18-2016 10:34:30	BEE1	Bethany Beers	PD	sun	T	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	1	2	had a light uniform haze in addition to the usual particulate.	1	~	1	~	1	~	1	even though there was a sl haze, everything else looked ok. i was torn was whether to no go it or not.	~
+RA PR FEB 18 16	1	10	02-18-2016 10:34:30	BEE1	Bethany Beers	PD	sun	T	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	11	02-18-2016 10:38:15	NOR1	Ryan Norwood	QA	sun	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	11	02-18-2016 10:38:15	NOR1	Ryan Norwood	QA	sun	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	12	02-18-2016 10:38:33	GIL2	Penelope Gilliland	LC	star	T	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	12	02-18-2016 10:38:33	GIL2	Penelope Gilliland	LC	star	T	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	13	02-18-2016 10:39:57	SAL3	Keith Salmon	PKG	star	T	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	13	02-18-2016 10:39:57	SAL3	Keith Salmon	PKG	star	T	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	14	02-18-2016 10:46:58	LAV2	Aaron LaVanchy	PKG	star	T	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	1	1	~	2	lacking any kind of ''fruity hop'' notes. more garlic than usual-aaron	1	~	1	~	2	~	tasted like a different beer. too much garlic and lack of fruityness-aaron
+RA PR FEB 18 16	1	14	02-18-2016 10:46:58	LAV2	Aaron LaVanchy	PKG	star	T	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	15	02-18-2016 10:47:03	TRU1	Jason Trujillo	QA	sun	T	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	15	02-18-2016 10:47:03	TRU1	Jason Trujillo	QA	sun	T	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	16	02-18-2016 10:47:05	DAU1	Soren Daugaard	PKG	star	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	1	1	~	2	a little muted	1	~	2	a little thin	2	~	for some reason isovaleric comes to mind...and I think this sample was a little thin
+RA PR FEB 18 16	1	16	02-18-2016 10:47:05	DAU1	Soren Daugaard	PKG	star	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	17	02-18-2016 10:49:00	PET2	Ken Petroski	COF	star	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	17	02-18-2016 10:49:00	PET2	Ken Petroski	COF	star	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	18	02-18-2016 10:49:20	DIC1	Perry Dickerson	QA	sun	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	18	02-18-2016 10:49:20	DIC1	Perry Dickerson	QA	sun	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	2	1	~	2	low hop aroma	1	~	1	~	2	~	low hop aroma
+RA PR FEB 18 16	1	19	02-18-2016 10:56:49	KJO	Casey Kjolhede	FUL	sun	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	19	02-18-2016 10:56:49	KJO	Casey Kjolhede	FUL	sun	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	20	02-18-2016 10:58:14	SAL1	Eric Salazar	BH	star	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	20	02-18-2016 10:58:14	SAL1	Eric Salazar	BH	star	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	21	02-18-2016 11:00:25	HAL1	Tony Hall	PKG	star	T	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	21	02-18-2016 11:00:25	HAL1	Tony Hall	PKG	star	T	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	22	02-18-2016 11:00:39	DAV1	Kevin Davis	COF	sun	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	22	02-18-2016 11:00:39	DAV1	Kevin Davis	COF	sun	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	23	02-18-2016 11:03:58	BOU1	Peter Bouckaert	PAD	sun	T	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	2	not brilliant ok on particles	1	~	1	~	1	~	1	nice	~
+RA PR FEB 18 16	1	23	02-18-2016 11:03:58	BOU1	Peter Bouckaert	PAD	sun	T	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	2	low in citrus, but easy getting tired from being punched in the face with hops	1	~	1	~	1	ok	~
+RA PR FEB 18 16	1	24	02-18-2016 11:06:07	FIS1	Mark Fischer	PAD	sun	T	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	24	02-18-2016 11:06:07	FIS1	Mark Fischer	PAD	sun	T	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	25	02-18-2016 11:15:18	BLE1	Billy Bletcher	COF	star	T	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	25	02-18-2016 11:15:18	BLE1	Billy Bletcher	COF	star	T	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	26	02-18-2016 11:17:03	CON1	Karl Conklin	QA	sun	T	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	26	02-18-2016 11:17:03	CON1	Karl Conklin	QA	sun	T	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	27	02-18-2016 11:18:36	LIM1	Pete Limbach	EVE	star	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	27	02-18-2016 11:18:36	LIM1	Pete Limbach	EVE	star	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	28	02-18-2016 11:19:46	DUF1	Emily Dufficy	LC	star	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	28	02-18-2016 11:19:46	DUF1	Emily Dufficy	LC	star	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	29	02-18-2016 11:25:59	AMM1	Lisa Ammann	MKT	sun	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	29	02-18-2016 11:25:59	AMM1	Lisa Ammann	MKT	sun	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	30	02-18-2016 11:27:04	PET3	Tyler Peters	LC	star	T	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	30	02-18-2016 11:27:04	PET3	Tyler Peters	LC	star	T	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	31	02-18-2016 11:30:38	AMP1	Nick Ampe	EHS	sun	V	2	RA 1 day bottle	Ranger	RA	160217051	1	bottle	0	0	0	02/18/16	02/17/16	06/26/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR FEB 18 16	1	31	02-18-2016 11:30:38	AMP1	Nick Ampe	EHS	sun	V	1	RA 2 day bottle	Ranger	RA	160216012	2	bottle	0	0	0	02/18/16	02/16/16	06/26/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~

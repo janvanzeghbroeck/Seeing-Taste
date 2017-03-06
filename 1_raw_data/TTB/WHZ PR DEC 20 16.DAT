@@ -1,0 +1,31 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+WHZ PR DEC 20 16	1	1	12-20-2016 10:11:19	AMM1	Lisa Ammann	MKT	sun	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	2	12-20-2016 10:11:35	LAV2	Aaron LaVanchy	PKG	star	T	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	3	12-20-2016 10:11:38	BOG1	Brian Bogan	EVE	sun	T	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	4	12-20-2016 10:12:02	KOS1	Isaac Koski	BH	star	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	5	12-20-2016 10:14:02	SCH1	Ali Schultz	QA	sun	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	ridiculously aromatic!	~
+WHZ PR DEC 20 16	1	6	12-20-2016 10:19:20	MIT1	Andy Mitchell	COF	star	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	7	12-20-2016 10:21:40	MAD1	John Madigan	PKG	star	T	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	8	12-20-2016 10:23:18	KOE1	Ross Koenigs	COF	star	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	9	12-20-2016 10:25:59	PET1	Ted Peterson	COF	star	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	very orangey to me	~
+WHZ PR DEC 20 16	1	10	12-20-2016 10:26:37	KJO	Casey Kjolhede	FUL	sun	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	11	12-20-2016 10:31:31	VIC1	Tanya Victor	SALES	sun	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	12	12-20-2016 10:37:39	SAL1	Eric Salazar	BH	star	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	13	12-20-2016 10:38:35	COG1	Paul Coggins	BH	star	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	14	12-20-2016 10:38:56	KAR1	Matt Karn	BH	sun	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	15	12-20-2016 10:41:06	DIC2	Josh Dick	SALES	sun	T	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	16	12-20-2016 10:44:35	HUD1	Cory Hudson	IT	sun	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	2	no particulate at all...	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	17	12-20-2016 10:49:14	SKI1	Dawn Skinner	FA	sun	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb	~
+WHZ PR DEC 20 16	1	18	12-20-2016 10:49:27	MAT1	Tucker Mattern	BH	STAR	T	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	19	12-20-2016 10:56:18	BOU1	Peter Bouckaert	PAD	sun	T	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	nice	~
+WHZ PR DEC 20 16	1	20	12-20-2016 10:57:13	PEO1	Kaitlyn Peot	FUL	sun	T	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	21	12-20-2016 10:59:14	DUB1	Kate Dubas	SALES	sun	T	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	only difference i detect is that i don't see any particulate.	~
+WHZ PR DEC 20 16	1	22	12-20-2016 11:00:48	HUL1	Grady Hull	PAD	sun	T	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	23	12-20-2016 11:01:33	GIL1	Matty Gilliland	BH	sun	T	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	Fresh and tb	~
+WHZ PR DEC 20 16	1	24	12-20-2016 11:06:01	DAU1	Soren Daugaard	PKG	star	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	25	12-20-2016 11:10:08	BIE1	Jeff Biegert	COF	sun	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb-garlic, citrus	~
+WHZ PR DEC 20 16	1	26	12-20-2016 11:12:26	BAR2	Ben Barrett	SALES	sun	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	27	12-20-2016 11:12:30	CON1	Karl Conklin	QA	sun	T	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	28	12-20-2016 11:25:38	LIM1	Pete Limbach	EVE	star	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR DEC 20 16	1	29	12-20-2016 11:28:47	CHR	Rob Christiansen	QA	sun	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	I think this is TTB for Whizbang but there are some sharp garlic notes and the mouthfeel seems a little high on the carb	~
+WHZ PR DEC 20 16	1	30	12-20-2016 11:36:07	PON1	Dave Ponceby	LC	star	V	1	WHZ 1 day keg	Whizbang	WHZ	161219081	1	keg	0	0	0	12/20/16	12/19/16	12/20/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

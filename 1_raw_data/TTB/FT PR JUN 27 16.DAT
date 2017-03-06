@@ -1,0 +1,64 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT PR JUN 27 16	1	1	06-27-2016 10:03:06	LAV2	Aaron LaVanchy	PKG	star	T	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	1	06-27-2016 10:03:06	LAV2	Aaron LaVanchy	PKG	star	T	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	1	06-27-2016 10:03:06	LAV2	Aaron LaVanchy	PKG	star	T	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	2	06-27-2016 10:03:21	DIC2	Josh Dick	SALES	sun	T	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	2	06-27-2016 10:03:21	DIC2	Josh Dick	SALES	sun	T	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	2	06-27-2016 10:03:21	DIC2	Josh Dick	SALES	sun	T	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	3	06-27-2016 10:04:36	DAU1	Soren Daugaard	PKG	star	V	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	3	06-27-2016 10:04:36	DAU1	Soren Daugaard	PKG	star	V	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	3	06-27-2016 10:04:36	DAU1	Soren Daugaard	PKG	star	V	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	4	06-27-2016 10:05:54	FIS1	Mark Fischer	PAD	sun	T	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	4	06-27-2016 10:05:54	FIS1	Mark Fischer	PAD	sun	T	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	4	06-27-2016 10:05:54	FIS1	Mark Fischer	PAD	sun	T	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	5	06-27-2016 10:07:07	OLO1	Kyle O'Loughlin	COF	star	V	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	5	06-27-2016 10:07:07	OLO1	Kyle O'Loughlin	COF	star	V	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	5	06-27-2016 10:07:07	OLO1	Kyle O'Loughlin	COF	star	V	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	6	06-27-2016 10:12:27	PET2	Ken Petroski	COF	star	V	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	6	06-27-2016 10:12:27	PET2	Ken Petroski	COF	star	V	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	6	06-27-2016 10:12:27	PET2	Ken Petroski	COF	star	V	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	7	06-27-2016 10:16:03	MAD1	John Madigan	PKG	star	T	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	7	06-27-2016 10:16:03	MAD1	John Madigan	PKG	star	T	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	7	06-27-2016 10:16:03	MAD1	John Madigan	PKG	star	T	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	8	06-27-2016 10:17:42	SED1	Dana Sedin	QA	sun	V	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	8	06-27-2016 10:17:42	SED1	Dana Sedin	QA	sun	V	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	8	06-27-2016 10:17:42	SED1	Dana Sedin	QA	sun	V	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	9	06-27-2016 10:23:00	DIC1	Gary Dick	BH	sun	T	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	9	06-27-2016 10:23:00	DIC1	Gary Dick	BH	sun	T	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	9	06-27-2016 10:23:00	DIC1	Gary Dick	BH	sun	T	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	10	06-27-2016 10:23:21	HUL1	Grady Hull	PAD	sun	T	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	10	06-27-2016 10:23:21	HUL1	Grady Hull	PAD	sun	T	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	10	06-27-2016 10:23:21	HUL1	Grady Hull	PAD	sun	T	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	11	06-27-2016 10:29:10	KAR1	Matt Karn	BH	sun	T	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	11	06-27-2016 10:29:10	KAR1	Matt Karn	BH	sun	T	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	11	06-27-2016 10:29:10	KAR1	Matt Karn	BH	sun	T	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	12	06-27-2016 10:33:14	TRU1	Jason Trujillo	QA	sun	T	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	12	06-27-2016 10:33:14	TRU1	Jason Trujillo	QA	sun	T	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	12	06-27-2016 10:33:14	TRU1	Jason Trujillo	QA	sun	T	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	13	06-27-2016 10:40:59	HUD1	Cory Hudson	IT	sun	T	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	1	1	~	1	~	1	~	1	~	1	slight particulate in this sample, but not bad at all	~
+FT PR JUN 27 16	1	13	06-27-2016 10:40:59	HUD1	Cory Hudson	IT	sun	T	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	2	1	~	1	~	1	~	1	~	1	taste felt mildly muted, but again, not bad enough imo to kill it	~
+FT PR JUN 27 16	1	13	06-27-2016 10:40:59	HUD1	Cory Hudson	IT	sun	T	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	3	1	~	1	~	1	~	1	~	1	sample was ttb imo, but malty/dms was a tad thinner than some and ehex/herbs was more prominent.	~
+FT PR JUN 27 16	1	14	06-27-2016 10:44:56	SCH1	Ali Schultz	QA	sun	V	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	1	1	~	1	~	1	~	1	~	1	a few larger chunkies	~
+FT PR JUN 27 16	1	14	06-27-2016 10:44:56	SCH1	Ali Schultz	QA	sun	V	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	2	1	~	1	~	2	harsh and lingering bitter	1	~	1		~
+FT PR JUN 27 16	1	14	06-27-2016 10:44:56	SCH1	Ali Schultz	QA	sun	V	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	15	06-27-2016 10:54:26	SKI1	Dawn Skinner	FA	sun	V	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	1	1	~	1	~	1	~	1	~	1	clarity is off, but ttb.	~
+FT PR JUN 27 16	1	15	06-27-2016 10:54:26	SKI1	Dawn Skinner	FA	sun	V	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	2	1	~	1	~	1	~	1	~	1	clarity off, but ttb.	~
+FT PR JUN 27 16	1	15	06-27-2016 10:54:26	SKI1	Dawn Skinner	FA	sun	V	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	3	1	~	1	~	1	~	1	~	1	ttb	~
+FT PR JUN 27 16	1	16	06-27-2016 11:01:18	PEO1	Kaitlyn Peot	FUL	sun	T	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	16	06-27-2016 11:01:18	PEO1	Kaitlyn Peot	FUL	sun	T	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	16	06-27-2016 11:01:18	PEO1	Kaitlyn Peot	FUL	sun	T	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	17	06-27-2016 11:09:35	BAR1	Lindsay Barr	QA	sun	V	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	17	06-27-2016 11:09:35	BAR1	Lindsay Barr	QA	sun	V	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	17	06-27-2016 11:09:35	BAR1	Lindsay Barr	QA	sun	V	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	18	06-27-2016 11:12:14	COG1	Paul Coggins	BH	star	V	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	18	06-27-2016 11:12:14	COG1	Paul Coggins	BH	star	V	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	18	06-27-2016 11:12:14	COG1	Paul Coggins	BH	star	V	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	19	06-27-2016 11:19:10	PON1	Dave Ponceby	LC	star	V	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	19	06-27-2016 11:19:10	PON1	Dave Ponceby	LC	star	V	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	19	06-27-2016 11:19:10	PON1	Dave Ponceby	LC	star	V	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	20	06-27-2016 11:23:34	MCC1	Chris McCombs	ENG	sun	V	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	20	06-27-2016 11:23:34	MCC1	Chris McCombs	ENG	sun	V	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	20	06-27-2016 11:23:34	MCC1	Chris McCombs	ENG	sun	V	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	3	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	21	06-27-2016 11:31:27	AMP1	Nick Ampe	EHS	sun	V	2	FT 2 day bottle	Fat Tire	FT	160625051	2	bottle	0	0	0	06/27/16	06/25/16	10/30/16	PR	1	236	1	1	~	2	slight sulfidic	1	~	2	slightly thin mouthfeel	1	slight sulfidic, but still ttb	~
+FT PR JUN 27 16	1	21	06-27-2016 11:31:27	AMP1	Nick Ampe	EHS	sun	V	1	FT 3 day bottle	Fat Tire	FT	160624091	3	bottle	0	0	0	06/27/16	06/24/16	10/30/16	PR	1	193	2	1	~	1	~	1	~	1	~	1		~
+FT PR JUN 27 16	1	21	06-27-2016 11:31:27	AMP1	Nick Ampe	EHS	sun	V	3	FT 1 day bottle	Fat Tire	FT	160626081	1	bottle	0	0	0	06/27/16	06/26/16	10/30/16	PR	1	492	3	1	~	1	~	1	~	1	~	1		~

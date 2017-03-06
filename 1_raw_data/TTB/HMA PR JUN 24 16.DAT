@@ -1,0 +1,35 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+HMA PR JUN 24 16	1	1	06-24-2016 10:05:35	PET2	Ken Petroski	COF	star	V	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	1	06-24-2016 10:05:35	PET2	Ken Petroski	COF	star	V	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	2	06-24-2016 10:09:54	DAR1	Kevin Darst	PD	sun	V	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	more rind than jolly rancher	~
+HMA PR JUN 24 16	1	2	06-24-2016 10:09:54	DAR1	Kevin Darst	PD	sun	V	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	2	1	~	2	melon is bland/missing. cheerios maltiness dominates.	1	~	1	~	2	~	bland or missing melon aroma
+HMA PR JUN 24 16	1	3	06-24-2016 10:12:55	HUL1	Grady Hull	PAD	sun	T	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	3	06-24-2016 10:12:55	HUL1	Grady Hull	PAD	sun	T	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	4	06-24-2016 10:16:45	DAU1	Soren Daugaard	PKG	star	V	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	4	06-24-2016 10:16:45	DAU1	Soren Daugaard	PKG	star	V	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	5	06-24-2016 10:19:31	SED1	Dana Sedin	QA	sun	V	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	5	06-24-2016 10:19:31	SED1	Dana Sedin	QA	sun	V	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	6	06-24-2016 10:20:36	HAL1	Tony Hall	PKG	star	T	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	6	06-24-2016 10:20:36	HAL1	Tony Hall	PKG	star	T	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	7	06-24-2016 10:25:01	FIS1	Mark Fischer	PAD	sun	T	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	7	06-24-2016 10:25:01	FIS1	Mark Fischer	PAD	sun	T	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	8	06-24-2016 10:27:04	STE1	Kelly Stewart	BH	sun	T	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	TTB	~
+HMA PR JUN 24 16	1	8	06-24-2016 10:27:04	STE1	Kelly Stewart	BH	sun	T	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	2	1	~	1	~	1	~	1	~	1	TTB	~
+HMA PR JUN 24 16	1	9	06-24-2016 10:35:40	MCC1	Chris McCombs	ENG	sun	V	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	9	06-24-2016 10:35:40	MCC1	Chris McCombs	ENG	sun	V	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	10	06-24-2016 10:44:05	DIC1	Gary Dick	BH	sun	T	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	10	06-24-2016 10:44:05	DIC1	Gary Dick	BH	sun	T	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	11	06-24-2016 10:50:35	SEE1	Shawn Seeboth	MAIN	sun	V	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	11	06-24-2016 10:50:35	SEE1	Shawn Seeboth	MAIN	sun	V	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	12	06-24-2016 11:05:46	CON1	Karl Conklin	QA	sun	T	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	12	06-24-2016 11:05:46	CON1	Karl Conklin	QA	sun	T	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	13	06-24-2016 11:07:38	KOE1	Ross Koenigs	COF	star	V	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	13	06-24-2016 11:07:38	KOE1	Ross Koenigs	COF	star	V	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	14	06-24-2016 11:11:56	SKI1	Dawn Skinner	FA	sun	V	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	getting a little dms.. but meh.	~
+HMA PR JUN 24 16	1	14	06-24-2016 11:11:56	SKI1	Dawn Skinner	FA	sun	V	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1	maybe its jsut that corny malt thing- why I'm getting trace dms... nevermind.	~
+HMA PR JUN 24 16	1	15	06-24-2016 11:18:27	BAN1	Tamar Banner	COF	sun	V	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	drinking vegetables makes my head hurt less (please don't put this up on the quote list).	~
+HMA PR JUN 24 16	1	15	06-24-2016 11:18:27	BAN1	Tamar Banner	COF	sun	V	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	16	06-24-2016 11:23:08	BAR1	Lindsay Barr	QA	sun	V	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	16	06-24-2016 11:23:08	BAR1	Lindsay Barr	QA	sun	V	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1	extra veg and sour	~
+HMA PR JUN 24 16	1	17	06-24-2016 11:29:08	PON1	Dave Ponceby	LC	star	V	2	HMA 1 day keg	Heavy Melon	HMA	160623051	1	keg	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+HMA PR JUN 24 16	1	17	06-24-2016 11:29:08	PON1	Dave Ponceby	LC	star	V	1	HMA 1 day bottle	Heavy Melon	HMA	160623061	1	bottle	0	0	0	06/24/16	06/23/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~

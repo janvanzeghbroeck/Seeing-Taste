@@ -1,0 +1,37 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT PR JAN 4 16	1	1	01-04-2016 10:06:09	LAV2	Aaron LaVanchy	PKG	star	T	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	2	01-04-2016 10:06:22	DIC1	Perry Dickerson	QA	sun	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	3	01-04-2016 10:06:23	SAL2	Lauren Salazar	QA	star	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	2	bland	2	watery	1	no off flavors, just watery and bland	~
+FT PR JAN 4 16	1	4	01-04-2016 10:06:25	SAL3	Keith Salmon	PKG	star	T	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	5	01-04-2016 10:06:43	DAU1	Soren Daugaard	PKG	star	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	6	01-04-2016 10:11:32	SEE1	Shawn Seeboth	MAIN	sun	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	7	01-04-2016 10:11:54	HAL1	Tony Hall	PKG	star	T	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	8	01-04-2016 10:11:58	FIS1	Mark Fischer	PAD	sun	T	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	9	01-04-2016 10:12:56	SED1	Dana Sedin	QA	sun	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	10	01-04-2016 10:13:09	MIT1	Andy Mitchell	COF	star	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	11	01-04-2016 10:18:35	LIM1	Pete Limbach	EVE	star	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	12	01-04-2016 10:18:40	PET2	Ken Petroski	COF	star	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	13	01-04-2016 10:25:25	GIL2	Penelope Gilliland	LC	star	T	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	14	01-04-2016 10:26:41	NOR1	Ryan Norwood	QA	sun	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	15	01-04-2016 10:27:43	OLO1	Kyle O'Loughlin	COF	star	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	16	01-04-2016 10:28:04	HUL1	Grady Hull	PAD	sun	T	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	17	01-04-2016 10:33:32	BEE1	Bethany Beers	PD	sun	T	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	18	01-04-2016 10:40:23	KOL1	Katy Koller	PD	sun	T	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	19	01-04-2016 10:41:23	KOE1	Ross Koenigs	COF	star	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	20	01-04-2016 10:45:06	HOL2	Michelle Holbrook	EVE	sun	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	21	01-04-2016 10:45:25	SCH1	Ali Schultz	QA	sun	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	22	01-04-2016 10:45:45	MCC1	Chris McCombs	ENG	sun	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	23	01-04-2016 10:50:02	SAL1	Eric Salazar	BH	star	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	24	01-04-2016 10:50:36	DAR1	Kevin Darst	PD	sun	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	25	01-04-2016 10:52:00	HOL1	Chris Holbrook	COF	sun	T	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	26	01-04-2016 10:53:41	HAG1	Andrew Hagdorn	COF	sun	T	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	27	01-04-2016 10:56:47	KJO	Casey Kjolhede	FUL	sun	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	28	01-04-2016 11:00:21	AMP1	Nick Ampe	EHS	sun	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	29	01-04-2016 11:00:30	BAN1	Tamar Banner	COF	sun	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	30	01-04-2016 11:01:00	AMM1	Lisa Ammann	MKT	sun	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	2	seems metallic	2	metallic MF	2	~	metallic
+FT PR JAN 4 16	1	31	01-04-2016 11:04:34	PON1	Dave Ponceby	LC	star	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	32	01-04-2016 11:06:50	TRU1	Jason Trujillo	QA	sun	T	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	33	01-04-2016 11:08:07	DUF1	Emily Dufficy	LC	star	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	34	01-04-2016 11:11:42	KIR2	Kaylyn Kirkpatrick	QA	star	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 4 16	1	35	01-04-2016 11:15:12	BOU1	Peter Bouckaert	PAD	sun	T	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	quite warm sample bringing out more sweet and vanilla like	~
+FT PR JAN 4 16	1	36	01-04-2016 11:15:22	BAR1	Lindsay Barr	QA	sun	V	1	FT 0 Day Keg	Fat Tire	FT	160104091	0	keg	0	0	0	01/04/16	01/04/16	05/15/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

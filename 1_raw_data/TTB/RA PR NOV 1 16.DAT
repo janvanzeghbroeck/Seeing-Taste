@@ -1,0 +1,57 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+RA PR NOV 1 16	1	1	11-01-2016 10:06:24	SAL3	Keith Salmon	PKG	star	T	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	1	11-01-2016 10:06:24	SAL3	Keith Salmon	PKG	star	T	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	2	11-01-2016 10:09:01	HUL1	Grady Hull	PAD	sun	T	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	2	11-01-2016 10:09:01	HUL1	Grady Hull	PAD	sun	T	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	3	11-01-2016 10:09:39	COG1	Paul Coggins	BH	star	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	3	11-01-2016 10:09:39	COG1	Paul Coggins	BH	star	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	4	11-01-2016 10:10:22	BOG1	Brian Bogan	EVE	sun	T	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	4	11-01-2016 10:10:22	BOG1	Brian Bogan	EVE	sun	T	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	5	11-01-2016 10:11:12	HAL1	Tony Hall	PKG	star	T	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	5	11-01-2016 10:11:12	HAL1	Tony Hall	PKG	star	T	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	6	11-01-2016 10:18:46	MAT1	Tucker Mattern	BH	STAR	T	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	6	11-01-2016 10:18:46	MAT1	Tucker Mattern	BH	STAR	T	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	7	11-01-2016 10:20:29	SEE1	Shawn Seeboth	MAIN	sun	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	7	11-01-2016 10:20:29	SEE1	Shawn Seeboth	MAIN	sun	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	8	11-01-2016 10:21:57	MIT1	Andy Mitchell	COF	star	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	8	11-01-2016 10:21:57	MIT1	Andy Mitchell	COF	star	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	9	11-01-2016 10:23:15	DIC2	Josh Dick	SALES	sun	T	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	9	11-01-2016 10:23:15	DIC2	Josh Dick	SALES	sun	T	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	10	11-01-2016 10:26:09	FIS1	Mark Fischer	PAD	sun	T	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	10	11-01-2016 10:26:09	FIS1	Mark Fischer	PAD	sun	T	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	11	11-01-2016 10:29:34	SAL1	Eric Salazar	BH	star	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	11	11-01-2016 10:29:34	SAL1	Eric Salazar	BH	star	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	12	11-01-2016 10:31:57	CON1	Karl Conklin	QA	sun	T	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	12	11-01-2016 10:31:57	CON1	Karl Conklin	QA	sun	T	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	13	11-01-2016 10:33:36	LAV2	Aaron LaVanchy	PKG	star	T	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	13	11-01-2016 10:33:36	LAV2	Aaron LaVanchy	PKG	star	T	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	14	11-01-2016 10:38:12	SED1	Dana Sedin	QA	sun	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	14	11-01-2016 10:38:12	SED1	Dana Sedin	QA	sun	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	15	11-01-2016 10:40:44	BEE1	Bethany Beers	PD	sun	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	15	11-01-2016 10:40:44	BEE1	Bethany Beers	PD	sun	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	16	11-01-2016 10:45:27	DAU1	Soren Daugaard	PKG	star	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	1	1	~	1	~	1	~	2	seems a little flat or low CO2	2	~	seems a little flat or low CO2
+RA PR NOV 1 16	1	16	11-01-2016 10:45:27	DAU1	Soren Daugaard	PKG	star	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	17	11-01-2016 10:50:02	PET2	Ken Petroski	COF	star	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	17	11-01-2016 10:50:02	PET2	Ken Petroski	COF	star	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	18	11-01-2016 10:51:07	SKI1	Dawn Skinner	FA	sun	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	ttb	~
+RA PR NOV 1 16	1	18	11-01-2016 10:51:07	SKI1	Dawn Skinner	FA	sun	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	2	1	~	1	~	1	~	1	~	1	ttb	~
+RA PR NOV 1 16	1	19	11-01-2016 10:51:19	LIM1	Pete Limbach	EVE	star	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	19	11-01-2016 10:51:19	LIM1	Pete Limbach	EVE	star	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	2	1	~	2	slightly dull myrcene aroma	1	~	1	~	1	a little dull	~
+RA PR NOV 1 16	1	20	11-01-2016 10:52:04	BAR2	Ben Barrett	SALES	sun	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	20	11-01-2016 10:52:04	BAR2	Ben Barrett	SALES	sun	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	21	11-01-2016 10:58:28	DAV1	Kevin Davis	COF	sun	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	21	11-01-2016 10:58:28	DAV1	Kevin Davis	COF	sun	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	2	1	~	1	~	1	~	1	~	1	some mercaptian, but low compaired to hops	~
+RA PR NOV 1 16	1	22	11-01-2016 11:12:37	VIC1	Tanya Victor	SALES	sun	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	1	1	~	1	~	1	~	1	~	1	a tiny seaweed aroma at first but ok overall	~
+RA PR NOV 1 16	1	22	11-01-2016 11:12:37	VIC1	Tanya Victor	SALES	sun	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	23	11-01-2016 11:17:44	SCH1	Ali Schultz	QA	sun	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	1	1	~	2	uhhhh. wtf. it's pretty tropical instead of citrus, and also has a weird and faint methional/sulfur aroma	1	~	1	~	2	~	aroma is off
+RA PR NOV 1 16	1	23	11-01-2016 11:17:44	SCH1	Ali Schultz	QA	sun	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	2	1	~	2	metallic, wet dog. no hops.	1	~	1	~	2	~	there are some hops in the retro, but it's way off
+RA PR NOV 1 16	1	24	11-01-2016 11:18:59	DAR1	Kevin Darst	PD	sun	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	Tough coming right off of Citra -- aroma seems pretty light. I know, I know. Always the dilemma.	~
+RA PR NOV 1 16	1	24	11-01-2016 11:18:59	DAR1	Kevin Darst	PD	sun	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	25	11-01-2016 11:21:47	KIR1	Marie Kirkpatrick	LC	star	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	25	11-01-2016 11:21:47	KIR1	Marie Kirkpatrick	LC	star	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	26	11-01-2016 11:25:23	IRB1	Jeff Irby	QA	star	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	1	1	~	1	~	1	~	1	~	1	garlic	~
+RA PR NOV 1 16	1	26	11-01-2016 11:25:23	IRB1	Jeff Irby	QA	star	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	27	11-01-2016 11:26:24	BAN1	Tamar Banner	COF	sun	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	1	1	~	1	~	1	~	1	~	1	this beer is so weird after citradelic! after about 3 sips, i was able to tell that it was ttb, but for the first few sips all i could taste was the 'citrussy' hop oil stuff.	~
+RA PR NOV 1 16	1	27	11-01-2016 11:26:24	BAN1	Tamar Banner	COF	sun	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	2	1	~	1	~	1	~	1	~	1	there's a slightly weird bubblegum aroma in both this sample and the previous one.	~
+RA PR NOV 1 16	1	28	11-01-2016 11:30:42	MCC1	Chris McCombs	ENG	sun	V	1	RA 7 day bottle	Ranger	RA	161025091	7	bottle	0	0	0	11/01/16	10/25/16	03/05/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR NOV 1 16	1	28	11-01-2016 11:30:42	MCC1	Chris McCombs	ENG	sun	V	2	RA 1 day can	Ranger	RA	161031081	1	can	0	0	0	11/01/16	10/31/16	03/12/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~

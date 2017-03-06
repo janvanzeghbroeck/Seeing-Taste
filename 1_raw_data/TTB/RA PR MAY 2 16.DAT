@@ -1,0 +1,63 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+RA PR MAY 2 16	1	1	05-02-2016 10:05:12	MIT1	Andy Mitchell	COF	star	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	1	05-02-2016 10:05:12	MIT1	Andy Mitchell	COF	star	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	2	05-02-2016 10:08:08	DIC2	Gary Dick	BH	sun	T	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	2	05-02-2016 10:08:08	DIC2	Gary Dick	BH	sun	T	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	3	05-02-2016 10:11:11	SCH1	Ali Schultz	QA	sun	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	1	1	~	1	~	1	~	1	~	1	seems extra everything - extra myrcene and citrus, extra spiciness from the hops	~
+RA PR MAY 2 16	1	3	05-02-2016 10:11:11	SCH1	Ali Schultz	QA	sun	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	2	2	particulate, esp one big chunky	1	~	1	~	1	~	1	juicy	~
+RA PR MAY 2 16	1	4	05-02-2016 10:11:48	STE1	Kelly Stewart	BH	sun	T	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	1	1	~	1	~	1	~	1	~	1	TTB	~
+RA PR MAY 2 16	1	4	05-02-2016 10:11:48	STE1	Kelly Stewart	BH	sun	T	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	2	1	~	1	~	1	~	1	~	1	TTB	~
+RA PR MAY 2 16	1	5	05-02-2016 10:12:30	HOL1	Chris Holbrook	COF	sun	T	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	5	05-02-2016 10:12:30	HOL1	Chris Holbrook	COF	sun	T	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	6	05-02-2016 10:19:02	PET1	Ted Peterson	COF	star	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	6	05-02-2016 10:19:02	PET1	Ted Peterson	COF	star	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	7	05-02-2016 10:19:46	FIS1	Mark Fischer	PAD	sun	T	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	7	05-02-2016 10:19:46	FIS1	Mark Fischer	PAD	sun	T	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	8	05-02-2016 10:21:45	BLE1	Billy Bletcher	COF	star	T	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	8	05-02-2016 10:21:45	BLE1	Billy Bletcher	COF	star	T	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	9	05-02-2016 10:24:15	HUD1	Cory Hudson	IT	sun	T	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	9	05-02-2016 10:24:15	HUD1	Cory Hudson	IT	sun	T	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	10	05-02-2016 10:24:55	AMP1	Nick Ampe	EHS	sun	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	10	05-02-2016 10:24:55	AMP1	Nick Ampe	EHS	sun	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	11	05-02-2016 10:30:42	DAV1	Kevin Davis	COF	sun	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	11	05-02-2016 10:30:42	DAV1	Kevin Davis	COF	sun	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	12	05-02-2016 10:43:39	PEO1	Kaitlyn Peot	FUL	sun	T	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	12	05-02-2016 10:43:39	PEO1	Kaitlyn Peot	FUL	sun	T	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	13	05-02-2016 10:45:32	PET2	Ken Petroski	COF	star	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	13	05-02-2016 10:45:32	PET2	Ken Petroski	COF	star	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	14	05-02-2016 10:45:56	BAR2	Ben Barrett	SALES	sun	T	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	14	05-02-2016 10:45:56	BAR2	Ben Barrett	SALES	sun	T	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	15	05-02-2016 10:49:10	DAR1	Kevin Darst	PD	sun	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	15	05-02-2016 10:49:10	DAR1	Kevin Darst	PD	sun	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	2	1	~	1	~	1	~	1	~	1	the bready/caramel malt is strong with this one.	~
+RA PR MAY 2 16	1	16	05-02-2016 10:50:01	BUR1	Travis Burge	BH	sun	T	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	1	1	~	1	~	1	~	1	~	1	subtle red fruit flavor	~
+RA PR MAY 2 16	1	16	05-02-2016 10:50:01	BUR1	Travis Burge	BH	sun	T	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	17	05-02-2016 10:53:58	SED1	Dana Sedin	QA	sun	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	17	05-02-2016 10:53:58	SED1	Dana Sedin	QA	sun	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	18	05-02-2016 10:56:14	PON1	Dave Ponceby	LC	star	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	18	05-02-2016 10:56:14	PON1	Dave Ponceby	LC	star	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	19	05-02-2016 10:57:22	KAR1	Matt Karn	BH	sun	T	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1	It did seem like there was a lack of foam in my sample and the initial bitterness wasn't there when I first tasted it. However after I tasted it a couple more times the lingering bitterness seemed to be present.	~
+RA PR MAY 2 16	1	19	05-02-2016 10:57:22	KAR1	Matt Karn	BH	sun	T	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	1	~	1	~	1	~	1	The foam in this sample was more apparent than the first sample of Ranger I had.	~
+RA PR MAY 2 16	1	20	05-02-2016 10:59:53	RAD1	Brent Radke	QA	star	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	20	05-02-2016 10:59:53	RAD1	Brent Radke	QA	star	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	21	05-02-2016 11:00:24	KJO	Casey Kjolhede	FUL	sun	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	21	05-02-2016 11:00:24	KJO	Casey Kjolhede	FUL	sun	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	22	05-02-2016 11:03:59	CON1	Karl Conklin	QA	sun	T	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	22	05-02-2016 11:03:59	CON1	Karl Conklin	QA	sun	T	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	23	05-02-2016 11:09:37	MUR1	Pat Murfin	COF	sun	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	23	05-02-2016 11:09:37	MUR1	Pat Murfin	COF	sun	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	2	less hop aroma than normal.  retronasal. there is some hoppy.  but not normal	2	harsher bitter that lingers.     borderline mrtallic whaen the bitter is like this. . pat	1	~	2	~	hop aroma is low.  bitterness seems harsh ahd highger.
+RA PR MAY 2 16	1	24	05-02-2016 11:09:59	SAL1	Eric Salazar	BH	star	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	24	05-02-2016 11:09:59	SAL1	Eric Salazar	BH	star	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	25	05-02-2016 11:10:18	VAN1	Sarah VanVlerah	LC	star	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	25	05-02-2016 11:10:18	VAN1	Sarah VanVlerah	LC	star	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	26	05-02-2016 11:11:00	LAV2	Aaron LaVanchy	PKG	star	T	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	26	05-02-2016 11:11:00	LAV2	Aaron LaVanchy	PKG	star	T	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	27	05-02-2016 11:12:53	KIR1	Marie Kirkpatrick	LC	star	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	27	05-02-2016 11:12:53	KIR1	Marie Kirkpatrick	LC	star	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	28	05-02-2016 11:21:21	HOL2	Michelle Holbrook	EVE	sun	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	28	05-02-2016 11:21:21	HOL2	Michelle Holbrook	EVE	sun	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	29	05-02-2016 11:21:22	SEE1	Shawn Seeboth	MAIN	sun	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	29	05-02-2016 11:21:22	SEE1	Shawn Seeboth	MAIN	sun	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	30	05-02-2016 11:22:24	HUL1	Grady Hull	PAD	sun	T	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	30	05-02-2016 11:22:24	HUL1	Grady Hull	PAD	sun	T	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	31	05-02-2016 11:28:51	KOE1	Ross Koenigs	COF	star	V	2	RA 3 day can	Ranger	RA	160429081	3	can	0	0	0	05/02/16	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 2 16	1	31	05-02-2016 11:28:51	KOE1	Ross Koenigs	COF	star	V	1	RA 1 day bottle	Ranger	RA	160501081	1	bottle	0	0	0	05/02/16	845	2	1	~	1	~	1	~	1	~	1		~

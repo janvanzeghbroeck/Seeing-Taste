@@ -1,0 +1,32 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT PR OCT 29 15	1	1	10-29-2015 10:02:04	LAV2	Aaron LaVanchy	PKG	star	T	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	2	10-29-2015 10:02:09	DIC1	Perry Dickerson	QA	sun	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	3	10-29-2015 10:02:37	DAV1	Kevin Davis	COF	sun	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	4	10-29-2015 10:02:56	HOL1	Chris Holbrook	COF	sun	T	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	5	10-29-2015 10:07:43	HUL1	Grady Hull	PAD	sun	T	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	6	10-29-2015 10:12:42	NOR1	Ryan Norwood	QA	sun	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	7	10-29-2015 10:13:18	TRU1	Jason Trujillo	QA	sun	T	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	8	10-29-2015 10:14:51	SED1	Dana Sedin	QA	sun	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	9	10-29-2015 10:19:20	SAL1	Eric Salazar	BH	star	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	10	10-29-2015 10:24:49	RAD1	Brent Radke	QA	star	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	11	10-29-2015 10:26:32	BEE1	Bethany Beers	PD	sun	T	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	12	10-29-2015 10:28:53	AMM1	Lisa Ammann	MKT	sun	T	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	13	10-29-2015 10:29:05	KJO	Casey Kjolhede	FUL	sun	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	14	10-29-2015 10:32:40	BAI1	Zach Baitinger	PUR	sun	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	15	10-29-2015 10:33:43	KIR1	Marie Kirkpatrick	LC	star	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	16	10-29-2015 10:35:13	SAL3	Keith Salmon	PKG	star	T	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	17	10-29-2015 10:35:17	VAN1	Sarah VanVlerah	LC	star	T	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	2	particulate.	1	~	1	~	1	~	1	besides some particulate in the visual this is a ttb ft	~
+FT PR OCT 29 15	1	18	10-29-2015 10:37:05	BLE1	Billy Bletcher	COF	star	T	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	19	10-29-2015 10:38:50	OLO1	Kyle O'Loughlin	COF	star	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	20	10-29-2015 10:40:54	GIL1	Matty Gilliland	BH	sun	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	Tastes like there is something I am anosmic to in there.	~
+FT PR OCT 29 15	1	21	10-29-2015 10:44:07	KOE1	Ross Koenigs	COF	star	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	22	10-29-2015 10:46:31	BAN1	Tamar Banner	COF	sun	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	slightly more astringent than normal	~
+FT PR OCT 29 15	1	23	10-29-2015 10:48:08	PET3	Tyler Peters	LC	star	T	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	24	10-29-2015 10:50:29	KOL1	Katy Koller	PD	sun	T	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	25	10-29-2015 10:57:28	MIT1	Andy Mitchell	COF	star	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	26	10-29-2015 11:02:13	LIM1	Pete Limbach	EVE	star	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	27	10-29-2015 11:04:24	FIS1	Mark Fischer	PAD	sun	T	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	28	10-29-2015 11:12:10	BOU1	Peter Bouckaert	PAD	sun	T	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	2	lacks nutty, too caramel - PFB	1	~	1	~	2	~	wrong malt profile, to much C80 or forgot Victory - PFB
+FT PR OCT 29 15	1	29	10-29-2015 11:14:05	IRB1	Jeff Irby	QA	star	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	2	SO2	1	~	1	~	2	~	SO2
+FT PR OCT 29 15	1	30	10-29-2015 11:19:35	DAU1	Soren Daugaard	PKG	star	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR OCT 29 15	1	31	10-29-2015 11:25:49	AMP1	Nick Ampe	EHS	sun	V	1	FT 1 day keg	Fat Tire	FT	151028031	1	keg	0	0	0	10/29/15	10/28/15	03/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	higher DMS levels than normal, but still ttb	~

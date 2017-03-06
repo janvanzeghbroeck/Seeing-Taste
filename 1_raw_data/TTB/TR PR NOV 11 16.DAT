@@ -1,0 +1,23 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+TR PR NOV 11 16	1	1	11-11-2016 10:12:16	GIL1	Matty Gilliland	BH	sun	T	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	2	Ethyl Acetate is over the top like Stallone	1	~	2	Seems overly phenolic, bringing some heat	2	~	Way too much ester/phenol gonig on for new TR.
+TR PR NOV 11 16	1	2	11-11-2016 10:13:09	BLE1	Billy Bletcher	COF	star	T	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	3	11-11-2016 10:14:16	SAL1	Eric Salazar	BH	star	V	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	4	11-11-2016 10:15:47	HUD1	Cory Hudson	IT	sun	V	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	5	11-11-2016 10:18:07	DIC1	Gary Dick	BH	sun	T	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	6	11-11-2016 10:21:13	IRB1	Jeff Irby	QA	star	V	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	7	11-11-2016 10:22:44	DAU1	Soren Daugaard	PKG	star	V	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	2	very estery and a lot of isoamyl acetate.  Seems more intense than usual	1	~	1	~	1	more intense than usual	~
+TR PR NOV 11 16	1	8	11-11-2016 10:25:28	MAT1	Tucker Mattern	BH	STAR	T	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	9	11-11-2016 10:25:54	BAR2	Ben Barrett	SALES	sun	V	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	10	11-11-2016 10:31:42	HUL1	Grady Hull	PAD	sun	T	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	11	11-11-2016 10:32:13	LIM1	Pete Limbach	EVE	star	V	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	12	11-11-2016 10:32:46	CON1	Karl Conklin	QA	sun	T	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	13	11-11-2016 10:36:37	SEE1	Shawn Seeboth	MAIN	sun	V	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	14	11-11-2016 10:37:21	DAV1	Kevin Davis	COF	sun	V	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	15	11-11-2016 10:41:06	RAD1	Brent Radke	QA	star	V	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	16	11-11-2016 10:41:31	OLO1	Kyle O'Loughlin	COF	star	V	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	17	11-11-2016 10:50:34	MUR1	Pat Murfin	COF	sun	V	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	18	11-11-2016 10:54:00	BIE1	Jeff Biegert	COF	sun	V	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	2	aged aromas present, caprylic, mercaptan	1	~	1	~	2	~	not ttb- nogo only for aged aroma, just not quite fresh, missing charactoristic isoamyl and fruity aromas
+TR PR NOV 11 16	1	19	11-11-2016 11:02:35	SCH1	Ali Schultz	QA	sun	V	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	20	11-11-2016 11:07:46	HAL1	Tony Hall	PKG	star	T	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	21	11-11-2016 11:14:17	HAG1	Andrew Hagdorn	COF	sun	T	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+TR PR NOV 11 16	1	22	11-11-2016 11:27:58	COG1	Paul Coggins	BH	star	V	1	TR 1 day bottle	Trippel	TR	161110091	1	bottle	0	0	0	11/11/16	11/10/16	05/14/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

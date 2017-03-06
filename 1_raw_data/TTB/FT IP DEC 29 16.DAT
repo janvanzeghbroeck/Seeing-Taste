@@ -1,0 +1,22 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT IP DEC 29 16	1	1	12-29-2016 10:18:25	SCH1	Ali Schultz	QA	sun	V	1	FT MV	FT MV	FT	161229600	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	137	1	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 29 16	1	1	12-29-2016 10:18:25	SCH1	Ali Schultz	QA	sun	V	2	FT  MV	FT MV	FT	161229620	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	442	2	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 29 16	1	1	12-29-2016 10:18:25	SCH1	Ali Schultz	QA	sun	V	3	FT   MV	FT MV	FT	161229630	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	911	3	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 29 16	1	2	12-29-2016 10:23:20	SAL1	Eric Salazar	BH	sun	V	1	FT MV	FT MV	FT	161229600	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	137	1	1	~	1	~	2	watery	2	thin	2	~	watery
+FT IP DEC 29 16	1	2	12-29-2016 10:23:20	SAL1	Eric Salazar	BH	sun	V	2	FT  MV	FT MV	FT	161229620	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	442	2	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 29 16	1	2	12-29-2016 10:23:20	SAL1	Eric Salazar	BH	sun	V	3	FT   MV	FT MV	FT	161229630	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	911	3	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 29 16	1	3	12-29-2016 10:43:54	SED1	Dana Sedin	QA	sun	V	3	FT   MV	FT MV	FT	161229630	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	911	1	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 29 16	1	3	12-29-2016 10:43:54	SED1	Dana Sedin	QA	sun	V	1	FT MV	FT MV	FT	161229600	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	137	2	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 29 16	1	3	12-29-2016 10:43:54	SED1	Dana Sedin	QA	sun	V	2	FT  MV	FT MV	FT	161229620	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	442	3	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 29 16	1	4	12-29-2016 10:44:29	BAR1	Lindsay Barr	QA	sun	V	2	FT  MV	FT MV	FT	161229620	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	442	1	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 29 16	1	4	12-29-2016 10:44:29	BAR1	Lindsay Barr	QA	sun	V	3	FT   MV	FT MV	FT	161229630	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	911	2	1	~	1	~	2	quite bitter	1	~	1		~
+FT IP DEC 29 16	1	4	12-29-2016 10:44:29	BAR1	Lindsay Barr	QA	sun	V	1	FT MV	FT MV	FT	161229600	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	137	3	1	~	2	very estery like spiced apple cider	1	~	1	~	2	~	strange spice aroma, kinda phenolic?  some aa even?
+FT IP DEC 29 16	1	5	12-29-2016 10:52:09	BAN1	Tamar Banner	COF	star	V	1	FT MV	FT MV	FT	161229600	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	137	1	1	~	1	~	2	kind of sour	1	~	1	less thin and a little sour compared to what i'm used to, but not by much	~
+FT IP DEC 29 16	1	5	12-29-2016 10:52:09	BAN1	Tamar Banner	COF	star	V	3	FT   MV	FT MV	FT	161229630	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	911	2	1	~	1	~	1	~	1	~	1	now that is what i think of as ttb in process FT	~
+FT IP DEC 29 16	1	5	12-29-2016 10:52:09	BAN1	Tamar Banner	COF	star	V	2	FT  MV	FT MV	FT	161229620	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	442	3	1	~	1	~	1	~	2	body is very coating/thick, less astringent finish than ttb	1	slight mouthfeel/body difference from typical ttb	~
+FT IP DEC 29 16	1	6	12-29-2016 10:58:12	SKI1	Dawn Skinner	FA	sun	V	1	FT MV	FT MV	FT	161229600	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	137	1	1	~	1	~	1	~	1	~	1	ttb	~
+FT IP DEC 29 16	1	6	12-29-2016 10:58:12	SKI1	Dawn Skinner	FA	sun	V	3	FT   MV	FT MV	FT	161229630	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	911	2	2	seems odd. just zero foam.	1	~	1	~	1	~	1	clarity seems diff.	~
+FT IP DEC 29 16	1	6	12-29-2016 10:58:12	SKI1	Dawn Skinner	FA	sun	V	2	FT  MV	FT MV	FT	161229620	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	442	3	1	~	1	~	1	~	1	~	1	ttb	~
+FT IP DEC 29 16	1	7	12-29-2016 11:22:58	MCC1	Chris McCombs	ENG	sun	V	2	FT  MV	FT MV	FT	161229620	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	442	1	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 29 16	1	7	12-29-2016 11:22:58	MCC1	Chris McCombs	ENG	sun	V	3	FT   MV	FT MV	FT	161229630	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	911	2	1	~	1	~	1	~	1	~	1		~
+FT IP DEC 29 16	1	7	12-29-2016 11:22:58	MCC1	Chris McCombs	ENG	sun	V	1	FT MV	FT MV	FT	161229600	0	IP	0	0	0	12/29/16	12/29/16	12/29/16	IP	1	137	3	1	~	1	~	1	~	1	~	1		~

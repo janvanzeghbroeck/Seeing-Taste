@@ -1,0 +1,55 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+CITRA PR JAN 7 16	1	1	01-07-2016 10:10:30	LAV2	Aaron LaVanchy	PKG	star	T	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	1	01-07-2016 10:10:30	LAV2	Aaron LaVanchy	PKG	star	T	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	2	01-07-2016 10:10:35	BUR1	Travis Burge	BH	sun	T	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	2	01-07-2016 10:10:35	BUR1	Travis Burge	BH	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	3	01-07-2016 10:11:15	FIS1	Mark Fischer	PAD	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	3	01-07-2016 10:11:15	FIS1	Mark Fischer	PAD	sun	T	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	4	01-07-2016 10:12:42	HUG1	Erin Hughes	HR	sun	V	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	aroma seems less pronounced when smell after rampant. not sure i'm getting the full effect.	~
+CITRA PR JAN 7 16	1	4	01-07-2016 10:12:42	HUG1	Erin Hughes	HR	sun	V	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	2	1	~	1	~	1	~	1	~	1	less particulate. aroma seems less tangerine after rampant's full face dankness	~
+CITRA PR JAN 7 16	1	5	01-07-2016 10:14:33	HUL1	Grady Hull	PAD	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	5	01-07-2016 10:14:33	HUL1	Grady Hull	PAD	sun	T	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	2	1	~	1	~	1	~	1	~	2	~	mouthfeel seems thick but it could be my cold so ... I dunno
+CITRA PR JAN 7 16	1	6	01-07-2016 10:19:00	DAR1	Kevin Darst	PD	sun	V	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	6	01-07-2016 10:19:00	DAR1	Kevin Darst	PD	sun	V	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	7	01-07-2016 10:20:51	PET2	Ken Petroski	COF	star	V	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	7	01-07-2016 10:20:51	PET2	Ken Petroski	COF	star	V	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	8	01-07-2016 10:21:31	PON1	Dave Ponceby	LC	star	V	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	8	01-07-2016 10:21:31	PON1	Dave Ponceby	LC	star	V	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	9	01-07-2016 10:24:16	BOG1	Brian Bogan	EVE	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	9	01-07-2016 10:24:16	BOG1	Brian Bogan	EVE	sun	T	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	10	01-07-2016 10:26:32	HAL1	Tony Hall	PKG	star	T	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	10	01-07-2016 10:26:32	HAL1	Tony Hall	PKG	star	T	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	11	01-07-2016 10:27:19	SAL3	Keith Salmon	PKG	star	T	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	11	01-07-2016 10:27:19	SAL3	Keith Salmon	PKG	star	T	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	12	01-07-2016 10:29:41	REI1	Cody Reif	QA	sun	T	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	12	01-07-2016 10:29:41	REI1	Cody Reif	QA	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	13	01-07-2016 10:29:41	HOL2	Michelle Holbrook	EVE	sun	V	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	13	01-07-2016 10:29:41	HOL2	Michelle Holbrook	EVE	sun	V	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	14	01-07-2016 10:32:04	SED1	Dana Sedin	QA	sun	V	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	14	01-07-2016 10:32:04	SED1	Dana Sedin	QA	sun	V	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	15	01-07-2016 10:36:48	RAD1	Brent Radke	QA	star	V	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	15	01-07-2016 10:36:48	RAD1	Brent Radke	QA	star	V	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	16	01-07-2016 10:38:25	NOR1	Ryan Norwood	QA	sun	V	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	16	01-07-2016 10:38:25	NOR1	Ryan Norwood	QA	sun	V	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	17	01-07-2016 10:41:40	GIL1	Matty Gilliland	BH	sun	V	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+CITRA PR JAN 7 16	1	17	01-07-2016 10:41:40	GIL1	Matty Gilliland	BH	sun	V	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	2	1	~	1	~	1	~	1	~	1	Tastes like citradelic	~
+CITRA PR JAN 7 16	1	18	01-07-2016 10:42:55	TRU1	Jason Trujillo	QA	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	18	01-07-2016 10:42:55	TRU1	Jason Trujillo	QA	sun	T	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	19	01-07-2016 10:43:58	SAL1	Eric Salazar	BH	star	V	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	19	01-07-2016 10:43:58	SAL1	Eric Salazar	BH	star	V	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	20	01-07-2016 10:54:40	DAU1	Soren Daugaard	PKG	star	V	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	20	01-07-2016 10:54:40	DAU1	Soren Daugaard	PKG	star	V	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	21	01-07-2016 10:59:16	LIM1	Pete Limbach	EVE	star	V	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	hard to tell much after rampants	~
+CITRA PR JAN 7 16	1	21	01-07-2016 10:59:16	LIM1	Pete Limbach	EVE	star	V	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	2	1	~	1	~	1	~	1	~	1	palate is wrecked and water has butt loads of chlorophenol in it	~
+CITRA PR JAN 7 16	1	22	01-07-2016 11:13:33	KOL1	Katy Koller	PD	sun	T	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	22	01-07-2016 11:13:33	KOL1	Katy Koller	PD	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	23	01-07-2016 11:15:38	IRB1	Jeff Irby	QA	star	V	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	23	01-07-2016 11:15:38	IRB1	Jeff Irby	QA	star	V	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	24	01-07-2016 11:16:29	GIL2	Penelope Gilliland	LC	star	T	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	24	01-07-2016 11:16:29	GIL2	Penelope Gilliland	LC	star	T	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	25	01-07-2016 11:21:39	BOU1	Peter Bouckaert	PAD	sun	T	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	1	2	beer is not bright, twoshine.	1	~	1	~	1	~	1	nice aroma, juicy	~
+CITRA PR JAN 7 16	1	25	01-07-2016 11:21:39	BOU1	Peter Bouckaert	PAD	sun	T	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	2	2	not a bright beer, twoshine.  We failed class if we filtered like this in brewing school.  some particles	1	~	1	~	1	~	1	ok	~
+CITRA PR JAN 7 16	1	26	01-07-2016 11:22:44	AMM1	Lisa Ammann	MKT	sun	V	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	sometimes i find the tangerine 'tang' aspect so forward and other times, barely detectable. i think it might be bttles vs kegs.	~
+CITRA PR JAN 7 16	1	26	01-07-2016 11:22:44	AMM1	Lisa Ammann	MKT	sun	V	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	27	01-07-2016 11:28:40	DIC1	Perry Dickerson	QA	sun	V	1	CITRA 2 day keg	Citradelic	CITRA	160105091	2	keg	0	0	0	01/07/16	01/05/16	06/05/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 7 16	1	27	01-07-2016 11:28:40	DIC1	Perry Dickerson	QA	sun	V	2	CITRA 1 day keg	Citradelic	CITRA	160106081	1	keg	0	0	0	01/07/16	01/06/16	06/05/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~

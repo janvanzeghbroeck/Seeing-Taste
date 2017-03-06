@@ -1,0 +1,29 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+RA PR OCT 5 15	1	1	10-05-2015 10:05:23	COG1	Paul Coggins	BH	star	T	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	2	10-05-2015 10:05:46	DAR1	Kevin Darst	PD	sun	V	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	3	10-05-2015 10:09:19	DIC2	Gary Dick	BH	sun	V	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	4	10-05-2015 10:13:39	PET3	Tyler Peters	LC	star	T	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	5	10-05-2015 10:16:17	GIL2	Penelope Gilliland	LC	star	T	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	6	10-05-2015 10:18:35	HUL1	Grady Hull	PAD	sun	T	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	7	10-05-2015 10:21:10	SCH1	Ali Schultz	QA	sun	V	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	2	tons of chunky particulate	2	dull. really only get stuff in the retro	1	~	1	~	1	dull, and shitty particulate	~
+RA PR OCT 5 15	1	8	10-05-2015 10:22:35	HOL1	Chris Holbrook	COF	sun	T	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	9	10-05-2015 10:28:55	SED1	Dana Sedin	QA	sun	V	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	10	10-05-2015 10:29:35	MUR1	Pat Murfin	COF	sun	V	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	11	10-05-2015 10:31:26	STU1	Andrew Sturm	COF	star	V	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	12	10-05-2015 10:32:12	SAL3	Keith Salmon	PKG	star	T	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	13	10-05-2015 10:37:19	PET1	Ted Peterson	COF	star	V	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	14	10-05-2015 10:37:47	BLE1	Billy Bletcher	COF	star	T	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	15	10-05-2015 10:50:14	GIL1	Matty Gilliland	BH	sun	V	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	2	Aroma? Where?	2	Low bitterness	2	Low Body	2	~	Watery
+RA PR OCT 5 15	1	16	10-05-2015 10:52:39	OLO1	Kyle O'Loughlin	COF	star	T	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	17	10-05-2015 10:54:01	RAD1	Brent Radke	QA	star	V	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	18	10-05-2015 10:57:40	PON1	Dave Ponceby	LC	star	V	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	19	10-05-2015 11:11:02	VAN1	Sarah VanVlerah	LC	star	T	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	2	dull. non existant	1	~	1	~	1	i think my pallet is broken today.	~
+RA PR OCT 5 15	1	20	10-05-2015 11:12:35	DIC1	Perry Dickerson	QA	sun	V	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	21	10-05-2015 11:13:30	BOU1	Peter Bouckaert	PAD	sun	T	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	2	hoppyness low and off, not much myrcene, not citrussy - PFB	2	bitterness low and not rough like RA - PFb	1	~	2	~	not RA in hoppy and missing rough bitterness, actually is drinkable - PFB
+RA PR OCT 5 15	1	22	10-05-2015 11:21:37	TRU1	Jason Trujillo	QA	sun	T	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	23	10-05-2015 11:24:44	BAN1	Tamar Banner	COF	sun	V	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	grapefruit city	~
+RA PR OCT 5 15	1	24	10-05-2015 11:25:33	MCC1	Chris McCombs	ENG	sun	V	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	25	10-05-2015 11:27:45	AMP1	Nick Ampe	EHS	sun	T	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	26	10-05-2015 11:27:52	BAI1	Zach Baitinger	PUR	sun	V	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	27	10-05-2015 11:29:08	KIR2	Kaylyn Kirkpatrick	QA	star	V	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+RA PR OCT 5 15	1	28	10-05-2015 11:32:53	FIS1	Mark Fischer	PAD	sun	T	1	Ranger 3 Day Bottle	Ranger	RA	151002051	3	bottle	0	0	0	10/05/15	10/02/15	02/07/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

@@ -1,0 +1,36 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+DBL PR FEB 1 17	1	1	02-01-2017 10:01:14	TRU1	Jason Trujillo	QA	sun	T	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	2	02-01-2017 10:04:04	BLE1	Bill Bletcher	COF	star	T	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	3	02-01-2017 10:04:18	PET2	Ken Petroski	COF	star	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	4	02-01-2017 10:04:56	LAV2	Aaron LaVanchy	PKG	star	T	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	5	02-01-2017 10:07:45	BAR2	Ben Barrett	SALES	sun	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	6	02-01-2017 10:10:20	SAL2	Lauren Limbach	QA	star	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	2	no weird dog toes corn chips- is this now tttb- let me know and i'll stop no go'ing it. totally different liquid to me	1	~	2	more crisp, clean, no terrible corn chip linger and mouthfeel- is this now ttb?	2	~	fruity, crisp, clean no terrible cornchip/dog toe- is this now ttb?
+DBL PR FEB 1 17	1	7	02-01-2017 10:15:24	PET1	Ted Peterson	COF	star	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	2	hint of sulfurs, h2s	1	~	1	~	1	a bit of sulfur in intial aroma	~
+DBL PR FEB 1 17	1	8	02-01-2017 10:15:54	AMM1	Lisa Ammann	MKT	sun	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	9	02-01-2017 10:17:36	DUB1	Kate Dubas	SALES	sun	T	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	10	02-01-2017 10:21:17	FIS1	Mark Fischer	PAD	sun	T	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	11	02-01-2017 10:22:50	HUD1	Cory Hudson	IT	sun	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	12	02-01-2017 10:25:05	SED1	Dana Sedin	QA	sun	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	13	02-01-2017 10:29:56	OLO1	Kyle O'Loughlin	COF	star	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	14	02-01-2017 10:30:01	STE1	Kelly Stewart	BH	sun	T	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	TTB	~
+DBL PR FEB 1 17	1	15	02-01-2017 10:31:21	DAR1	Kevin Darst	PD	sun	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	16	02-01-2017 10:31:37	KAR1	Matt Karn	BH	sun	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	17	02-01-2017 10:34:28	UNG1	Eric Unger	PKG	star	T	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	18	02-01-2017 10:38:06	PON1	Dave Ponceby	LC	star	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	2	little foam or lacing	1	~	1	~	2	thin, weak	2	~	seems watered down
+DBL PR FEB 1 17	1	19	02-01-2017 10:39:34	BIE1	Jeff Biegert	COF	sun	T	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb-DMS	~
+DBL PR FEB 1 17	1	20	02-01-2017 10:42:15	GIL1	Matty Gilliland	BH	sun	T	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+DBL PR FEB 1 17	1	21	02-01-2017 10:52:25	SCH1	Ali Schultz	QA	sun	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	slight sulfurs, but couldn't pinpoint H2S vs SO2	~
+DBL PR FEB 1 17	1	22	02-01-2017 10:53:17	VAN1	Sarah VanVlerah	LC	star	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	23	02-01-2017 10:55:20	AMP1	Nick Ampe	EHS	sun	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	24	02-01-2017 10:56:41	RAD1	Brent Radke	QA	star	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	25	02-01-2017 10:58:13	KIR1	Marie Kirkpatrick	LC	star	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	26	02-01-2017 11:03:08	HOL1	Chris Holbrook	COF	sun	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	slight h2s	~
+DBL PR FEB 1 17	1	27	02-01-2017 11:04:53	VIL1	Dana Villeneuve	SUS	sun	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	28	02-01-2017 11:07:22	SEE1	Shawn Seeboth	MAIN	sun	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	29	02-01-2017 11:08:27	DIC2	Josh Dick	SALES	sun	T	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	30	02-01-2017 11:10:09	DAU1	Soren Daugaard	PKG	star	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	31	02-01-2017 11:12:36	SKI1	Dawn Skinner	FA	sun	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb	~
+DBL PR FEB 1 17	1	32	02-01-2017 11:15:54	KJO	Casey Kjolhede	FUL	sun	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	33	02-01-2017 11:17:19	MAT1	Tucker Mattern	BH	STAR	T	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+DBL PR FEB 1 17	1	34	02-01-2017 11:19:46	HUG1	Erin Hughes	HR	sun	V	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	muted aromas for me. but it always seems that way to me. mmmmm?	~
+DBL PR FEB 1 17	1	35	02-01-2017 11:23:42	BAI1	Zach Baitinger	PUR	sun	T	1	DBL 2 day can	Dayblazer	DBL	170130071	2	can	0	0	0	02/01/17	01/30/17	06/02/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

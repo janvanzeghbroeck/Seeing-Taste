@@ -1,0 +1,24 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FTC PR ARP 4 16	1	1	04-04-2016 10:07:05	BAR1	Lindsay Barr	QA	sun	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	2	seems lighter in color	2	caprylic	1	~	1	~	2	~	light color and caprylic
+FTC PR ARP 4 16	1	2	04-04-2016 10:08:10	KIR2	Kaylyn Kirkpatrick	QA	star	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	3	04-04-2016 10:09:19	MAD1	John Madigan	PKG	star	T	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	4	04-04-2016 10:10:24	TRU1	Jason Trujillo	QA	sun	T	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	5	04-04-2016 10:14:30	MIT1	Andy Mitchell	COF	star	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	6	04-04-2016 10:18:21	RAD1	Brent Radke	QA	star	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	7	04-04-2016 10:38:31	FIS1	Mark Fischer	PAD	sun	T	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	8	04-04-2016 10:39:01	HOL2	Michelle Holbrook	EVE	sun	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	9	04-04-2016 10:44:27	KAR1	Matt Karn	BH	sun	T	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	10	04-04-2016 10:45:42	MUR1	Pat Murfin	COF	sun	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb.   dry and more astringent thatn normal.	~
+FTC PR ARP 4 16	1	11	04-04-2016 10:48:38	HUD1	Cory Hudson	IT	sun	T	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	12	04-04-2016 10:49:30	KOE1	Ross Koenigs	COF	star	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	13	04-04-2016 10:50:31	SEE1	Shawn Seeboth	MAIN	sun	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	14	04-04-2016 10:58:20	BAI1	Zach Baitinger	PUR	sun	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	15	04-04-2016 11:02:53	BAN1	Tamar Banner	COF	sun	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	slightly sweet	~
+FTC PR ARP 4 16	1	16	04-04-2016 11:03:45	KJO	Casey Kjolhede	FUL	sun	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	17	04-04-2016 11:06:49	AMP1	Nick Ampe	EHS	sun	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	slight chocolate aroma? ttb	~
+FTC PR ARP 4 16	1	18	04-04-2016 11:07:38	BAR2	Ben Barrett	SALES	sun	T	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	19	04-04-2016 11:10:17	SKI1	Dawn Skinner	FA	sun	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb	~
+FTC PR ARP 4 16	1	20	04-04-2016 11:14:37	DAR1	Kevin Darst	PD	sun	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	21	04-04-2016 11:24:22	AMM1	Lisa Ammann	MKT	sun	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR ARP 4 16	1	22	04-04-2016 11:28:30	BIE2	Jeff Biegert	COF	sun	V	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb-ft can	~
+FTC PR ARP 4 16	1	23	04-04-2016 11:28:35	PEO1	Kaitlyn Peot	FUL	sun	T	1	FT 3 day can	Fat Tire Can	FTC	160401091	3	can	0	0	0	04/04/16	04/01/16	08/28/16	PR	1	626	1	1	~	2	dull	2	dull	2	thin	2	~	watery.

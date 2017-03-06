@@ -1,0 +1,28 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT CAN PR APR 7 16	1	1	04-07-2016 10:01:44	BUR1	Travis Burge	BH	sun	T	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	2	04-07-2016 10:03:19	BAI1	Zach Baitinger	PUR	sun	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	3	04-07-2016 10:09:11	KAR1	Matt Karn	BH	sun	T	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	4	04-07-2016 10:09:53	HUD1	Cory Hudson	IT	sun	T	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	5	04-07-2016 10:15:45	DAU1	Soren Daugaard	PKG	star	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	6	04-07-2016 10:17:12	DAV1	Kevin Davis	COF	sun	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	7	04-07-2016 10:19:57	KIT1	Bryan Kittle	PKG	star	T	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	8	04-07-2016 10:23:25	PEO1	Kaitlyn Peot	FUL	sun	T	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	9	04-07-2016 10:25:35	SAL1	Eric Salazar	BH	star	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	10	04-07-2016 10:28:58	TRU1	Jason Trujillo	QA	sun	T	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	11	04-07-2016 10:29:48	KIR1	Marie Kirkpatrick	LC	star	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	12	04-07-2016 10:34:10	BAN1	Tamar Banner	COF	sun	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	virtually indistinguishable from my reference sample	~
+FT CAN PR APR 7 16	1	13	04-07-2016 10:36:04	STE1	Kelly Stewart	BH	sun	T	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	TTB	~
+FT CAN PR APR 7 16	1	14	04-07-2016 10:39:11	MIT1	Andy Mitchell	COF	star	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	15	04-07-2016 10:39:15	FIS1	Mark Fischer	PAD	sun	T	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	16	04-07-2016 10:41:21	PET2	Ken Petroski	COF	star	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	17	04-07-2016 10:49:41	OLO1	Kyle O'Loughlin	COF	star	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	18	04-07-2016 10:51:12	MCC1	Chris McCombs	ENG	sun	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	19	04-07-2016 10:51:31	CON1	Karl Conklin	QA	sun	T	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	20	04-07-2016 10:52:42	HUL1	Grady Hull	PAD	sun	T	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	21	04-07-2016 10:55:54	BAR1	Lindsay Barr	QA	sun	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	22	04-07-2016 11:04:26	DIC2	Gary Dick	BH	sun	T	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	23	04-07-2016 11:05:50	PON1	Dave Ponceby	LC	star	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	24	04-07-2016 11:11:38	COG1	Paul Coggins	BH	star	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	25	04-07-2016 11:14:14	LIM1	Pete Limbach	EVE	star	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	26	04-07-2016 11:20:25	SEE1	Shawn Seeboth	MAIN	sun	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR APR 7 16	1	27	04-07-2016 11:28:07	RAD1	Brent Radke	QA	star	V	1	FT 0 day can	Fat Tire Can	FTC	160407021	0	can	0	0	0	04/07/16	04/07/16	09/04/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

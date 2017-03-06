@@ -1,0 +1,30 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+WHZ PR JAN 12 17	1	1	01-12-2017 10:02:40	SED1	Dana Sedin	QA	sun	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	2	01-12-2017 10:06:39	HUL1	Grady Hull	PAD	sun	T	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	3	01-12-2017 10:08:13	PET2	Ken Petroski	COF	star	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	4	01-12-2017 10:11:46	SCH1	Ali Schultz	QA	sun	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	5	01-12-2017 10:13:28	MIT1	Andy Mitchell	COF	star	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	6	01-12-2017 10:17:53	FIS1	Mark Fischer	PAD	sun	T	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	7	01-12-2017 10:26:29	VIL1	Dana Villeneuve	SUS	sun	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	8	01-12-2017 10:31:46	GIL1	Matty Gilliland	BH	sun	T	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+WHZ PR JAN 12 17	1	9	01-12-2017 10:32:18	SAL1	Eric Salazar	BH	star	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	10	01-12-2017 10:34:13	DAU1	Soren Daugaard	PKG	star	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	11	01-12-2017 10:37:55	KAR1	Matt Karn	BH	sun	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	12	01-12-2017 10:40:03	BAN1	Tamar Banner	COF	sun	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	13	01-12-2017 10:40:41	DIC2	Josh Dick	SALES	sun	T	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	14	01-12-2017 10:42:13	DAV1	Kevin Davis	COF	sun	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	15	01-12-2017 10:43:24	PEO1	Kaitlyn Peot	FUL	sun	T	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	16	01-12-2017 10:46:39	AMM1	Lisa Ammann	MKT	sun	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	17	01-12-2017 10:50:15	BAR2	Ben Barrett	SALES	sun	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	18	01-12-2017 10:50:50	UNG1	Eric Unger	PKG	star	T	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	19	01-12-2017 10:53:44	SAL2	Lauren Limbach	QA	star	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	20	01-12-2017 10:54:12	BAI1	Zach Baitinger	PUR	sun	T	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	21	01-12-2017 10:57:12	AMP1	Nick Ampe	EHS	sun	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	22	01-12-2017 10:59:25	FUE1	Jacob Fuentes	QA	sun	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	23	01-12-2017 11:02:40	GIL2	Penelope Gilliland	HR	sun	T	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	24	01-12-2017 11:04:13	DAR1	Kevin Darst	PD	sun	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	25	01-12-2017 11:05:41	HUD1	Cory Hudson	IT	sun	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	26	01-12-2017 11:07:49	VIC1	Tanya Victor	SALES	sun	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	27	01-12-2017 11:09:44	LIM1	Pete Limbach	EVE	star	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	a lot like VDI	~
+WHZ PR JAN 12 17	1	28	01-12-2017 11:24:10	MUR1	Pat Murfin	COF	sun	V	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+WHZ PR JAN 12 17	1	29	01-12-2017 11:30:43	BOU1	Peter Bouckaert	PAD	sun	T	1	WHZ 3 day bottle	Whizbang	WHZ	170112002	3	bottle	0	0	0	01/12/17	01/09/17	06/11/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

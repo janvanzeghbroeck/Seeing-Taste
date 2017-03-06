@@ -1,0 +1,32 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+CITRA PR JAN 18 17	1	1	01-18-2017 10:08:46	SED1	Dana Sedin	QA	sun	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	2	01-18-2017 10:11:39	LAV2	Aaron LaVanchy	PKG	star	T	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	3	01-18-2017 10:12:57	TRU1	Jason Trujillo	QA	sun	T	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	4	01-18-2017 10:15:11	BOG1	Brian Bogan	EVE	sun	T	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	5	01-18-2017 10:17:31	FIS1	Mark Fischer	PAD	sun	T	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	6	01-18-2017 10:20:16	STE1	Kelly Stewart	BH	sun	T	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	TTB	~
+CITRA PR JAN 18 17	1	7	01-18-2017 10:22:14	VAN1	Sarah VanVlerah	LC	star	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	8	01-18-2017 10:23:20	BAR2	Ben Barrett	SALES	sun	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	9	01-18-2017 10:25:05	SEE1	Shawn Seeboth	MAIN	sun	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	10	01-18-2017 10:28:45	KAR1	Matt Karn	BH	sun	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	11	01-18-2017 10:33:50	VIC1	Tanya Victor	SALES	sun	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	12	01-18-2017 10:36:07	KIR1	Marie Kirkpatrick	LC	star	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	13	01-18-2017 10:36:18	CON1	Karl Conklin	QA	sun	T	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	14	01-18-2017 10:43:17	MIT1	Andy Mitchell	COF	star	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	15	01-18-2017 10:44:04	PET3	Tyler Peters	LC	star	T	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	16	01-18-2017 10:46:14	PEO1	Kaitlyn Peot	FUL	sun	T	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	17	01-18-2017 10:46:20	AMM1	Lisa Ammann	MKT	sun	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	18	01-18-2017 10:48:08	PET2	Ken Petroski	COF	star	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	19	01-18-2017 10:53:26	MCC1	Chris McCombs	ENG	sun	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	20	01-18-2017 10:56:41	SKI1	Dawn Skinner	FA	sun	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	orange bomb. ttb.	~
+CITRA PR JAN 18 17	1	21	01-18-2017 10:59:37	GIL1	Matty Gilliland	BH	sun	T	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+CITRA PR JAN 18 17	1	22	01-18-2017 11:02:10	DAR1	Kevin Darst	PD	sun	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	23	01-18-2017 11:04:43	PET1	Ted Peterson	COF	star	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	orangey a.f.	~
+CITRA PR JAN 18 17	1	24	01-18-2017 11:14:28	HUG1	Erin Hughes	HR	sun	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	ttb	~
+CITRA PR JAN 18 17	1	25	01-18-2017 11:14:53	BAR1	Lindsay Barr	QA	sun	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1	after vrai it seems a bit vegetal...	~
+CITRA PR JAN 18 17	1	26	01-18-2017 11:17:45	KOE1	Ross Koenigs	COF	star	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	27	01-18-2017 11:18:58	BOU1	Peter Bouckaert	PAD	sun	T	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	2	not bright, slight haze	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	28	01-18-2017 11:21:20	DUB1	Kate Dubas	SALES	sun	T	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	29	01-18-2017 11:27:52	DIC2	Josh Dick	SALES	sun	T	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	30	01-18-2017 11:31:17	PON1	Dave Ponceby	LC	star	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+CITRA PR JAN 18 17	1	31	01-18-2017 11:38:02	AMP1	Nick Ampe	EHS	sun	V	1	CITRA 1 day keg	Citradelic	CITRA	170117011	1	keg	0	0	0	01/18/18	01/17/18	05/17/17	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

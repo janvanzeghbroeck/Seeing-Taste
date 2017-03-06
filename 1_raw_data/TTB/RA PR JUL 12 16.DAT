@@ -1,0 +1,47 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+RA PR JUL 12 16	1	1	07-12-2016 10:07:29	LAV2	Aaron LaVanchy	PKG	star	T	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	1	07-12-2016 10:07:29	LAV2	Aaron LaVanchy	PKG	star	T	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	2	07-12-2016 10:12:53	RAD1	Brent Radke	QA	star	V	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	2	07-12-2016 10:12:53	RAD1	Brent Radke	QA	star	V	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	3	07-12-2016 10:13:39	HOL2	Michelle Holbrook	EVE	sun	V	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	3	07-12-2016 10:13:39	HOL2	Michelle Holbrook	EVE	sun	V	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	4	07-12-2016 10:15:56	SED1	Dana Sedin	QA	sun	V	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	4	07-12-2016 10:15:56	SED1	Dana Sedin	QA	sun	V	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	5	07-12-2016 10:24:09	KOE1	Ross Koenigs	COF	star	V	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	5	07-12-2016 10:24:09	KOE1	Ross Koenigs	COF	star	V	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	6	07-12-2016 10:25:41	MIT1	Andy Mitchell	COF	star	V	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	6	07-12-2016 10:25:41	MIT1	Andy Mitchell	COF	star	V	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	7	07-12-2016 10:26:06	BAN1	Tamar Banner	COF	sun	V	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	smells very much like the citrussy additive today	~
+RA PR JUL 12 16	1	7	07-12-2016 10:26:06	BAN1	Tamar Banner	COF	sun	V	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	8	07-12-2016 10:30:15	FIS1	Mark Fischer	PAD	sun	T	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	8	07-12-2016 10:30:15	FIS1	Mark Fischer	PAD	sun	T	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	2	1	~	2	almost a dirty smell, garbage, maybe mercaptan	1	~	1	~	2	~	seems off, dirty aromas, sharp harsh after taste
+RA PR JUL 12 16	1	9	07-12-2016 10:37:46	DAV1	Kevin Davis	COF	sun	V	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	9	07-12-2016 10:37:46	DAV1	Kevin Davis	COF	sun	V	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	10	07-12-2016 10:38:57	CON1	Karl Conklin	QA	sun	T	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	10	07-12-2016 10:38:57	CON1	Karl Conklin	QA	sun	T	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	11	07-12-2016 10:41:02	COG1	Paul Coggins	BH	star	V	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	11	07-12-2016 10:41:02	COG1	Paul Coggins	BH	star	V	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	12	07-12-2016 10:53:30	SAL1	Eric Salazar	BH	star	V	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	12	07-12-2016 10:53:30	SAL1	Eric Salazar	BH	star	V	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	13	07-12-2016 10:54:09	BEE1	Bethany Beers	PD	sun	V	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	13	07-12-2016 10:54:09	BEE1	Bethany Beers	PD	sun	V	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	2	1	~	2	got some H2S...like hard boiled eggs	1	~	1	~	2	~	H2S doesn't seem like it belongs.
+RA PR JUL 12 16	1	14	07-12-2016 10:58:06	PET2	Ken Petroski	COF	star	V	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	1	1	~	2	some mercaptan...and much more herbal/grassy hop notes	1	~	1	~	2	~	slight mercaptan...grassy/herbal hops
+RA PR JUL 12 16	1	14	07-12-2016 10:58:06	PET2	Ken Petroski	COF	star	V	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	15	07-12-2016 11:01:22	AMM1	Lisa Ammann	MKT	sun	V	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	1	1	~	2	seems dull	2	slightly sour, and finishes too astringent	2	a lingering sourness and thin body	2	~	not sure what's up here but it ain't ttb
+RA PR JUL 12 16	1	15	07-12-2016 11:01:22	AMM1	Lisa Ammann	MKT	sun	V	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	16	07-12-2016 11:10:38	OLO1	Kyle O'Loughlin	COF	star	V	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	16	07-12-2016 11:10:38	OLO1	Kyle O'Loughlin	COF	star	V	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	17	07-12-2016 11:11:19	HUL1	Grady Hull	PAD	sun	T	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	17	07-12-2016 11:11:19	HUL1	Grady Hull	PAD	sun	T	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	18	07-12-2016 11:13:18	BAI1	Zach Baitinger	PUR	sun	T	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	18	07-12-2016 11:13:18	BAI1	Zach Baitinger	PUR	sun	T	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	19	07-12-2016 11:17:31	DAR1	Kevin Darst	PD	sun	V	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	19	07-12-2016 11:17:31	DAR1	Kevin Darst	PD	sun	V	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	2	1	~	2	farty H2S right away.	2	lacks bitterness	1	~	2	~	farty H2S or dank hop aroma and an odd caramel/grain/something note
+RA PR JUL 12 16	1	20	07-12-2016 11:18:45	SAL3	Keith Salmon	PKG	star	T	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	20	07-12-2016 11:18:45	SAL3	Keith Salmon	PKG	star	T	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	21	07-12-2016 11:29:13	DIC2	Josh Dick	SALES	sun	T	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	21	07-12-2016 11:29:13	DIC2	Josh Dick	SALES	sun	T	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	22	07-12-2016 11:31:58	BOU1	Peter Bouckaert	PAD	sun	T	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	nice	~
+RA PR JUL 12 16	1	22	07-12-2016 11:31:58	BOU1	Peter Bouckaert	PAD	sun	T	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	2	1	~	1	~	1	~	1	~	1	citrus low cheezy high	~
+RA PR JUL 12 16	1	23	07-12-2016 11:35:51	AMP1	Nick Ampe	EHS	sun	V	1	RA 1 day can	Ranger	RA	160711051	1	can	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR JUL 12 16	1	23	07-12-2016 11:35:51	AMP1	Nick Ampe	EHS	sun	V	2	RA 1 day keg	Ranger	RA	160711037	1	keg	0	0	0	07/12/16	07/11/16	11/20/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~

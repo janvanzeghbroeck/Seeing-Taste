@@ -1,0 +1,65 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+RA PR MAY 3 16	1	1	05-03-2016 10:06:41	SAL3	Keith Salmon	PKG	star	T	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	1	05-03-2016 10:06:41	SAL3	Keith Salmon	PKG	star	T	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	2	05-03-2016 10:07:57	HOL1	Chris Holbrook	COF	sun	T	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	2	05-03-2016 10:07:57	HOL1	Chris Holbrook	COF	sun	T	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	3	05-03-2016 10:08:30	PET3	Tyler Peters	LC	star	T	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	3	05-03-2016 10:08:30	PET3	Tyler Peters	LC	star	T	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	4	05-03-2016 10:12:19	LAV2	Aaron LaVanchy	PKG	star	T	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	4	05-03-2016 10:12:19	LAV2	Aaron LaVanchy	PKG	star	T	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	5	05-03-2016 10:14:39	HUG1	Erin Hughes	HR	sun	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	ttb	~
+RA PR MAY 3 16	1	5	05-03-2016 10:14:39	HUG1	Erin Hughes	HR	sun	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	2	way more particulate. foam is more sticky than usual. the bubbles are bigger in the foam as well.	1	~	1	~	1	~	2	~	the visual was different.
+RA PR MAY 3 16	1	6	05-03-2016 10:17:32	HUL1	Grady Hull	PAD	sun	T	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	6	05-03-2016 10:17:32	HUL1	Grady Hull	PAD	sun	T	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	7	05-03-2016 10:17:37	DAU1	Soren Daugaard	PKG	star	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	7	05-03-2016 10:17:37	DAU1	Soren Daugaard	PKG	star	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	1	~	1	~	2	Slightly more bitter than the first sample	1	~	1	slightly more bitter than the other sample	~
+RA PR MAY 3 16	1	8	05-03-2016 10:21:39	DIC2	Gary Dick	BH	sun	T	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	8	05-03-2016 10:21:39	DIC2	Gary Dick	BH	sun	T	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	9	05-03-2016 10:23:30	FIS1	Mark Fischer	PAD	sun	T	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	9	05-03-2016 10:23:30	FIS1	Mark Fischer	PAD	sun	T	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	10	05-03-2016 10:26:17	MIT1	Andy Mitchell	COF	star	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	10	05-03-2016 10:26:17	MIT1	Andy Mitchell	COF	star	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	11	05-03-2016 10:29:57	MUR1	Pat Murfin	COF	sun	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	11	05-03-2016 10:29:57	MUR1	Pat Murfin	COF	sun	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	12	05-03-2016 10:32:12	HUD1	Cory Hudson	IT	sun	T	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	slightly high on particulate, but not terrible.	~
+RA PR MAY 3 16	1	12	05-03-2016 10:32:12	HUD1	Cory Hudson	IT	sun	T	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	13	05-03-2016 10:36:31	BAI1	Zach Baitinger	PUR	sun	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	13	05-03-2016 10:36:31	BAI1	Zach Baitinger	PUR	sun	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	14	05-03-2016 10:41:28	DAV1	Kevin Davis	COF	sun	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	14	05-03-2016 10:41:28	DAV1	Kevin Davis	COF	sun	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	15	05-03-2016 10:41:38	BEE1	Bethany Beers	PD	sun	T	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	15	05-03-2016 10:41:38	BEE1	Bethany Beers	PD	sun	T	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	16	05-03-2016 10:41:44	RAD1	Brent Radke	QA	star	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	16	05-03-2016 10:41:44	RAD1	Brent Radke	QA	star	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	17	05-03-2016 10:43:17	SAL1	Eric Salazar	BH	star	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	17	05-03-2016 10:43:17	SAL1	Eric Salazar	BH	star	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	18	05-03-2016 10:47:55	IRB1	Jeff Irby	QA	star	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	18	05-03-2016 10:47:55	IRB1	Jeff Irby	QA	star	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	1	~	1	~	1	~	2	watery	1	sl watery	~
+RA PR MAY 3 16	1	19	05-03-2016 10:52:23	PET1	Ted Peterson	COF	star	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	19	05-03-2016 10:52:23	PET1	Ted Peterson	COF	star	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1	a little isov/onion garlic to me	~
+RA PR MAY 3 16	1	20	05-03-2016 10:52:23	BAR2	Ben Barrett	SALES	sun	T	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	20	05-03-2016 10:52:23	BAR2	Ben Barrett	SALES	sun	T	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	21	05-03-2016 10:56:48	LIM1	Pete Limbach	EVE	star	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	21	05-03-2016 10:56:48	LIM1	Pete Limbach	EVE	star	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	22	05-03-2016 10:57:15	OLO1	Kyle O'Loughlin	COF	star	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	22	05-03-2016 10:57:15	OLO1	Kyle O'Loughlin	COF	star	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	23	05-03-2016 11:01:08	KIR2	Kaylyn Kirkpatrick	QA	star	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	23	05-03-2016 11:01:08	KIR2	Kaylyn Kirkpatrick	QA	star	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	24	05-03-2016 11:02:18	AMP1	Nick Ampe	EHS	sun	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	24	05-03-2016 11:02:18	AMP1	Nick Ampe	EHS	sun	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	25	05-03-2016 11:03:35	SED1	Dana Sedin	QA	sun	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	25	05-03-2016 11:03:35	SED1	Dana Sedin	QA	sun	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	26	05-03-2016 11:07:53	BIE2	Jeff Biegert	COF	sun	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	ttb-citrusy and pine	~
+RA PR MAY 3 16	1	26	05-03-2016 11:07:53	BIE2	Jeff Biegert	COF	sun	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	2	bland muted hop aroma, lacks citrus and fesh dry hop aroma, also a touch of body sweat	2	sweeter than usual	1	~	2	~	not ttb-sweaty hop aroma, muted bland aroma, DMS
+RA PR MAY 3 16	1	27	05-03-2016 11:08:34	CON1	Karl Conklin	QA	sun	T	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	27	05-03-2016 11:08:34	CON1	Karl Conklin	QA	sun	T	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	28	05-03-2016 11:09:48	KOE1	Ross Koenigs	COF	star	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	28	05-03-2016 11:09:48	KOE1	Ross Koenigs	COF	star	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	29	05-03-2016 11:15:16	KAR1	Matt Karn	BH	sun	T	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	29	05-03-2016 11:15:16	KAR1	Matt Karn	BH	sun	T	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	30	05-03-2016 11:22:27	BLE1	Billy Bletcher	COF	star	T	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	30	05-03-2016 11:22:27	BLE1	Billy Bletcher	COF	star	T	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	31	05-03-2016 11:23:15	PON1	Dave Ponceby	LC	star	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	31	05-03-2016 11:23:15	PON1	Dave Ponceby	LC	star	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	32	05-03-2016 11:23:35	SEE1	Shawn Seeboth	MAIN	sun	V	2	RA 0 day keg	Ranger	RA	160503006	0	KEG	0	0	0	05/03/16	05/02/16	05/03/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR MAY 3 16	1	32	05-03-2016 11:23:35	SEE1	Shawn Seeboth	MAIN	sun	V	1	RA 2 day bottle	Ranger	RA	160501021	2	bottle	0	0	0	05/03/16	05/01/16	09/04/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~

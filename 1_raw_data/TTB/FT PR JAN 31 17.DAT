@@ -1,0 +1,57 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT PR JAN 31 17	1	1	01-31-2017 10:03:12	AMM1	Lisa Ammann	MKT	sun	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	1	01-31-2017 10:03:12	AMM1	Lisa Ammann	MKT	sun	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	2	1	~	2	papery, spitwad aroma	2	sour	1	~	2	~	papery and sour, whatever the fuck that means
+FT PR JAN 31 17	1	2	01-31-2017 10:04:12	LAV2	Aaron LaVanchy	PKG	star	T	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	2	01-31-2017 10:04:12	LAV2	Aaron LaVanchy	PKG	star	T	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	3	01-31-2017 10:04:36	DIC2	Josh Dick	SALES	sun	T	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	3	01-31-2017 10:04:36	DIC2	Josh Dick	SALES	sun	T	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	4	01-31-2017 10:05:27	HUD1	Cory Hudson	IT	sun	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	4	01-31-2017 10:05:27	HUD1	Cory Hudson	IT	sun	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	2	1	~	2	it cloe, but i think it i missing some of the nutty grainy caramel punch it normally hass.  this key board has a stuck sssssss	2	close, but I was getting a tiny bit of sour.	1	~	2	~	close, but not ttb imo/
+FT PR JAN 31 17	1	5	01-31-2017 10:05:53	SCH1	Ali Schultz	QA	sun	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	1	1	~	1	~	1	~	1	~	1	bitterness lingers more	~
+FT PR JAN 31 17	1	5	01-31-2017 10:05:53	SCH1	Ali Schultz	QA	sun	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	2	1	~	2	metallic in retro (but not on the hand test), SO2 nitially_	1	~	1	~	1	metallic not as present as I continued to drink it	~
+FT PR JAN 31 17	1	6	01-31-2017 10:08:57	SED1	Dana Sedin	QA	sun	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	6	01-31-2017 10:08:57	SED1	Dana Sedin	QA	sun	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	7	01-31-2017 10:19:32	PET2	Ken Petroski	COF	star	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	7	01-31-2017 10:19:32	PET2	Ken Petroski	COF	star	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	8	01-31-2017 10:20:47	FIS1	Mark Fischer	PAD	sun	T	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	8	01-31-2017 10:20:47	FIS1	Mark Fischer	PAD	sun	T	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	9	01-31-2017 10:28:28	RAD1	Brent Radke	QA	star	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	9	01-31-2017 10:28:28	RAD1	Brent Radke	QA	star	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	10	01-31-2017 10:29:02	DUB1	Kate Dubas	SALES	sun	T	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	10	01-31-2017 10:29:02	DUB1	Kate Dubas	SALES	sun	T	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	11	01-31-2017 10:29:04	PEO1	Kaitlyn Peot	FUL	sun	T	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	11	01-31-2017 10:29:04	PEO1	Kaitlyn Peot	FUL	sun	T	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	12	01-31-2017 10:29:46	GIL1	Matty Gilliland	BH	sun	T	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	Fresh and ttbn	~
+FT PR JAN 31 17	1	12	01-31-2017 10:29:46	GIL1	Matty Gilliland	BH	sun	T	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	2	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+FT PR JAN 31 17	1	13	01-31-2017 10:33:31	BAR2	Ben Barrett	SALES	sun	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	13	01-31-2017 10:33:31	BAR2	Ben Barrett	SALES	sun	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	14	01-31-2017 10:35:54	DAV1	Kevin Davis	COF	sun	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	14	01-31-2017 10:35:54	DAV1	Kevin Davis	COF	sun	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	15	01-31-2017 10:36:09	HOL1	Chris Holbrook	COF	sun	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	15	01-31-2017 10:36:09	HOL1	Chris Holbrook	COF	sun	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	16	01-31-2017 10:36:53	OLO1	Kyle O'Loughlin	COF	star	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	16	01-31-2017 10:36:53	OLO1	Kyle O'Loughlin	COF	star	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	17	01-31-2017 10:40:27	KAR1	Matt Karn	BH	sun	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	17	01-31-2017 10:40:27	KAR1	Matt Karn	BH	sun	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	18	01-31-2017 10:45:50	SEE1	Shawn Seeboth	MAIN	sun	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	18	01-31-2017 10:45:50	SEE1	Shawn Seeboth	MAIN	sun	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	19	01-31-2017 10:57:19	SAL2	Lauren Limbach	QA	star	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	19	01-31-2017 10:57:19	SAL2	Lauren Limbach	QA	star	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	2	1	~	1	~	1	~	1	~	1	little watery and super spritzy, like day zero	~
+FT PR JAN 31 17	1	20	01-31-2017 10:57:37	LIM1	Pete Limbach	EVE	star	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	20	01-31-2017 10:57:37	LIM1	Pete Limbach	EVE	star	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	2	1	~	2	a little  isovaleric, sweaty socks	1	~	1	~	1	minor isovaleric	~
+FT PR JAN 31 17	1	21	01-31-2017 11:00:00	CON1	Karl Conklin	QA	sun	T	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	21	01-31-2017 11:00:00	CON1	Karl Conklin	QA	sun	T	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	22	01-31-2017 11:01:00	PON1	Dave Ponceby	LC	star	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	22	01-31-2017 11:01:00	PON1	Dave Ponceby	LC	star	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	23	01-31-2017 11:01:17	CHR1	Rob Christiansen	QA	sun	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	23	01-31-2017 11:01:17	CHR1	Rob Christiansen	QA	sun	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	24	01-31-2017 11:04:33	STE1	Kelly Stewart	BH	sun	T	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	TTB	~
+FT PR JAN 31 17	1	24	01-31-2017 11:04:33	STE1	Kelly Stewart	BH	sun	T	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	2	1	~	1	~	1	~	1	~	1	TTB	~
+FT PR JAN 31 17	1	25	01-31-2017 11:05:17	AMP1	Nick Ampe	EHS	sun	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	1	1	~	2	more DMS than normal	1	~	1	~	1	elevated DMS, but still good	~
+FT PR JAN 31 17	1	25	01-31-2017 11:05:17	AMP1	Nick Ampe	EHS	sun	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	26	01-31-2017 11:15:52	KIR1	Marie Kirkpatrick	LC	star	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	26	01-31-2017 11:15:52	KIR1	Marie Kirkpatrick	LC	star	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR JAN 31 17	1	27	01-31-2017 11:24:34	BIE1	Jeff Biegert	COF	sun	T	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	1	1	~	1	~	1	~	1	~	1	ttb-amber ale at its best	~
+FT PR JAN 31 17	1	27	01-31-2017 11:24:34	BIE1	Jeff Biegert	COF	sun	T	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	2	1	~	1	~	1	~	1	~	1	ttb-more fizzy than usual, high CO2? did this come from sea level???	~
+FT PR JAN 31 17	1	28	01-31-2017 11:30:32	DAR1	Kevin Darst	PD	sun	V	2	FT 0 day keg	Fat Tire	FT	170131101	0	keg	0	0	0	01/31/17	01/31/17	06/11/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	I would almost say there is a tiny bit of acetic acid in here (coming through as the faintest possible vinegar aroma).	~
+FT PR JAN 31 17	1	28	01-31-2017 11:30:32	DAR1	Kevin Darst	PD	sun	V	1	FT 8 day bottle	Fat Tire	FT	170131005	8	bottle	0	0	0	01/31/17	01/23/17	06/04/17	PR	1	845	2	1	~	2	decent amount of strawberry jam aroma. almost feels a bit like an MV sample in that way.	1	~	2	bit flat	2	~	see aroma. strawberry jammy like an MV

@@ -1,0 +1,40 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+HMA IP APR 18 16	1	1	04-18-2016 10:06:13	DAR1	Kevin Darst		sun	V	1	HMA MV	HMA MV	HMA	160418410	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	137	1	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	1	04-18-2016 10:06:13	DAR1	Kevin Darst		sun	V	2	HMA  MV	HMA MV	HMA	160418550	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	442	2	1	~	1	~	1	~	1	~	1	comes across a little differently when warm, with bigger bitter linger.	~
+HMA IP APR 18 16	1	1	04-18-2016 10:06:13	DAR1	Kevin Darst		sun	V	3	HMA   MV	HMA MV	HMA	160418001	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	911	3	1	~	2	sl butyric pukiness	1	~	1	~	2	~	that butyric pukiness is prominent
+HMA IP APR 18 16	1	2	04-18-2016 10:06:27	MIT1	Andy Mitchell	COF	star	V	1	HMA MV	HMA MV	HMA	160418410	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	137	1	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	2	04-18-2016 10:06:27	MIT1	Andy Mitchell	COF	star	V	2	HMA  MV	HMA MV	HMA	160418550	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	442	2	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	2	04-18-2016 10:06:27	MIT1	Andy Mitchell	COF	star	V	3	HMA   MV	HMA MV	HMA	160418001	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	911	3	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	3	04-18-2016 10:06:27	PET1	Ted Peterson	COF	star	V	3	HMA   MV	HMA MV	HMA	160418001	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	911	1	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	3	04-18-2016 10:06:27	PET1	Ted Peterson	COF	star	V	1	HMA MV	HMA MV	HMA	160418410	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	137	2	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	3	04-18-2016 10:06:27	PET1	Ted Peterson	COF	star	V	2	HMA  MV	HMA MV	HMA	160418550	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	442	3	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	4	04-18-2016 10:13:34	HUL1	Grady Hull	BH	sun	V	2	HMA  MV	HMA MV	HMA	160418550	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	442	1	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	4	04-18-2016 10:13:34	HUL1	Grady Hull	BH	sun	V	3	HMA   MV	HMA MV	HMA	160418001	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	911	2	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	4	04-18-2016 10:13:34	HUL1	Grady Hull	BH	sun	V	1	HMA MV	HMA MV	HMA	160418410	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	137	3	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	5	04-18-2016 10:20:05	DAV1	Kevin Davis	COF	sun	V	1	HMA MV	HMA MV	HMA	160418410	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	137	1	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	5	04-18-2016 10:20:05	DAV1	Kevin Davis	COF	sun	V	3	HMA   MV	HMA MV	HMA	160418001	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	911	2	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	5	04-18-2016 10:20:05	DAV1	Kevin Davis	COF	sun	V	2	HMA  MV	HMA MV	HMA	160418550	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	442	3	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	6	04-18-2016 10:22:47	MUR1	Pat Murfin	COF	star	v	1	HMA MV	HMA MV	HMA	160418410	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	137	1	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	6	04-18-2016 10:22:47	MUR1	Pat Murfin	COF	star	v	3	HMA   MV	HMA MV	HMA	160418001	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	911	2	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	6	04-18-2016 10:22:47	MUR1	Pat Murfin	COF	star	v	2	HMA  MV	HMA MV	HMA	160418550	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	442	3	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	7	04-18-2016 10:26:40	PET2	Ken Petroski	COF	star	V	2	HMA  MV	HMA MV	HMA	160418550	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	442	1	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	7	04-18-2016 10:26:40	PET2	Ken Petroski	COF	star	V	3	HMA   MV	HMA MV	HMA	160418001	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	911	2	1	~	2	very dull on the watermelon aroma	1	~	1	~	1	on the cusp..dull watermelon	~
+HMA IP APR 18 16	1	7	04-18-2016 10:26:40	PET2	Ken Petroski	COF	star	V	1	HMA MV	HMA MV	HMA	160418410	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	137	3	1	~	1	~	1	~	1	~	1	seemed a bit thin/watery..nice flavor tho..	~
+HMA IP APR 18 16	1	8	04-18-2016 10:28:32	KOS1	Isaac Koski	COF	star	T	2	HMA  MV	HMA MV	HMA	160418550	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	442	1	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	8	04-18-2016 10:28:32	KOS1	Isaac Koski	COF	star	T	3	HMA   MV	HMA MV	HMA	160418001	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	911	2	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	8	04-18-2016 10:28:32	KOS1	Isaac Koski	COF	star	T	1	HMA MV	HMA MV	HMA	160418410	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	137	3	1	~	1	~	1	~	1	~	1	this one is a little watery	~
+HMA IP APR 18 16	1	9	04-18-2016 10:41:25	DAU1	Soren Daugaard	PKG	sun	V	3	HMA   MV	HMA MV	HMA	160418001	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	911	1	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	9	04-18-2016 10:41:25	DAU1	Soren Daugaard	PKG	sun	V	2	HMA  MV	HMA MV	HMA	160418550	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	442	2	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	9	04-18-2016 10:41:25	DAU1	Soren Daugaard	PKG	sun	V	1	HMA MV	HMA MV	HMA	160418410	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	137	3	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	10	04-18-2016 10:45:06	HUG1	Erin Hughes	TLC	star	v	1	HMA MV	HMA MV	HMA	160418410	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	137	1	1	~	1	~	1	~	1	~	1	i can't tell if what i'm seeing is particulate or carbonation. i think carbonation from my swirly gig.	~
+HMA IP APR 18 16	1	10	04-18-2016 10:45:06	HUG1	Erin Hughes	TLC	star	v	2	HMA  MV	HMA MV	HMA	160418550	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	442	2	1	~	1	~	1	~	1	~	1	more sour than sample one. not bad or good, just saying.	~
+HMA IP APR 18 16	1	10	04-18-2016 10:45:06	HUG1	Erin Hughes	TLC	star	v	3	HMA   MV	HMA MV	HMA	160418001	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	911	3	2	take this for what's it's worth as this is my first time with mv hma. the foam looks off. it's a shit ton of tiny bubles, but it looks soapy on the surface.	2	very dull.	1	~	2	watery	2	~	soapy surface and bubbles. thin.
+HMA IP APR 18 16	1	12	04-18-2016 10:56:06	FUE1	Jacob Fuentes	QA	sun	T	2	HMA  MV	HMA MV	HMA	160418550	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	442	1	1	~	1	~	1	~	1	~	1	Catty, lingering bitter	~
+HMA IP APR 18 16	1	12	04-18-2016 10:56:06	FUE1	Jacob Fuentes	QA	sun	T	1	HMA MV	HMA MV	HMA	160418410	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	137	2	1	~	1	~	1	~	1	~	1	slight acetic	~
+HMA IP APR 18 16	1	12	04-18-2016 10:56:06	FUE1	Jacob Fuentes	QA	sun	T	3	HMA   MV	HMA MV	HMA	160418001	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	911	3	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	13	04-18-2016 11:03:47	BOU1	Peter Bouckaert	BH	star	T	3	HMA   MV	HMA MV	HMA	160418001	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	911	1	1	~	1	~	1	~	1	~	1	wow, very rindy if that is word	~
+HMA IP APR 18 16	1	13	04-18-2016 11:03:47	BOU1	Peter Bouckaert	BH	star	T	1	HMA MV	HMA MV	HMA	160418410	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	137	2	1	~	1	~	2	sourness to high	1	~	2	~	sourness is dominating the watermelon lacton sweetness
+HMA IP APR 18 16	1	13	04-18-2016 11:03:47	BOU1	Peter Bouckaert	BH	star	T	2	HMA  MV	HMA MV	HMA	160418550	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	442	3	1	~	1	~	1	~	1	~	1	ok	~
+HMA IP APR 18 16	1	14	04-18-2016 11:11:01	MCC1	Chris McCombs	ENG	sun	V	1	HMA MV	HMA MV	HMA	160418410	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	137	1	1	~	1	~	1	~	1	~	1		~
+HMA IP APR 18 16	1	14	04-18-2016 11:11:01	MCC1	Chris McCombs	ENG	sun	V	2	HMA  MV	HMA MV	HMA	160418550	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	442	2	1	~	2	low melon	1	~	2	astringent dryness	2	~	astringency, low watermelon aroma
+HMA IP APR 18 16	1	14	04-18-2016 11:11:01	MCC1	Chris McCombs	ENG	sun	V	3	HMA   MV	HMA MV	HMA	160418001	0	IP	0	0	0	04/18/16	04/18/16	04/18/16	IP	1	911	3	1	~	2	low watermelon	1	~	1	~	2	~	faint/ low watermelon aroma

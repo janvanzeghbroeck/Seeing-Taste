@@ -1,0 +1,31 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT PR AUG 26 16	1	1	08-26-2016 10:00:48	MIT1	Andy Mitchell	COF	star	V	1	FT 2 Day bottle	Fat Tire	FT	160824092	2	bottle	0	0	0	08/26/16	08/24/16	01/01/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	1	08-26-2016 10:00:48	MIT1	Andy Mitchell	COF	star	V	2	FT 1 day keg	Fat Tire	FT	160825031	1	keg	0	0	0	08/26/16	08/25/16	01/01/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	2	08-26-2016 10:05:38	MAD1	John Madigan	PKG	star	T	1	FT 2 Day bottle	Fat Tire	FT	160824092	2	bottle	0	0	0	08/26/16	08/24/16	01/01/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	2	08-26-2016 10:05:38	MAD1	John Madigan	PKG	star	T	2	FT 1 day keg	Fat Tire	FT	160825031	1	keg	0	0	0	08/26/16	08/25/16	01/01/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	3	08-26-2016 10:08:18	UNG1	Eric Unger	PKG	star	T	2	FT 1 day keg	Fat Tire	FT	160825031	1	keg	0	0	0	08/26/16	08/25/16	01/01/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	3	08-26-2016 10:08:18	UNG1	Eric Unger	PKG	star	T	1	FT 2 Day bottle	Fat Tire	FT	160824092	2	bottle	0	0	0	08/26/16	08/24/16	01/01/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	4	08-26-2016 10:23:40	SED1	Dana Sedin	QA	sun	V	2	FT 1 day keg	Fat Tire	FT	160825031	1	keg	0	0	0	08/26/16	08/25/16	01/01/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	4	08-26-2016 10:23:40	SED1	Dana Sedin	QA	sun	V	1	FT 2 Day bottle	Fat Tire	FT	160824092	2	bottle	0	0	0	08/26/16	08/24/16	01/01/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	5	08-26-2016 10:23:48	SKI1	Dawn Skinner	FA	sun	V	2	FT 1 day keg	Fat Tire	FT	160825031	1	keg	0	0	0	08/26/16	08/25/16	01/01/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	ttb	~
+FT PR AUG 26 16	1	5	08-26-2016 10:23:48	SKI1	Dawn Skinner	FA	sun	V	1	FT 2 Day bottle	Fat Tire	FT	160824092	2	bottle	0	0	0	08/26/16	08/24/16	01/01/17	PR	1	845	2	1	~	1	~	1	~	1	~	1	ttb	~
+FT PR AUG 26 16	1	6	08-26-2016 10:48:16	BAR2	Ben Barrett	SALES	sun	V	1	FT 2 Day bottle	Fat Tire	FT	160824092	2	bottle	0	0	0	08/26/16	08/24/16	01/01/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	6	08-26-2016 10:48:16	BAR2	Ben Barrett	SALES	sun	V	2	FT 1 day keg	Fat Tire	FT	160825031	1	keg	0	0	0	08/26/16	08/25/16	01/01/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	7	08-26-2016 10:50:29	OLO1	Kyle O'Loughlin	COF	star	V	2	FT 1 day keg	Fat Tire	FT	160825031	1	keg	0	0	0	08/26/16	08/25/16	01/01/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	7	08-26-2016 10:50:29	OLO1	Kyle O'Loughlin	COF	star	V	1	FT 2 Day bottle	Fat Tire	FT	160824092	2	bottle	0	0	0	08/26/16	08/24/16	01/01/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	8	08-26-2016 11:06:16	SEE1	Shawn Seeboth	MAIN	sun	V	1	FT 2 Day bottle	Fat Tire	FT	160824092	2	bottle	0	0	0	08/26/16	08/24/16	01/01/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	8	08-26-2016 11:06:16	SEE1	Shawn Seeboth	MAIN	sun	V	2	FT 1 day keg	Fat Tire	FT	160825031	1	keg	0	0	0	08/26/16	08/25/16	01/01/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	9	08-26-2016 11:07:45	BAI1	Zach Baitinger	PUR	sun	T	2	FT 1 day keg	Fat Tire	FT	160825031	1	keg	0	0	0	08/26/16	08/25/16	01/01/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	9	08-26-2016 11:07:45	BAI1	Zach Baitinger	PUR	sun	T	1	FT 2 Day bottle	Fat Tire	FT	160824092	2	bottle	0	0	0	08/26/16	08/24/16	01/01/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	10	08-26-2016 11:08:34	DAR1	Kevin Darst	PD	sun	V	2	FT 1 day keg	Fat Tire	FT	160825031	1	keg	0	0	0	08/26/16	08/25/16	01/01/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	10	08-26-2016 11:08:34	DAR1	Kevin Darst	PD	sun	V	1	FT 2 Day bottle	Fat Tire	FT	160824092	2	bottle	0	0	0	08/26/16	08/24/16	01/01/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	11	08-26-2016 11:14:34	BIE1	Jeff Biegert	COF	sun	V	2	FT 1 day keg	Fat Tire	FT	160825031	1	keg	0	0	0	08/26/16	08/25/16	01/01/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	ttb-clean	~
+FT PR AUG 26 16	1	11	08-26-2016 11:14:34	BIE1	Jeff Biegert	COF	sun	V	1	FT 2 Day bottle	Fat Tire	FT	160824092	2	bottle	0	0	0	08/26/16	08/24/16	01/01/17	PR	1	845	2	1	~	2	high solvent/EA aroma	1	~	2	thin	2	~	not ttb- high ethyl acetate
+FT PR AUG 26 16	1	12	08-26-2016 11:18:14	DIC2	Josh Dick	SALES	sun	T	1	FT 2 Day bottle	Fat Tire	FT	160824092	2	bottle	0	0	0	08/26/16	08/24/16	01/01/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	12	08-26-2016 11:18:14	DIC2	Josh Dick	SALES	sun	T	2	FT 1 day keg	Fat Tire	FT	160825031	1	keg	0	0	0	08/26/16	08/25/16	01/01/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	13	08-26-2016 11:20:08	AMP1	Nick Ampe	EHS	sun	V	1	FT 2 Day bottle	Fat Tire	FT	160824092	2	bottle	0	0	0	08/26/16	08/24/16	01/01/17	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	13	08-26-2016 11:20:08	AMP1	Nick Ampe	EHS	sun	V	2	FT 1 day keg	Fat Tire	FT	160825031	1	keg	0	0	0	08/26/16	08/25/16	01/01/17	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	14	08-26-2016 11:22:28	LAV2	Aaron LaVanchy	PKG	star	T	2	FT 1 day keg	Fat Tire	FT	160825031	1	keg	0	0	0	08/26/16	08/25/16	01/01/17	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	14	08-26-2016 11:22:28	LAV2	Aaron LaVanchy	PKG	star	T	1	FT 2 Day bottle	Fat Tire	FT	160824092	2	bottle	0	0	0	08/26/16	08/24/16	01/01/17	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT PR AUG 26 16	1	15	08-26-2016 11:28:09	BAR1	Lindsay Barr	QA	sun	V	2	FT 1 day keg	Fat Tire	FT	160825031	1	keg	0	0	0	08/26/16	08/25/16	01/01/17	PR	1	711	1	1	~	1	~	1	~	1	~	1	sl sweet and quite estery	~
+FT PR AUG 26 16	1	15	08-26-2016 11:28:09	BAR1	Lindsay Barr	QA	sun	V	1	FT 2 Day bottle	Fat Tire	FT	160824092	2	bottle	0	0	0	08/26/16	08/24/16	01/01/17	PR	1	845	2	1	~	1	~	1	~	1	~	1	high eh	~

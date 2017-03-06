@@ -51,17 +51,22 @@ class VisualizeTasting(object):
         sci = sci.dropna(how = 'all') # drops any line with all na
         self.sci_big = sci.copy()
 
-        sci_small = sci.iloc[:,:5]
-        # get the same brewnumbers in both quals and sci
-        i = sci_small.index
-
-        self.quals = [q[i] for q in self.quals]
-        self.sci = sci_small
 
         # filling in nans with mean values for each colemn
         for col in sci.columns.tolist()[6:]:
             mean = sci[col].mean()
             self.sci_big[col] = sci[col].fillna(mean)
+
+        sci_small = self.sci_big[['abv','ae','rdf']]
+        self.sci = sci_small
+
+        # get the same brewnumbers in both quals and sci
+        i = sci_small.index
+
+        self.quals = [q[i] for q in self.quals]
+
+
+
 
 
 
@@ -72,6 +77,15 @@ class VisualizeTasting(object):
 
 # ------------------------------------------------------------------
 # ------------------------------------------------------------------
+
+    def mean_ratings(self):
+        counts = []
+        means = []
+        for i,q in enumerate(self.quals):
+            means.append(q.mean(axis = 1))
+            counts.append(q.count(axis = 1))
+        return counts[0], means
+
 # ------------------------------------------------------------------
 # ------------------------------------------------------------------
 
@@ -92,8 +106,9 @@ class VisualizeTasting(object):
         plt.violinplot(vio_means, showmeans=True,showmedians=False)
 
         # sets the axis and labels
-        plt.xticks([1,2,3,4],['Flavor','Clairity','Aroma','Body'],fontsize=16)
-        plt.ylabel('Average Tasting Score: 0 = True- / 1 = Off-Brand',fontsize=16)
+        plt.xticks([1,2,3,4],['Flavor','Clairity','Aroma','Body'],fontsize=20)
+        plt.ylabel('Higher scores = further from True to Brand',fontsize=18)
+        plt.title('Distribution of Tasters with 5 individual Tasters', fontsize = 18)
 # ------------------------------------------------------------------
 # ------------------------------------------------------------------
 
@@ -115,7 +130,7 @@ class VisualizeTasting(object):
             plots the average for each taster id
 
         '''
-
+        self.plot_pears()
         if colors is None:
             colors = self.colors
 
@@ -132,10 +147,13 @@ class VisualizeTasting(object):
             if tastings is None:
                 taster_label = '{}'.format(taster_codes[i])
             else:
-                taster_label = '{}: {} total tastes'.format(taster_codes[i],int(tastings[i]))
+                taster_label = 'Taster {}: {} total tastes'.format(i,int(tastings[i]),fontsize = 16)
 
             plt.plot(np.arange(1,5), taster_means, color = colors[i], linestyle = '--', marker = 'd', markersize = 7, linewidth = 2, label = taster_label)
+
         plt.legend(loc='upper left')
+        plt.savefig('../figures/tasters.png', dpi=128)
+
 
 # ------------------------------------------------------------------
 # ------------------------------------------------------------------
@@ -145,6 +163,7 @@ class VisualizeTasting(object):
         INPUTS
             k --> type = int --> number of groups to create based on number of tastings
         '''
+        self.plot_pears()
         i = np.argsort(self.tastings)
         i_groups = np.array_split(i, k, axis = 0)
         group_means = []
@@ -167,38 +186,43 @@ class VisualizeTasting(object):
 # ------------------------------------------------------------------
 
 
-    def plot_brew(self,brewnumber = None,last = 10):
+    def plot_brew(self,brewnumber = None,last = 10,make_fig = True):
         if brewnumber is None:
             # sets brewnumber to most recent
             brewnumber = np.max(self.quals[0].columns.tolist())
 
-        last_brews_lst = self.quals[0].columns.tolist()
-        last_brews_lst.sort()
-        last_brews = last_brews_lst[-last:]
-        last_brews_values = []
-        for q in self.quals:
-            dist = []
-            for brew in last_brews:
-                dist.append(np.mean(q[brew].dropna().values))
-            last_brews_values.append(dist)
 
-        f, axarr = plt.subplots(4, figsize = (7,8), sharex=True, sharey = True)
-        axarr[0].set_title('Average score for last {} brewnumbers'.format(last))
+        f, axarr = plt.subplots(4, figsize = (7,8), sharex=True, sharey = False)
+        axarr[0].set_title('Average tasting score for last {} tastings'.format(last),fontsize = 18)
         labels = ['Flavor','Clairity','Aroma','Body']
         for i, label in enumerate(labels):
-            axarr[i].plot(last_brews_values[i][::-1])
-            axarr[i].set_ylabel(label)
-            qual_mean = np.mean(last_brews_values[i])
-            axarr[i].axhline(qual_mean, alpha = .7)
-            three_std = qual_mean + 3* np.std(last_brews_values[i])
+            q_most_recent = self.quals[i].T.iloc[-last:,:]
+            most_recent_numbers = q_most_recent.index.tolist()
+            avg_ttb = q_most_recent.mean(axis = 1)
+
+            axarr[i].plot(avg_ttb.values)
+            axarr[i].set_ylabel(label,fontsize = 20)
+
+            qual_mean = self.quals[i].mean().mean()
+            # axarr[i].axhline(qual_mean, alpha = .7)
+            three_std = qual_mean + 3* avg_ttb.std()
             axarr[i].axhline(three_std,linestyle = '--',alpha = .7)
+            axarr[i].axvline(3,color = 'k')
+
+
+            axarr[i].yaxis.tick_right()
+            axarr[i].set_yticks([0, three_std, three_std*1.1])
+            axarr[i].set_yticklabels(['TTB','upper\nlimit'],fontsize = 14)
 
         # adding x tick marks
-        plt.xticks(np.arange(len(last_brews)),map(int,last_brews), rotation = 70) #could also be 'vertical'
+        brew_numbers = map(int,most_recent_numbers)
+        plt.xticks(np.arange(last),brew_numbers, rotation = 50) #could also be 'vertical'
+
+        plt.savefig('../figures/brews.png', dpi=128)
 
 
 
-        return last_brews_values
+        return brew_numbers
 # ------------------------------------------------------------------
 # ------------------------------------------------------------------
 
@@ -308,16 +332,18 @@ class VisualizeTasting(object):
 # ------------------------------------------------------------------
 
     def plot_sci(self,last = 10):
-        sci_small = self.sci
+        sci_small = self.sci_big
 
         if last == 'all': # plot all of them
             last = sci_small.shape[0]
 
-        n_cols = sci_small.shape[1]
-        f, axarr = plt.subplots(n_cols, figsize = (7,8), sharex=True, sharey = False)
-        axarr[0].set_title('Science data for last {} brewnumbers'.format(last))
 
-        labels = sci_small.columns.tolist()
+        labels = sci_small.columns.tolist()[:4] # of the first four
+        print_labels = ['Apparent\nExtract', 'pH', 'CO', 'ABV']
+        n_cols = len(labels)
+        f, axarr = plt.subplots(n_cols, figsize = (7,8), sharex=True, sharey = False)
+        axarr[0].set_title('4 Chemical measures for the last {} tastings'.format(last),fontsize = 18)
+
         x = np.arange(last)
         sci_small = sci_small.iloc[-last:,:]
 
@@ -325,7 +351,7 @@ class VisualizeTasting(object):
             # plot change of metrics
             axarr[i].plot(x,sci_small[label])
             # set the label for each sci value
-            axarr[i].set_ylabel(label)
+            axarr[i].set_ylabel(print_labels[i],fontsize = 20)
 
             # find and plot mean line (solid) and 3 std above (--)
             qual_mean = np.mean(sci_small[label])
@@ -334,11 +360,67 @@ class VisualizeTasting(object):
             axarr[i].axhline(qual_mean + three_std,linestyle = '--',alpha = .7)
             axarr[i].axhline(qual_mean - three_std,linestyle = '--',alpha = .7)
 
+            axarr[i].axvline(3,color = 'k')
+
+            axarr[i].yaxis.tick_right()
+            # axarr[i].set_yticks([qual_mean - three_std, qual_mean, qual_mean + three_std, three_std*1.1])
+            # axarr[i].set_yticklabels(['lower\nlimit','mean','upper\nlimit'],fontsize = 14)
 
         # setting x ticks!
         plt.xticks(x,map(int,sci_small.index.tolist()), rotation = 50)
+        plt.savefig('../figures/sci.png', dpi=128)
+
 
         return sci_small
+
+
+
+    def sci_feat(self,std_thresh = 1):
+        sci = self.sci # cols = sci data, rows = brewnumber
+        sci_means = sci.mean(axis = 0) # mean of each sci data
+        sci_stds = sci.std(axis = 0) # std of each sci data
+
+        # creates threshold based on std_thresh number of stds
+        upper_threshold = sci_means + std_thresh*sci_stds
+        lower_threshold = sci_means - std_thresh*sci_stds
+
+        upper_idx = sci > upper_threshold # T/F of which values are greater than upper_threshold
+        lower_idx = sci > lower_threshold # T/F of which values are greater than upper_threshold
+
+        cols = sci.columns.tolist()
+        index = sci.index.tolist()
+
+        # for each tasting qualification
+        scores_per_qual = []
+        for i,q in enumerate(self.quals): #note there is a .5 in q
+            # for each sci data
+            allscores = []
+            for col in cols:
+                if_peak = q.T[upper_idx[col]] # brew x taster for brewnumber that have a peak
+                counts = if_peak.count(axis = 0) # counts each tater has participated in a tasting with a peak
+
+                counts_correct = if_peak.sum(axis = 0)# number of times they said 1
+
+                if_peak = if_peak.replace(0,-1) # punish those who didnt taste it with -1 those who did already have a 1
+                did_taste = counts>0
+                sums = if_peak.sum(axis = 0) # sums each taster " " " "
+
+                # scores indicates the percent of the time this taster identifies the sci peak correctly
+                scores = (sums[did_taste]/counts[did_taste] + 1)/2
+                # how many times they have tasted a peak for this sci measure
+                scores = pd.concat([scores,counts_correct[did_taste],counts[did_taste]], axis = 1)
+                # rename columns
+                scores.columns = ['perc_correct','count_correct','count']
+                scores['total_occur'] = len(if_peak)
+
+
+                # combine into the all scores list of len(cols)
+                allscores.append(scores)
+            # append the allscores into a list for the 4 quals
+            scores_per_qual.append(allscores)
+            #^ list (4) of list (sci.cols) of dataframes (2 cols)
+
+        return scores_per_qual
 
 
 
@@ -350,4 +432,4 @@ class VisualizeTasting(object):
 
 
 if __name__ == '__main__':
-    pass
+    sci = pd.read_pickle('databases/clean_sci.pkl')

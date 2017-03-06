@@ -1,0 +1,33 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FTC PR NOV 2 15	1	1	11-02-2015 10:05:49	MAD1	John Madigan	PKG	star	T	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	2	11-02-2015 10:06:39	SAL1	Eric Salazar	BH	star	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	3	11-02-2015 10:09:39	HUL1	Grady Hull	PAD	sun	T	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	4	11-02-2015 10:11:49	PET1	Ted Peterson	COF	star	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	5	11-02-2015 10:15:15	DIC2	Gary Dick	BH	sun	T	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	6	11-02-2015 10:15:39	GIL1	Matty Gilliland	BH	sun	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	Fat Tire	~
+FTC PR NOV 2 15	1	7	11-02-2015 10:17:48	DIC1	Perry Dickerson	QA	sun	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	8	11-02-2015 10:21:29	FIS1	Mark Fischer	PAD	sun	T	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	9	11-02-2015 10:23:43	LIM1	Pete Limbach	EVE	star	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	10	11-02-2015 10:24:16	GIL2	Penelope Gilliland	LC	star	T	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	11	11-02-2015 10:25:31	AMM1	Lisa Ammann	MKT	sun	T	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	2	butyric	1	~	1	~	2	~	butyric
+FTC PR NOV 2 15	1	12	11-02-2015 10:28:04	HOL2	Michelle Holbrook	EVE	sun	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	2	butterscotch -y diacetyl	1	~	1	~	2	~	diacetyl
+FTC PR NOV 2 15	1	13	11-02-2015 10:30:37	BEE1	Bethany Beers	PD	sun	T	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	14	11-02-2015 10:32:35	PON1	Dave Ponceby	LC	star	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	15	11-02-2015 10:33:41	DAV1	Kevin Davis	COF	sun	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	2	some low level diacetyl	1	~	1	~	1	low level diacetyl	~
+FTC PR NOV 2 15	1	16	11-02-2015 10:34:52	HOL1	Chris Holbrook	COF	sun	T	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	17	11-02-2015 10:38:41	REI1	Cody Reif	QA	sun	T	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	18	11-02-2015 10:41:48	DAU1	Soren Daugaard	PKG	star	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	2	a little sour	1	~	1		~
+FTC PR NOV 2 15	1	19	11-02-2015 10:42:44	SEE1	Shawn Seeboth	MAIN	sun	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	20	11-02-2015 10:44:30	TRU1	Jason Trujillo	QA	sun	T	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	21	11-02-2015 10:46:18	SCH1	Ali Schultz	QA	sun	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	2	seems quite dull	2	sl sourness	1	~	2	~	dull, sl sourness
+FTC PR NOV 2 15	1	22	11-02-2015 10:47:10	RAD1	Brent Radke	QA	star	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	23	11-02-2015 10:50:08	STU1	Andrew Sturm	COF	star	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	24	11-02-2015 10:54:30	KOE1	Ross Koenigs	COF	star	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	2	my tasting isn't sharp today, however im getting some kind of diacetyl or diacetyl like aroma	2	a little sweet	2	a little flat	2	~	i think a low level diacetyl spike
+FTC PR NOV 2 15	1	25	11-02-2015 10:59:45	MUR1	Pat Murfin	COF	sun	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	26	11-02-2015 11:12:22	KJO	Casey Kjolhede	FUL	sun	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	2	slight diacytel	2	slightl y diacytel	2	slicker	2	~	diacytel
+FTC PR NOV 2 15	1	27	11-02-2015 11:13:07	HAZ1	Alex Hazelmyer	QA	sun	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	2	diacetyl	1	~	1	~	2	~	diacetyl.
+FTC PR NOV 2 15	1	28	11-02-2015 11:18:05	MIT1	Andy Mitchell	COF	star	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	2	It's really slight, but I'm getting a hint of diacetyl / butterscotch.	1	~	1	~	2	~	Very slight diacetyl in aroma
+FTC PR NOV 2 15	1	29	11-02-2015 11:19:59	BAN1	Tamar Banner	COF	sun	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	slt more bitter than usual	~
+FTC PR NOV 2 15	1	30	11-02-2015 11:22:29	MCC1	Chris McCombs	ENG	sun	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	31	11-02-2015 11:24:48	BAI1	Zach Baitinger	PUR	sun	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FTC PR NOV 2 15	1	32	11-02-2015 11:26:47	DAR1	Kevin Darst	PD	sun	V	1	FTC 4 Day Can	Fat Tire Can	FTC	151102002	0	can	0	0	0	11/02/15	10/29/15	03/27/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~

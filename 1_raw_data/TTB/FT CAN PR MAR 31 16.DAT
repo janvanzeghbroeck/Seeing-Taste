@@ -1,0 +1,61 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT CAN PR MAR 31 16	1	1	03-31-2016 10:03:50	SAL3	Keith Salmon	PKG	star	T	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	1	03-31-2016 10:03:50	SAL3	Keith Salmon	PKG	star	T	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	2	03-31-2016 10:05:14	LAV2	Aaron LaVanchy	PKG	star	T	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	2	03-31-2016 10:05:14	LAV2	Aaron LaVanchy	PKG	star	T	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	3	03-31-2016 10:05:42	KOS1	Isaac Koski	BH	star	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	same harsh finish	~
+FT CAN PR MAR 31 16	1	3	03-31-2016 10:05:42	KOS1	Isaac Koski	BH	star	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	4	03-31-2016 10:10:08	DAR1	Kevin Darst	PD	sun	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	4	03-31-2016 10:10:08	DAR1	Kevin Darst	PD	sun	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	2	1	~	2	dusty, papery. dull on other ttb aromas.	1	~	1	~	2	~	dusty and papery; dull on ttb aromas
+FT CAN PR MAR 31 16	1	5	03-31-2016 10:10:15	DAV1	Kevin Davis	COF	sun	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	5	03-31-2016 10:10:15	DAV1	Kevin Davis	COF	sun	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	6	03-31-2016 10:16:22	MIT1	Andy Mitchell	COF	star	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	6	03-31-2016 10:16:22	MIT1	Andy Mitchell	COF	star	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	7	03-31-2016 10:17:09	DIC2	Gary Dick	BH	sun	T	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	7	03-31-2016 10:17:09	DIC2	Gary Dick	BH	sun	T	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	8	03-31-2016 10:19:01	FIS1	Mark Fischer	PAD	sun	T	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	8	03-31-2016 10:19:01	FIS1	Mark Fischer	PAD	sun	T	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	9	03-31-2016 10:20:04	RAD1	Brent Radke	QA	star	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	9	03-31-2016 10:20:04	RAD1	Brent Radke	QA	star	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	10	03-31-2016 10:21:12	DAU1	Soren Daugaard	PKG	star	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	10	03-31-2016 10:21:12	DAU1	Soren Daugaard	PKG	star	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	11	03-31-2016 10:23:47	AMP1	Nick Ampe	EHS	sun	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	1	1	~	2	paper aroma and retro. not enough to no go, but a bit off	1	~	1	~	1	slight papery	~
+FT CAN PR MAR 31 16	1	11	03-31-2016 10:23:47	AMP1	Nick Ampe	EHS	sun	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	12	03-31-2016 10:25:22	SAL1	Eric Salazar	BH	star	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	12	03-31-2016 10:25:22	SAL1	Eric Salazar	BH	star	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	13	03-31-2016 10:26:59	PET2	Ken Petroski	COF	star	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	13	03-31-2016 10:26:59	PET2	Ken Petroski	COF	star	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	14	03-31-2016 10:27:51	BAI1	Zach Baitinger	PUR	sun	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	1	2	low foam,	1	~	2	very thin	1	~	1	thin fat tire, possible low carbonation?	~
+FT CAN PR MAR 31 16	1	14	03-31-2016 10:27:51	BAI1	Zach Baitinger	PUR	sun	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	15	03-31-2016 10:32:47	HAL1	Tony Hall	PKG	star	T	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	15	03-31-2016 10:32:47	HAL1	Tony Hall	PKG	star	T	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	16	03-31-2016 10:36:34	HUD1	Cory Hudson	IT	sun	T	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	16	03-31-2016 10:36:34	HUD1	Cory Hudson	IT	sun	T	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	17	03-31-2016 10:39:08	KAR1	Matt Karn	BH	sun	T	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	17	03-31-2016 10:39:08	KAR1	Matt Karn	BH	sun	T	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	18	03-31-2016 10:40:12	HUL1	Grady Hull	PAD	sun	T	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	18	03-31-2016 10:40:12	HUL1	Grady Hull	PAD	sun	T	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	19	03-31-2016 10:40:49	STE1	Kelly Stewart	BH	sun	T	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	TTB	~
+FT CAN PR MAR 31 16	1	19	03-31-2016 10:40:49	STE1	Kelly Stewart	BH	sun	T	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	1	~	1	~	1	~	1	TTB	~
+FT CAN PR MAR 31 16	1	20	03-31-2016 10:45:56	PET3	Tyler Peters	LC	star	T	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	20	03-31-2016 10:45:56	PET3	Tyler Peters	LC	star	T	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	21	03-31-2016 10:51:35	SKI1	Dawn Skinner	FA	sun	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	ttb	~
+FT CAN PR MAR 31 16	1	21	03-31-2016 10:51:35	SKI1	Dawn Skinner	FA	sun	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	1	~	1	~	1	~	1	ttb	~
+FT CAN PR MAR 31 16	1	22	03-31-2016 10:51:48	BAN1	Tamar Banner	COF	sun	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	lots of foam. great head retention.	~
+FT CAN PR MAR 31 16	1	22	03-31-2016 10:51:48	BAN1	Tamar Banner	COF	sun	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	1	~	1	~	1	~	1	lots of foam. great head retention.	~
+FT CAN PR MAR 31 16	1	23	03-31-2016 10:54:46	PET1	Ted Peterson	COF	star	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	23	03-31-2016 10:54:46	PET1	Ted Peterson	COF	star	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	24	03-31-2016 10:57:51	KJO	Casey Kjolhede	FUL	sun	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	24	03-31-2016 10:57:51	KJO	Casey Kjolhede	FUL	sun	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	25	03-31-2016 11:10:48	MCC1	Chris McCombs	ENG	sun	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	25	03-31-2016 11:10:48	MCC1	Chris McCombs	ENG	sun	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	26	03-31-2016 11:16:36	VAN1	Sarah VanVlerah	LC	star	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	26	03-31-2016 11:16:36	VAN1	Sarah VanVlerah	LC	star	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	2	picking up on some sulfidic.	1	~	1	~	2	~	sulfidic
+FT CAN PR MAR 31 16	1	27	03-31-2016 11:19:38	SEE1	Shawn Seeboth	MAIN	sun	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	27	03-31-2016 11:19:38	SEE1	Shawn Seeboth	MAIN	sun	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	28	03-31-2016 11:19:51	BEE1	Bethany Beers	PD	sun	T	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	28	03-31-2016 11:19:51	BEE1	Bethany Beers	PD	sun	T	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	29	03-31-2016 11:21:47	PON1	Dave Ponceby	LC	star	V	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	29	03-31-2016 11:21:47	PON1	Dave Ponceby	LC	star	V	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	30	03-31-2016 11:27:22	BAR2	Ben Barrett	SALES	sun	T	2	FT 2 day can	Fat Tire	FTC	160329041	2	can	0	0	0	03/31/16	03/29/16	08/28/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+FT CAN PR MAR 31 16	1	30	03-31-2016 11:27:22	BAR2	Ben Barrett	SALES	sun	T	1	FT 1 day can	Fat Tire	FTC	160330071	1	can	0	0	0	03/31/16	03/30/16	08/28/16	PR	1	845	2	1	~	1	~	1	~	1	~	1	perhaps sl geosmin note but not enough to no go	~

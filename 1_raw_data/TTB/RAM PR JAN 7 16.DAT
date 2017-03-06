@@ -1,0 +1,55 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+RAM PR JAN 7 16	1	1	01-07-2016 10:08:19	BUR1	Travis Burge	BH	sun	T	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	1	01-07-2016 10:08:19	BUR1	Travis Burge	BH	sun	T	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	2	01-07-2016 10:08:34	LAV2	Aaron LaVanchy	PKG	star	T	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	2	01-07-2016 10:08:34	LAV2	Aaron LaVanchy	PKG	star	T	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	3	01-07-2016 10:08:58	FIS1	Mark Fischer	PAD	sun	T	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	3	01-07-2016 10:08:58	FIS1	Mark Fischer	PAD	sun	T	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	4	01-07-2016 10:10:04	HUG1	Erin Hughes	HR	sun	V	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	why isn't this beer a mascot of sorts of csu? 'get your RAMpants on' would totally work for game day sales. just sayin'	~
+RAM PR JAN 7 16	1	4	01-07-2016 10:10:04	HUG1	Erin Hughes	HR	sun	V	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	2	1	~	1	~	1	~	1	~	1	better than dank	~
+RAM PR JAN 7 16	1	5	01-07-2016 10:12:15	HUL1	Grady Hull	PAD	sun	T	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	5	01-07-2016 10:12:15	HUL1	Grady Hull	PAD	sun	T	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	6	01-07-2016 10:16:32	DAR1	Kevin Darst	PD	sun	V	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	6	01-07-2016 10:16:32	DAR1	Kevin Darst	PD	sun	V	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	7	01-07-2016 10:16:45	PET2	Ken Petroski	COF	star	V	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	7	01-07-2016 10:16:45	PET2	Ken Petroski	COF	star	V	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	8	01-07-2016 10:17:32	PON1	Dave Ponceby	LC	star	V	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	8	01-07-2016 10:17:32	PON1	Dave Ponceby	LC	star	V	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	9	01-07-2016 10:22:21	BOG1	Brian Bogan	EVE	sun	T	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	9	01-07-2016 10:22:21	BOG1	Brian Bogan	EVE	sun	T	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	10	01-07-2016 10:24:25	SAL3	Keith Salmon	PKG	star	T	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	10	01-07-2016 10:24:25	SAL3	Keith Salmon	PKG	star	T	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	11	01-07-2016 10:24:57	HAL1	Tony Hall	PKG	star	T	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	11	01-07-2016 10:24:57	HAL1	Tony Hall	PKG	star	T	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	12	01-07-2016 10:28:22	REI1	Cody Reif	QA	sun	T	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	12	01-07-2016 10:28:22	REI1	Cody Reif	QA	sun	T	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	13	01-07-2016 10:28:33	HOL2	Michelle Holbrook	EVE	sun	V	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	13	01-07-2016 10:28:33	HOL2	Michelle Holbrook	EVE	sun	V	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	14	01-07-2016 10:31:00	SED1	Dana Sedin	QA	sun	V	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	14	01-07-2016 10:31:00	SED1	Dana Sedin	QA	sun	V	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	15	01-07-2016 10:35:08	RAD1	Brent Radke	QA	star	V	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	a bit light on color.	~
+RAM PR JAN 7 16	1	15	01-07-2016 10:35:08	RAD1	Brent Radke	QA	star	V	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	16	01-07-2016 10:36:25	NOR1	Ryan Norwood	QA	sun	V	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	16	01-07-2016 10:36:25	NOR1	Ryan Norwood	QA	sun	V	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	17	01-07-2016 10:38:54	GIL1	Matty Gilliland	BH	sun	V	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	1	1	~	2	Some malt ox in aroma.	1	~	1	~	1	IT's true to brand, but it'd be a stretch to call it fresh_	~
+RAM PR JAN 7 16	1	17	01-07-2016 10:38:54	GIL1	Matty Gilliland	BH	sun	V	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	2	1	~	1	~	1	~	1	~	1	Tastes gret	~
+RAM PR JAN 7 16	1	18	01-07-2016 10:41:39	TRU1	Jason Trujillo	QA	sun	T	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	18	01-07-2016 10:41:39	TRU1	Jason Trujillo	QA	sun	T	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	19	01-07-2016 10:42:12	SAL1	Eric Salazar	BH	star	V	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	19	01-07-2016 10:42:12	SAL1	Eric Salazar	BH	star	V	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	20	01-07-2016 10:53:04	DAU1	Soren Daugaard	PKG	star	V	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	20	01-07-2016 10:53:04	DAU1	Soren Daugaard	PKG	star	V	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	21	01-07-2016 10:56:29	LIM1	Pete Limbach	EVE	star	V	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	21	01-07-2016 10:56:29	LIM1	Pete Limbach	EVE	star	V	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	22	01-07-2016 11:11:51	KOL1	Katy Koller	PD	sun	T	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	22	01-07-2016 11:11:51	KOL1	Katy Koller	PD	sun	T	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	23	01-07-2016 11:13:32	GIL2	Penelope Gilliland	LC	star	T	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	1	1	~	2	a lot of solvent in the aroma detracts from the hop aromas	2		1	~	2	~	picking up a lot of solvent in the aroma and it detracts from the hop aroma. posislbe ethyl acetate
+RAM PR JAN 7 16	1	23	01-07-2016 11:13:32	GIL2	Penelope Gilliland	LC	star	T	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	24	01-07-2016 11:13:51	IRB1	Jeff Irby	QA	star	V	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	sl dull aroma	~
+RAM PR JAN 7 16	1	24	01-07-2016 11:13:51	IRB1	Jeff Irby	QA	star	V	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	2	1	~	1	~	1	~	1	~	1	less tropicals	~
+RAM PR JAN 7 16	1	25	01-07-2016 11:18:33	BOU1	Peter Bouckaert	PAD	sun	T	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	1	1	~	1	~	1	~	1	~	1	boozy	~
+RAM PR JAN 7 16	1	25	01-07-2016 11:18:33	BOU1	Peter Bouckaert	PAD	sun	T	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	2	2	haze with wooly flocs over 2 mm and some denser large particles	1	~	1	~	1	~	2	~	for appearance, looks like the lint of a cloth dryer fell in it.
+RAM PR JAN 7 16	1	26	01-07-2016 11:21:31	AMM1	Lisa Ammann	MKT	sun	V	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	26	01-07-2016 11:21:31	AMM1	Lisa Ammann	MKT	sun	V	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	27	01-07-2016 11:26:48	DIC1	Perry Dickerson	QA	sun	V	1	RAM 2 day bottle	Rampant	RAM	160105051	2	bottle	0	0	0	01/07/16	01/05/16	05/15/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RAM PR JAN 7 16	1	27	01-07-2016 11:26:48	DIC1	Perry Dickerson	QA	sun	V	2	RAM 1 day bottle	Rampant	RAM	160106041	1	bottle	0	0	0	01/07/16	01/06/16	05/15/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~

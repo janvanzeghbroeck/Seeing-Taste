@@ -1,0 +1,52 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT IP JAN 5 16	1	1	01-05-2016 10:03:11	SED1	Dana Sedin	QA	sun	V	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	1	01-05-2016 10:03:11	SED1	Dana Sedin	QA	sun	V	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	1	01-05-2016 10:03:11	SED1	Dana Sedin	QA	sun	V	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	3	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	2	01-05-2016 10:08:19	DAU1	Soren Daugaard	PKG	sun	V	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	2	01-05-2016 10:08:19	DAU1	Soren Daugaard	PKG	sun	V	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	2	01-05-2016 10:08:19	DAU1	Soren Daugaard	PKG	sun	V	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	3	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	3	01-05-2016 10:15:38	PET2	Ken Petroski	COF	star	V	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	3	01-05-2016 10:15:38	PET2	Ken Petroski	COF	star	V	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	3	01-05-2016 10:15:38	PET2	Ken Petroski	COF	star	V	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	3	1	~	1	~	1	~	1	~	1	ttb but seems boozier...perhaps a bit of ethyl acetate as well	~
+FT IP JAN 5 16	1	4	01-05-2016 10:20:43	HUG1	Erin Hughes	TLC	star	v	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	1	1	~	1	~	1	~	1	~	1	ttb	~
+FT IP JAN 5 16	1	4	01-05-2016 10:20:43	HUG1	Erin Hughes	TLC	star	v	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	2	1	~	1	~	1	~	1	~	1	ttb	~
+FT IP JAN 5 16	1	4	01-05-2016 10:20:43	HUG1	Erin Hughes	TLC	star	v	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	3	1	~	1	~	1	~	1	~	1	ttb	~
+FT IP JAN 5 16	1	5	01-05-2016 10:20:46	KIR1	Marie Kirkpatrick	LC	star	V	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	5	01-05-2016 10:20:46	KIR1	Marie Kirkpatrick	LC	star	V	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	5	01-05-2016 10:20:46	KIR1	Marie Kirkpatrick	LC	star	V	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	3	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	6	01-05-2016 10:25:26	NOR1	Ryan Norwood	QA	sun	V	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	6	01-05-2016 10:25:26	NOR1	Ryan Norwood	QA	sun	V	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	6	01-05-2016 10:25:26	NOR1	Ryan Norwood	QA	sun	V	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	3	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	7	01-05-2016 10:27:57	MIT1	Andy Mitchell	COF	star	V	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	7	01-05-2016 10:27:57	MIT1	Andy Mitchell	COF	star	V	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	7	01-05-2016 10:27:57	MIT1	Andy Mitchell	COF	star	V	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	3	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	8	01-05-2016 10:28:47	DAV1	Kevin Davis	COF	sun	V	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	8	01-05-2016 10:28:47	DAV1	Kevin Davis	COF	sun	V	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	8	01-05-2016 10:28:47	DAV1	Kevin Davis	COF	sun	V	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	3	1	~	1	~	1	~	1	~	2	~	phew, ethyl acetate or buterate comes in strong in the aftertaste
+FT IP JAN 5 16	1	9	01-05-2016 10:40:37	HUL1	Grady Hull	BH	sun	T	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	9	01-05-2016 10:40:37	HUL1	Grady Hull	BH	sun	T	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	9	01-05-2016 10:40:37	HUL1	Grady Hull	BH	sun	T	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	3	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	10	01-05-2016 10:41:09	BAR1	Lindsay Barr	QA	sun	V	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	1	1	~	2	odd fried food on first whif and som plastic in the retro	1	~	1	~	2	~	plastic and fried...
+FT IP JAN 5 16	1	10	01-05-2016 10:41:09	BAR1	Lindsay Barr	QA	sun	V	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	2	1	~	2	strong ethyl acetate	1	~	1	~	2	~	strong EA
+FT IP JAN 5 16	1	10	01-05-2016 10:41:09	BAR1	Lindsay Barr	QA	sun	V	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	3	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	11	01-05-2016 10:52:03	DAR1	Kevin Darst		sun	V	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	11	01-05-2016 10:52:03	DAR1	Kevin Darst		sun	V	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	11	01-05-2016 10:52:03	DAR1	Kevin Darst		sun	V	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	3	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	12	01-05-2016 10:55:58	BOU1	Peter Bouckaert	BH	star	T	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	1	1	~	1	~	1	~	1	~	1	nice malt	~
+FT IP JAN 5 16	1	12	01-05-2016 10:55:58	BOU1	Peter Bouckaert	BH	star	T	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	2	1	~	2	something sharp in the nose, for me something between acetaldehyde and EA	1	~	1	~	2	~	high in a solventy like acetaldehyde
+FT IP JAN 5 16	1	12	01-05-2016 10:55:58	BOU1	Peter Bouckaert	BH	star	T	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	3	1	~	1	~	1	~	1	~	1	some solventy acetaldehyde like but not over the top	~
+FT IP JAN 5 16	1	13	01-05-2016 11:01:30	BAN1	Tamar Banner	COF	star	V	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	1	1	~	1	~	1	~	2	very hot. like you added grain alcohol to it.	2	~	what's the ABV of this?  warming mouthfeel is off the charts.
+FT IP JAN 5 16	1	13	01-05-2016 11:01:30	BAN1	Tamar Banner	COF	star	V	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	2	1	~	1	~	1	~	1	~	1	aroma's a little low, but my pallette is numbed by the previous vodka sample you gave me.	~
+FT IP JAN 5 16	1	13	01-05-2016 11:01:30	BAN1	Tamar Banner	COF	star	V	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	3	1	~	1	~	1	~	2	still too hot	2	~	seems like a blend of the other two. still really hot.  hoping dilution overcomes this.
+FT IP JAN 5 16	1	14	01-05-2016 11:01:45	SCH1	Ali Schultz	QA	sun	V	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	1	1	~	1	~	1	~	1	~	1	seems quite boozy. which is enhancing the bitterness	~
+FT IP JAN 5 16	1	14	01-05-2016 11:01:45	SCH1	Ali Schultz	QA	sun	V	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	2	1	~	1	~	1	~	1	~	1	thsi has higher amplitude of biscuit/malt notes, whereas my first bitter/boozy sample was duller	~
+FT IP JAN 5 16	1	14	01-05-2016 11:01:45	SCH1	Ali Schultz	QA	sun	V	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	3	1	~	1	~	1	~	1	~	1	again, higher biscuti/malty. or the samples are getting warmer	~
+FT IP JAN 5 16	1	16	01-05-2016 11:17:19	DIC1	Perry Dickerson	QA	sun	V	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	16	01-05-2016 11:17:19	DIC1	Perry Dickerson	QA	sun	V	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	2	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	16	01-05-2016 11:17:19	DIC1	Perry Dickerson	QA	sun	V	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	3	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	17	01-05-2016 11:20:28	LAW1	Chelsea Lawler	QA	sun	T	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	17	01-05-2016 11:20:28	LAW1	Chelsea Lawler	QA	sun	T	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	2	2	very hwavy sheen, murky	1	~	1	~	1	~	2	~	visual heavy sheen, murky
+FT IP JAN 5 16	1	17	01-05-2016 11:20:28	LAW1	Chelsea Lawler	QA	sun	T	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	3	2		1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	18	01-05-2016 11:22:52	MCC1	Chris McCombs	ENG	sun	V	1	FT MV	FT MV	FT	160105520	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	137	1	1	~	1	~	1	~	1	~	1		~
+FT IP JAN 5 16	1	18	01-05-2016 11:22:52	MCC1	Chris McCombs	ENG	sun	V	2	FT  MV	FT MV	FT	160105521	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	442	2	1	~	2	hop oil, resinous	1	~	1	~	2	~	resinous hop aroma
+FT IP JAN 5 16	1	18	01-05-2016 11:22:52	MCC1	Chris McCombs	ENG	sun	V	3	FT   MV	FT MV	FT	160105522	0	IP	0	0	0	01/05/16	01/05/16	01/05/16	IP	1	911	3	2	very clear	2	some acetaldehyde	2	sl brothy	1	~	2	~	brothy, sl acetaldehyde

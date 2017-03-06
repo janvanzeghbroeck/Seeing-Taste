@@ -1,0 +1,53 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+RA PR SEP 4 15	1	1	09-04-2015 10:02:46	COG1	Paul Coggins	BH	star	T	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	1	09-04-2015 10:02:46	COG1	Paul Coggins	BH	star	T	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	2	09-04-2015 10:07:49	LAV2	Aaron LaVanchy	PKG	star	T	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	2	09-04-2015 10:07:49	LAV2	Aaron LaVanchy	PKG	star	T	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	3	09-04-2015 10:08:01	BEE1	Bethany Beers	PD	sun	T	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	3	09-04-2015 10:08:01	BEE1	Bethany Beers	PD	sun	T	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	4	09-04-2015 10:10:44	HOL1	Chris Holbrook	COF	sun	T	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	4	09-04-2015 10:10:44	HOL1	Chris Holbrook	COF	sun	T	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	5	09-04-2015 10:13:43	DAU1	Soren Daugaard	PKG	star	V	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	5	09-04-2015 10:13:43	DAU1	Soren Daugaard	PKG	star	V	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	6	09-04-2015 10:15:15	NAB1	Josh Nabours	ENG	sun	T	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	1	1	~	1	~	1	~	2	mouthfeel seems dull, low carbonation, dull maltiness.	2	~	dull flavor and mouthfeel, low carbonation.
+RA PR SEP 4 15	1	6	09-04-2015 10:15:15	NAB1	Josh Nabours	ENG	sun	T	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	7	09-04-2015 10:20:12	HAL1	Tony Hall	PKG	star	T	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	1	1	~	1	~	2	too hoppy bitter	2	too boozy	2	~	tastes like there's some rampant in there as well
+RA PR SEP 4 15	1	7	09-04-2015 10:20:12	HAL1	Tony Hall	PKG	star	T	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	8	09-04-2015 10:20:21	HUL1	Grady Hull	PAD	sun	T	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	8	09-04-2015 10:20:21	HUL1	Grady Hull	PAD	sun	T	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	9	09-04-2015 10:25:06	PET2	Ken Petroski	COF	star	V	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	9	09-04-2015 10:25:06	PET2	Ken Petroski	COF	star	V	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	10	09-04-2015 10:27:50	STU1	Andrew Sturm	COF	star	V	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	10	09-04-2015 10:27:50	STU1	Andrew Sturm	COF	star	V	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	11	09-04-2015 10:30:08	GIL1	Matty Gilliland	BH	sun	V	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+RA PR SEP 4 15	1	11	09-04-2015 10:30:08	GIL1	Matty Gilliland	BH	sun	V	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	2	1	~	1	~	1	~	1	~	1	Fresh and ttb	~
+RA PR SEP 4 15	1	12	09-04-2015 10:31:57	UNG1	Eric Unger	PKG	star	T	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	12	09-04-2015 10:31:57	UNG1	Eric Unger	PKG	star	T	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	13	09-04-2015 10:33:35	SAL2	Lauren Salazar	QA	star	V	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	1	1	~	2	weird, really citrus- lemony- like rampant	2	barely bitter, weird	2	this is crazy, it's not harsh	2	~	i might be crazy, but this tastes just like hoptober or rampant light
+RA PR SEP 4 15	1	13	09-04-2015 10:33:35	SAL2	Lauren Salazar	QA	star	V	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	2	1	~	1	~	1	~	1	~	1	side by side - cans and bottle are a world away. ? changes the hop aroma, the bitter quality and quanitity- ?	~
+RA PR SEP 4 15	1	14	09-04-2015 10:36:18	OLO1	Kyle O'Loughlin	COF	star	T	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	14	09-04-2015 10:36:18	OLO1	Kyle O'Loughlin	COF	star	T	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	15	09-04-2015 10:42:17	PET1	Ted Peterson	COF	star	V	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	15	09-04-2015 10:42:17	PET1	Ted Peterson	COF	star	V	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	16	09-04-2015 10:42:22	BLE1	Billy Bletcher	COF	star	T	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	16	09-04-2015 10:42:22	BLE1	Billy Bletcher	COF	star	T	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	17	09-04-2015 10:49:41	SAL3	Keith Salmon	PKG	star	T	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	17	09-04-2015 10:49:41	SAL3	Keith Salmon	PKG	star	T	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	18	09-04-2015 10:56:59	BOU1	Peter Bouckaert	PAD	sun	T	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	1	1	~	1	~	1	~	1	~	1	nice nose, taste abit thin after B&J - PFB	~
+RA PR SEP 4 15	1	18	09-04-2015 10:56:59	BOU1	Peter Bouckaert	PAD	sun	T	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	2	1	~	1	~	1	~	1	~	1	nice nose - PFB	~
+RA PR SEP 4 15	1	19	09-04-2015 11:06:56	TRE1	Kelly Tretter	QA	sun	T	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	19	09-04-2015 11:06:56	TRE1	Kelly Tretter	QA	sun	T	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	20	09-04-2015 11:07:29	SED1	Dana Sedin	QA	sun	V	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	20	09-04-2015 11:07:29	SED1	Dana Sedin	QA	sun	V	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	21	09-04-2015 11:12:29	DIC1	Perry Dickerson	QA	sun	V	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	21	09-04-2015 11:12:29	DIC1	Perry Dickerson	QA	sun	V	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	22	09-04-2015 11:16:36	MUR1	Pat Murfin	COF	sun	V	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	22	09-04-2015 11:16:36	MUR1	Pat Murfin	COF	sun	V	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	23	09-04-2015 11:18:15	SEE1	Shawn Seeboth	MAIN	sun	V	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	23	09-04-2015 11:18:15	SEE1	Shawn Seeboth	MAIN	sun	V	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	24	09-04-2015 11:19:46	HOL2	Michelle Holbrook	EVE	sun	V	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	24	09-04-2015 11:19:46	HOL2	Michelle Holbrook	EVE	sun	V	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	25	09-04-2015 11:25:28	TRU1	Jason Trujillo	QA	sun	T	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	25	09-04-2015 11:25:28	TRU1	Jason Trujillo	QA	sun	T	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	26	09-04-2015 11:32:24	DAR1	Kevin Darst	PD	sun	V	1	RA 1 day can	Ranger	RA	150903051	1	can	0	0	0	09/04/15	09/03/15	01/10/16	PR	1	845	1	1	~	1	~	1	~	1	~	1		~
+RA PR SEP 4 15	1	26	09-04-2015 11:32:24	DAR1	Kevin Darst	PD	sun	V	2	RA 0 day can	Ranger	RA	150904071	0	can	0	0	0	09/04/15	09/04/15	01/10/16	PR	1	711	2	1	~	1	~	1	~	1	~	1		~

@@ -1,0 +1,30 @@
+Proj-Name	Session	Samp-Set	Time-Stamp	Reg-Code	Reg-Name	Dept	Shift	Status	Samp#	Samp-Code	Samp-Desc	BrandCode	BrewNumber	AgeDays	Package	AgeMonths	WarmStoreDays	RoomTempDays	SessionDate	PackageDate	BestByDate	TestType	RepNumber	Samp-BC	Samp-Pos	Clarity MC	Clarity Comment	Aroma MC	Aroma Comment	Flavor MC	Flavor Comment	Mouthfeel Body MC	Mouthfeel comments	fresh ttb or not	fresh ttb	not fresh ttb
+FT PR JUL 5 16	1	1	07-05-2016 10:00:34	LAV2	Aaron LaVanchy	PKG	star	T	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	2	07-05-2016 10:00:46	DAU1	Soren Daugaard	PKG	star	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	2	very slight onion like aroma	1	~	1	~	1	very slight onion like aroma	~
+FT PR JUL 5 16	1	3	07-05-2016 10:02:59	HUL1	Grady Hull	PAD	sun	T	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	4	07-05-2016 10:03:05	COG1	Paul Coggins	BH	star	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	5	07-05-2016 10:12:21	MAD1	John Madigan	PKG	star	T	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	2	little sour	2	slight grainy aged feel	1	slight sour and aged	~
+FT PR JUL 5 16	1	6	07-05-2016 10:14:24	BAR2	Ben Barrett	SALES	sun	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	7	07-05-2016 10:17:07	HUD1	Cory Hudson	IT	sun	T	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	8	07-05-2016 10:18:35	STE1	Kelly Stewart	BH	sun	T	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	TTB	~
+FT PR JUL 5 16	1	9	07-05-2016 10:24:39	MIT1	Andy Mitchell	COF	star	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	10	07-05-2016 10:26:02	DAV1	Kevin Davis	COF	sun	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	11	07-05-2016 10:34:55	MUR1	Pat Murfin	COF	sun	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	12	07-05-2016 10:37:14	KAR1	Matt Karn	BH	sun	T	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	13	07-05-2016 10:39:30	KOE1	Ross Koenigs	COF	star	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	14	07-05-2016 10:42:42	HOL1	Chris Holbrook	COF	sun	T	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	15	07-05-2016 10:43:44	HOL2	Michelle Holbrook	EVE	sun	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	16	07-05-2016 10:49:39	OLO1	Kyle O'Loughlin	COF	star	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	17	07-05-2016 10:51:05	SEE1	Shawn Seeboth	MAIN	sun	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	18	07-05-2016 10:57:32	PET2	Ken Petroski	COF	star	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	19	07-05-2016 10:57:35	WEN	Geoff Wenzel	BH	star	T	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	20	07-05-2016 10:59:02	MCC1	Chris McCombs	ENG	sun	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	21	07-05-2016 11:06:01	BOU1	Peter Bouckaert	PAD	sun	T	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1	touch solventy	~
+FT PR JUL 5 16	1	22	07-05-2016 11:06:20	FIS1	Mark Fischer	PAD	sun	T	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	23	07-05-2016 11:13:00	PON1	Dave Ponceby	LC	star	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	24	07-05-2016 11:13:23	SAL1	Eric Salazar	BH	star	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	25	07-05-2016 11:21:49	AMM1	Lisa Ammann	MKT	sun	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	26	07-05-2016 11:23:56	BEE1	Bethany Beers	PD	sun	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	2	there's some sulfitic popping up in here. both 1 sec and retro nasal.	2	seems sl salty.	1	~	2	~	the salty taste was more the reason for the not TTB.
+FT PR JUL 5 16	1	27	07-05-2016 11:26:26	AMP1	Nick Ampe	EHS	sun	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	28	07-05-2016 11:27:18	DAR1	Kevin Darst	PD	sun	V	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
+FT PR JUL 5 16	1	29	07-05-2016 11:30:50	BAI1	Zach Baitinger	PUR	sun	T	1	FT 3 day bottle	Fat Tire	FT	160702101	3	bottle	0	0	0	07/05/16	07/02/16	11/06/16	PR	1	626	1	1	~	1	~	1	~	1	~	1		~
