@@ -21,11 +21,8 @@ New Belgium's scientists have created a well trained tasting panel to gage quali
 
 ## Dataset
 
+<img src="brews.png" width=50% height=50%/> <img src="sci.png" width=50% height=50%/>
 
-<p align="left">
-    <img src="/figures/brews.png" width=50% height=50% alt="brews"/>
-    <img src="/figures/sci.png" width=50% height=50% alt="sci"/>
-</p>
 
 
 ## Engineered Features
