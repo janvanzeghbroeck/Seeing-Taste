@@ -1,14 +1,15 @@
 ## Seeing Taste
 
 # Visualization of Beer Tasting
-## Through the eyes a Data Scientist
+## Through the eyes of a Data Scientist
 
 Having a consistent high quality tasting craft product is important but accurately tasting that product can be challenging. Using data science techniques for clustering, statistics, &amp; the powers of python, Seeing Taste uses unsupervised learning to cluster tasters and identify who's good, who has a bias, and who has a specialized pallet all for the sake of making good craft beer.
 
 
 ## Table of Contents
 - [Motivation](#motivation)
-- [Dataset](#dataset)
+- [Workflow](#workflow)
+- [The Data](#the-data)
 - [Visualization](#visualization)
 - [Engineered Features](#engineered-features)
 - [Clustering](#clustering)
@@ -17,17 +18,44 @@ Having a consistent high quality tasting craft product is important but accurate
 
 ## Motivation
 
-New Belgium's scientists have created a well trained tasting panel to gage quality control and have graciously provided their data for me to analyze.
 
-## Dataset
+## Workflow
+
+<img src="figures/workflow.png" width=100% height=100%/>
+
+## The Data
+
+New Belgium has graciously provided tasting and scientific data for me to work with. Real world data can be messy and this was no exception. Using Pandas, Regular Expressions, and some smart while loops I was able to correct typos, fill in missing values, and extract id numbers from strings.
+
+Below (left) is the tasting data for the latest 19 tasting sessions. There are 4 main beer qualities that the tasters evaluate: flavor, clarity, aroma, and body. The red line shows the average taster score where a higher value indicates that more tasters thought that quality was Not True to Brand. On the right, are 4 scientific measurements for those same 19 sessions.
+The vertical black line indicates one individual session where Apparent Extract peaks just outside the acceptable range (indicated by the dashed lines). Looking at the tasting data on the left some of our tasters may have noticed this based on those who flagged Not True to Brand on flavor.
 
 <img src="figures/brews.png" width=45% height=45%/> <img src="figures/sci.png" width=45% height=45%/>
 
-
+## Visualization
 
 ## Engineered Features
 
+Step 1: Link Tasters and Tasting Session
+    Create another data table that linked each taster with the tasting sessions they participated in. This allowed me to quickly and easily find all the data associated with any specific taster or tasting session.
+
+Step 2: Engineer Features
+    --> Tasting Bias
+            🔼  Often flags as Not True to Brand
+            🔽  Rarely flags as Not True to Brand
+    --> Majority Vote Rate
+            🔼  Often flag as Not True to Brand when others agree
+            Rewards tasters who agree when the beer is Not True to Brand
+    --> Chemical Sensitivity
+            Rewards tasters who flag a beer when a chemical measurement was outside of the acceptable range
+            🔼   - more often they flag a beer when ABV is unacceptably high
+            Score of 0 indicates they have not experienced any such spikes
+    --> Experience  	
+            Indicates how many Fat Tire tastings they participated in
+
 ![Alt text](/figures/tasters.png "Taster Distribution")
+
+
 ## Clustering
 
 ## What Does it Mean?
