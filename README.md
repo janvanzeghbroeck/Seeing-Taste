@@ -1,10 +1,12 @@
 ## Seeing Taste
 
-# Visualization of Beer Tasting
-### Through the eyes of a Data Scientist
+### Visualization of Beer Tasting
+#### Through the eyes of a Data Scientist
 
 Having a consistent high quality tasting craft product is important but accurately tasting that product can be challenging. Using data science techniques for clustering, statistics, &amp; the powers of python, Seeing Taste uses unsupervised learning to cluster tasters and identify who's good, who has a bias, and who has a specialized pallet all for the sake of making great craft beer.
 
+
+<img src="figures/break_line.png" width=100% height=100%/>
 
 ## Table of Contents
 - [Workflow](#workflow)
@@ -15,9 +17,11 @@ Having a consistent high quality tasting craft product is important but accurate
 - [What Does it Mean?](#what-does-it-mean?)
 - [Next Steps](#next-steps)
 
+<img src="figures/break_line.png" width=100% height=100%/>
+
 ## Workflow
 
-### Figure 1: The work flow from data acquisition to answering the research question: Who is a good taster?
+#### Figure 1: The work flow from data acquisition to answering the research question: Who is a good taster?
 
 <img src="figures/workflow.png" width=100% height=100%/>
 
@@ -33,9 +37,9 @@ The vertical black line indicates one individual session where Apparent Extract 
 
 <img src="figures/brews.png" width=45% height=45%/> <img src="figures/sci.png" width=45% height=45%/>
 
-<img src="figures/break_line.png" width=100% height=100%/>
-
 I limited my data to those tasters who were current on their New Belgium training and to tasting on their flagship beer, Fat Tire.
+
+<img src="figures/break_line.png" width=100% height=100%/>
 
 ## Visualization
 
@@ -47,26 +51,36 @@ Amazingly, this one plot houses all of the actual tasting data and from it I was
 
 ![Alt text](/figures/tasters.png "Taster Distribution")
 
+<img src="figures/break_line.png" width=100% height=100%/>
 
 ## Engineered Features
 
 Below are the four different types of features that were engineered.
 
 - Tasting Bias
-        - 🔼  Often flags as Not True to Brand
-        - 🔽  Rarely flags as Not True to Brand
+    - High value indicates they often flag as Not True to Brand
+    - Low value indicates they rarely flag as Not True to Brand
 - Majority Vote Rate
-        - 🔼  Often flag as Not True to Brand when others agree
-        - Rewards tasters who agree when the beer is Not True to Brand
+    - High value indicates they often flag as Not True to Brand when others agree
+    - Rewards tasters who agree when the beer is Not True to Brand
 - Chemical Sensitivity
     - Rewards tasters who flag a beer when a chemical measurement was outside of the acceptable range
-    - 🔼 more often they flag a beer when ABV is unacceptably high
-    Score of 0 indicates they have not experienced any such spikes
+    - High value indicates they often flag a beer when measure is out of normal range
+    - Score of 0 indicates they have not experienced any such spikes
 - Experience
     - Indicates how many Fat Tire tastings they participated in
 
+
+<img src="figures/break_line.png" width=100% height=100%/>
+
 ## Clustering
 
+
+<img src="figures/break_line.png" width=100% height=100%/>
+
 ## What Does it Mean?
+
+
+<img src="figures/break_line.png" width=100% height=100%/>
 
 ## Next Steps
