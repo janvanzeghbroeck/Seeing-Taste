@@ -1,4 +1,28 @@
 ## Seeing Taste
 
-# Visualization of Beer Tasting Through the eyes a Data Scientist
-Having a consistent high quality tasting craft product is important but accurately tasting that product can be challenging. Using data science techniques for clustering, statistics, &amp; the powers of python, Seeing Taste displays a dashboard to easily visualize how the tasters rated the quality of the beer along side measured scientific data. Furthermore, Seeing Taste creates a baseline for each taster and discovers who has a tasting bias and who is the best. Using: Python, Pandas, Scikit-Learn, SQL, PCA
+# Visualization of Beer Tasting
+## Through the eyes a Data Scientist
+
+Having a consistent high quality tasting craft product is important but accurately tasting that product can be challenging. Using data science techniques for clustering, statistics, &amp; the powers of python, Seeing Taste uses unsupervised learning to cluster tasters to identify who's good, who has a bias, and who has a specialized pallet.
+
+
+## Table of Contents
+- [Motivation](#motivation)
+- [Dataset](#dataset)
+- [Visualization](#visualization)
+- [Engineered Features](#engineered-features)
+- [Clustering](#clustering)
+- [What Does it Mean?](#what-does-it-mean?)
+- [Next Steps](#next-steps)
+
+## Motivation
+
+## Dataset
+
+## Engineered Features
+
+## Clustering
+
+## What Does it Mean?
+
+## Next Steps
