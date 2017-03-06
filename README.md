@@ -1,9 +1,8 @@
 # Seeing Taste
 
-### Visualization of Beer Tasting Through the eyes of a Data Scientist
+### The Visualization of Beer Tasting Through the eyes of a Data Scientist
 
 Having a consistent high quality tasting craft product is important but accurately tasting that product can be challenging. Using New Belgium tasting data and data science techniques for clustering, statistics, &amp; the powers of python, Seeing Taste uses unsupervised learning to cluster tasters and identify who's good, who has a bias, and who has a specialized pallet all for the sake of making great craft beer.
-
 
 <img src="figures/break_line.png" width=100% height=100%/>
 
@@ -33,7 +32,7 @@ Figure 2, (below, left) shows the tasting data for the latest 19 tasting session
 
 The vertical black line indicates one individual session where Apparent Extract peaks just outside the acceptable range (indicated by the dashed lines). Looking at the tasting data on the left some of our tasters may have noticed this based on those who flagged Not True to Brand on flavor.
 
-#### Figure 2 & 3: raw tasting and chemical measurement data respectively
+#### Figure 2 & 3: Raw tasting & sample chemical measurement data respectively
 
 <img src="figures/brews.png" width=45% height=45%/> <img src="figures/sci.png" width=45% height=45%/>
 
@@ -55,28 +54,40 @@ Amazingly, this one plot houses all of the actual tasting data and from it I was
 
 <img src="figures/break_line.png" width=100% height=100%/>
 
-## Engineered Features
+## Engineering Features
 
-Below are the four different types of features that were engineered.
+Because the tasting data only consisted of ones, zeros, and NaNs engineering features proved very important.
 
-- Tasting Bias
-    - High value indicates they __often__ flag as Not True to Brand
-    - Low value indicates they __rarely__ flag as Not True to Brand
-- Majority Vote Rate
-    - High value indicates they often flag as Not True to Brand when others agree
-    - Rewards tasters who agree when the beer is Not True to Brand
-- Chemical Sensitivity
+- __Tasting Bias__
+    - High value indicates tasters who __often__ flag as Not True to Brand
+    - Low value indicates tasters who __rarely__ flag as Not True to Brand
+- __Majority Vote Rate__
+    - High value indicates tasters who often flag as Not True to Brand when others agree
+- __Chemical Sensitivity__
     - Looking back at figure 2 & 3 some spikes in chemical measures can be linked to some tasters indicating Not True to Brand. This feature attempts to reward those who do
-    - High value indicates they often flag a beer when measure is out of normal range
+    - High value indicates tasters who often flag a beer when measure is out of normal range
     - Score of 0 indicates they have not experienced any such spikes
     - Negative value indicates a taster who has never flagged a beer as Not True to Brand when the chemical measure spikes
-- Experience
-    - Indicates how many Fat Tire tastings they participated in
+- __Experience__
+    - Indicates how many Fat Tire tastings the tasters have participated in
 
 
 <img src="figures/break_line.png" width=100% height=100%/>
 
 ## Clustering
+
+I used K-Mean to cluster the tasters into groups. Simply put, K-Means using a distance metric to group tasters by how similar they are to each other. The algorithm takes all features into account creating clusters that would be challenging for a human to balance. K-Means requires input of the number of clusters as a hyper-parameter.
+
+Below on the left in Figure 5, you can see the silhouette score of the clusters. This score compares the distance of each point to its own cluster center over the distance to the other clusters. Maximizing this over varying numbers of clusters showed 8 groups as the optimum value.
+
+#### Figure 5: Silhouette score plot and 2-D PCA visualization
+<img src="figures/sil_plot.png" width=100% height=100%/>
+
+Plot created from code provided by Scikit-Learn
+
+Above on the right, shows a 2-dimensional visualization of the clusters by using Principle Component Analysis (PCA) to reduce the dimensions to two for plotting. Looking at the plot, the clusters nicely have separation with very little overlap when only plotting the first two dimensions.
+
+Now that we have our clusters what do
 
 
 <img src="figures/break_line.png" width=100% height=100%/>
