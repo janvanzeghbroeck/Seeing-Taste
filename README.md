@@ -33,7 +33,7 @@ The vertical black line indicates one individual session where Apparent Extract 
 
 <!-- <img src="figures/brews.png" width=45% height=45%/> <img src="figures/sci.png" width=45% height=45%/> -->
 
-<img src="figures/sci_brews.png" width=100% height=100%/>
+<img src="figures/sci_brew.png" width=100% height=100%/>
 
 I limited my data to those tasters who were current on their New Belgium training and to tasting on their flagship beer, Fat Tire.
 
