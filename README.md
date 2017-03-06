@@ -35,13 +35,13 @@ The vertical black line indicates one individual session where Apparent Extract 
 
 ## Visualization
 
-    I created another data table that linked each taster with the tasting sessions they participated in. This allowed me to quickly and easily find all the data associated with any specific taster or tasting session.
+I created another data table that linked each taster with the tasting sessions they participated in. This allowed me to quickly and easily find all the data associated with any specific taster or tasting session.
 
-    From these connections I started visualizing the distribution of the tasters to get a better idea of where differences occur. Below is a collection of violin plots show the distribution of average taster score for each of the four tasting qualities. 5 individual taters were plotted on top.
+From these connections I started visualizing the distribution of the tasters to get a better idea of where differences occur. Below is a collection of violin plots show the distribution of average taster score for each of the four tasting qualities. 5 individual taters were plotted on top.
 
-    ![Alt text](/figures/tasters.png "Taster Distribution")
+![Alt text](/figures/tasters.png "Taster Distribution")
 
-    In this plot we can see that
+In this plot we can see that
 
 
 ## Engineered Features
