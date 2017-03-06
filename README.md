@@ -1,6 +1,6 @@
 # Seeing Taste
 
-### The Visualization of Beer Tasting Through the eyes of a Data Scientist
+### The Visualization of Beer Tasting through the eyes of a Data Scientist
 
 Having a consistent high quality tasting craft product is important but accurately tasting that product can be challenging. Using New Belgium tasting data and data science techniques for clustering, statistics, &amp; the powers of python, Seeing Taste uses unsupervised learning to cluster tasters and identify who's good, who has a bias, and who has a specialized pallet - all for the sake of making great craft beer.
 
@@ -13,7 +13,7 @@ Having a consistent high quality tasting craft product is important but accurate
 - [Engineered Features](#engineered-features)
 - [K-Means Clustering](#k-means-clustering)
 - [What Does it Mean?](#what-does-it-mean?)
-- [Next Steps](#next-steps)
+- [Business Insight](#business-insight)
 - [Contact](#contact)
 
 <img src="figures/break_line.png" width=100% height=100%/>
@@ -96,7 +96,7 @@ Now that we have our clusters, what do they actually mean?
 
 Now that we have our clusters, plotting the distributions for each feature, for each quality (Flavor, clarity, etc.), and for each cluster will provide insight into how we did.
 
-Below in Figure 6 & 7, we can see an example of when the clustering created distinct and recognizable groups. The key here is to look at the trend of each distribution and find the ones that lean one way or the other. This indicates that in that cluster, that feature helps identify what type of tasters they are. Below are some examples printed with helpful arrows for they readers to easily follow along at home.
+Below in Figure 6 & 7, we can see an example of when the clustering created distinct and recognizable groups. The key here is to look at the trend of each distribution and find the ones that lean one way or the other. This indicates that in that cluster, that feature helps identify what type of tasters they are. Below are some examples printed with helpful arrows for the readers to easily follow along at home.
 
 - __Trustworthy Tasters__
     - Have low bias --> tend to be more conservative with flagging as NOT TTB
@@ -121,12 +121,22 @@ Below in Figure 6 & 7, we can see an example of when the clustering created dist
 #### Figure 7: Identifying Biased and ABV Specialist Tasters
 <img src="figures/bias_abv.png" width=100% height=100%/>
 
+## Business Insight
 
-## Next Steps
+- If there are too many new and/or biased tasters?
+    - Retest ensuring a diverse testing team
+- Need a trustworthy taster immediately?
+    - Identify who can be called in
+- Does a spike in chemical measurements actually affect the taste?
+    - Identify a specialist
+- Identify tasters who may need more training  
+
+Create profiles for each taster where they can brag about what they excel in with statistics like collectable baseball cards
 
 <img src="figures/break_line.png" width=100% height=100%/>
 
 ## Contact
 
+#### Jan Van Zeghbroeck
 - Email --> vanzeghb@gmail.com
 - [Linkedin](https://www.linkedin.com/in/janvanzeghbroeck/)
