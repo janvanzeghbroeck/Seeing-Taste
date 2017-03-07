@@ -4,7 +4,7 @@
 
 ### The Visualization of Beer Tasting through the eyes of a Data Scientist
 
-Having a consistent high quality tasting craft product is important but accurately tasting that product can be challenging. Using New Belgium tasting data and data science techniques for clustering, statistics, &amp; the powers of python, Seeing Taste uses unsupervised learning to cluster tasters and identify who's good, who has a bias, and who has a specialized pallet - all for the sake of making great craft beer.
+For New Belgium, having a consistent high quality tasting craft beer product is important. The complex flavors consumers love can vary unexpectedly, and accurately tasting the product can be challenging.  Seeing Taste uses unsupervised learning to cluster tasting data to identify which taster is trustworthy, who has a bias, and who has a specialized pallet - all for the sake of making great craft beer.
 
 <img src="figures/break_line.png" width=100% height=100%/>
 
