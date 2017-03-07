@@ -30,7 +30,7 @@ Having a consistent high quality tasting craft product is important but accurate
 
 New Belgium has graciously provided tasting and scientific data for me to work with. Real world data can be messy and this was no exception. Using Pandas, Regular Expressions, and some smart while loops I was able to correct typos, fill in missing values, and extract id numbers from strings.
 
-Figure 2, (below, left) shows the tasting data for the latest 19 tasting sessions. There are 4 main beer qualities that the tasters evaluate: flavor, clarity, aroma, and body. The red line shows the average taster score where a higher value indicates that more tasters thought that quality was Not True to Brand. On the right, are 4 scientific measurements for those same 19 sessions.
+Figure 2, (below, left) shows the tasting data for the latest 19 tasting sessions. Each taster There are 4 main beer qualities that the tasters evaluate: flavor, clarity, aroma, and body. The red line shows the average taster score where a higher value indicates that more tasters thought that quality was Not True to Brand. On the right, are 4 scientific measurements for those same 19 sessions.
 
 The vertical black line indicates one individual session where Apparent Extract peaks just outside the acceptable range (indicated by the dashed lines). Looking at the tasting data on the left some of our tasters may have noticed this based on those who flagged Not True to Brand on flavor.
 
@@ -140,5 +140,4 @@ Create profiles for each taster where they can brag about what they excel in wit
 ## Contact
 
 #### Jan Van Zeghbroeck
-- Email --> vanzeghb@gmail.com
 - [Linkedin](https://www.linkedin.com/in/janvanzeghbroeck/)
