@@ -125,7 +125,7 @@ Below in Figure 6 & 7, we can see an example of when the clustering created dist
 
 ## Business Insight
 
-How would this information be useful for New Belgium or any any other craft company? Well it could 
+How would this information be useful for New Belgium or any any other craft company? It could assist in answering these questions.
 
 - If there are too many new and/or biased tasters?
     - Retest ensuring a diverse tasting team
