@@ -16,7 +16,7 @@ For New Belgium, having a consistent high quality tasting craft beer product is 
 - [K-Means Clustering](#k-means-clustering)
 - [What Does it Mean?](#what-does-it-mean?)
 - [Business Insight](#business-insight)
-- [Contact](#contact)
+- [About Jan](#about-jan)
 
 <img src="figures/break_line.png" width=100% height=100%/>
 
@@ -28,7 +28,7 @@ For New Belgium, having a consistent high quality tasting craft beer product is 
 
 ## The Data
 
-New Belgium has graciously provided tasting and scientific data for me to work with. Real world data can be messy and this was no exception. Using Pandas, Regular Expressions, and some smart while loops I was able to correct typos, fill in missing values, and extract id numbers from strings.
+New Belgium has graciously provided tasting and scientific data for me to work with. Real world data can be messy and this was no exception. Using Pandas, Regular Expressions, and some well nested while loops I was able to correct typos, fill in missing values, and extract id numbers from strings.
 
 Figure 2, (below, left) shows the tasting data for the latest 19 tasting sessions. Each taster There are 4 main beer qualities that the tasters evaluate: flavor, clarity, aroma, and body. The red line shows the average taster score where a higher value indicates that more tasters thought that quality was Not True to Brand. On the right, are 4 scientific measurements for those same 19 sessions.
 
@@ -38,7 +38,7 @@ The vertical black line indicates one individual session where Apparent Extract 
 
 <img src="figures/brews.png" width=45% height=45%/> <img src="figures/sci.png" width=45% height=45%/>
 
-I limited my data to those tasters who were current on their New Belgium training and to tasting on their flagship beer, Fat Tire.
+I limited my data to those tasters who were current on their New Belgium training and to tasting sessions involving their flagship beer, Fat Tire.
 
 <img src="figures/break_line.png" width=100% height=100%/>
 
@@ -137,7 +137,16 @@ Create profiles for each taster where they can brag about what they excel in wit
 
 <img src="figures/break_line.png" width=100% height=100%/>
 
-## Contact
+## About Jan
 
-#### Jan Van Zeghbroeck
+Because of my background in the beer industry I was very exited to work with New Belgium on this project. A big thanks to Matt for providing the data.
+
+Combining this with engineering and psychology may appear like a mix-matched bag, however, Data Science perfectly marries them all. How this all happen? Well...
+
+During the summer of 2015 I had the exciting opportunity to travel and work at a craft brewery in South Africa. There I learned about the science and math behind brewing and because of my BS in Aerospace Engineering, I started to code a GUI to aid my beer making.
+
+Though working in the beer industry was a blast, I found myself -- and this is crazy to say -- missing math. In my free time I studied python and statistics, This naturally led to me enrolling in Galvanize's Data Science program. The program has connected the statistical experimentation of my psychology BA with the rigorous math of my engineering experience into quite the marriage of my skills. My Galvanize capstone project working with the craft brewery New Belgium brought everything full circle.
+
+I now proudly call myself a Data Scientist.
+
 - [Linkedin](https://www.linkedin.com/in/janvanzeghbroeck/)
