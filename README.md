@@ -143,6 +143,8 @@ Having a good tasting team helps ensure a consistent and quality product, using 
 
 <img src="figures/Jan.png" width=30% height=30%/>
 
+- [Linkedin](https://www.linkedin.com/in/janvanzeghbroeck/)
+
 Because of my background in the beer industry I was very exited to work with New Belgium on this project. A big thanks to Matt for providing the data.
 
 Combining this with my education & experiences in engineering & psychology may appear like a mix-matched bag, however, Data Science perfectly marries them all. How this all happen? Well...
@@ -152,5 +154,3 @@ During the summer of 2015 I had the exciting opportunity to travel and work at a
 Though working in the beer industry was a blast, I found myself -- and this is crazy to say -- missing math. In my free time I studied python and statistics, This naturally led to me enrolling in Galvanize's Data Science program. The program has connected the statistical experimentation of my psychology BA with the rigorous math of my engineering experience into quite the marriage of my skills. My Galvanize capstone project working with the craft brewery New Belgium brought everything full circle.
 
 I now proudly call myself a Data Scientist.
-
-- [Linkedin](https://www.linkedin.com/in/janvanzeghbroeck/)
