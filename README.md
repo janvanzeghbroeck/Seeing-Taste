@@ -141,6 +141,8 @@ Having a good tasting team helps ensure a consistent and quality product, using 
 
 ## About Jan
 
+<img src="figures/jan.png" width=100% height=100%/>
+
 Because of my background in the beer industry I was very exited to work with New Belgium on this project. A big thanks to Matt for providing the data.
 
 Combining this with my education & experiences in engineering & psychology may appear like a mix-matched bag, however, Data Science perfectly marries them all. How this all happen? Well...
