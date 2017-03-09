@@ -141,7 +141,7 @@ Having a good tasting team helps ensure a consistent and quality product, using 
 
 ## About Jan
 
-<img src="figures/jan.png" width=100% height=100%/>
+<img src="figures/Jan.png" width=100% height=100%/>
 
 Because of my background in the beer industry I was very exited to work with New Belgium on this project. A big thanks to Matt for providing the data.
 
