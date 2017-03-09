@@ -12,6 +12,18 @@ Quals = ['flavor_mc',
 
 
 def get_quals(threshold=1,brew_id = 'all', has_limits = None):
+
+    '''
+    INPUT:
+        Threshold = (1 or type int) --> include tasters with more than threshold tastings only
+        brew_id = ('all' or type list) --> include all brew_ids or a list of brew ids
+        has_limit = (None or type DataFrame) --> either includes all the of uses a subset data frame provided
+
+    OUTPUTS: list of 4 data frames (one for each quality Flavor, Clarity, Aroma, Body in that order)
+        each data frame is brewnumber x tasters in size
+    '''
+
+
     usr2num = pd.read_pickle('../3_databases/usr2num.pkl') #brewnumber x users
     if has_limits is None:
         tas = pd.read_pickle('../3_databases/tasters.pkl')
@@ -51,9 +63,10 @@ def get_quals(threshold=1,brew_id = 'all', has_limits = None):
 
 
     f = quals[0]
-    b = quals[1]
     c = quals[2]
     a = quals[3]
+    b = quals[1]
+
     print '-------DONE-------'
     print ''
     return most_exp.reset_index().values, [f,c,a,b] # quals

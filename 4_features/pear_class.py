@@ -3,6 +3,7 @@ import numpy as np
 import pickle
 import matplotlib.pylab as plt
 from quals import get_quals
+from matplotlib.widgets import CheckButtons
 
 Quals = ['flavor_mc',
     'mouthfeel_body_mc',
@@ -110,6 +111,7 @@ class VisualizeTasting(object):
         # plt.ylabel('Higher scores = further from True to Brand',fontsize=18)
         plt.yticks([0,.2,.4,.5],['100%\nTTB','80%\nTTB', '60%\nTTB',''],fontsize = 14)
         plt.title('Distribution of Tasters with 5 individual Tasters', fontsize = 18)
+
 # ------------------------------------------------------------------
 # ------------------------------------------------------------------
 
@@ -156,6 +158,10 @@ class VisualizeTasting(object):
         plt.savefig('../figures/tasters.png', dpi=128)
 
 
+
+    def plot_one_taster(self):
+
+        pass
 # ------------------------------------------------------------------
 # ------------------------------------------------------------------
 

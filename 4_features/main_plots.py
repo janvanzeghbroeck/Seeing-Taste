@@ -82,12 +82,13 @@ if __name__ == '__main__':
 
     thresh = 13
 
-    # tasters, quals = get_quals(threshold = thresh, has_limits = ft_pr) #threshold = tasters with more than that many tastings aka experts
-
-
     vt = VisualizeTasting(thresh)
     vt.fit(ft_pr)
     vt.plot_tasters()
+    pickle.dump( vt, open( '../3_databases/pear.pkl', "wb" ) )
+
+    raise SystemExit(0) # stops the code here
+
     # vt.add_title()
     brew = vt.plot_brew(last = 19)
     # taster_d = vt.plot_baseline(brewnumber = 161216081.0) # need XXXXXXXXX.0
@@ -95,11 +96,11 @@ if __name__ == '__main__':
     sci = vt.plot_sci(last = 19)
     score = vt.sci_feat(std_thresh = 2)
 
+
     # vt.plot_groups(5)
     vt.show()
     counts, means = vt.mean_ratings()
 
-    raise SystemExit(0) # stops the code here
 
     # makes the feature matrix for the kmeans
     all_feats = get_feats(counts,score,vt)

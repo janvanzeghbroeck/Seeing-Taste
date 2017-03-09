@@ -12,14 +12,20 @@ print(__doc__)
 
 
 '''
-
-took this code
+Code used from Sci-kit learn k-mean example. Adjusted some ways the code prints out the plot including labels, text, etc and made it a function
 
 http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html#sphx-glr-auto-examples-cluster-plot-kmeans-silhouette-analysis-py
 '''
 
 
 def sil_plot(X,range_n_clusters,label = None):
+
+'''
+    INPUT:
+        X (type numpy matrix or dataframe) --> input data
+        range_n_clusters (type int) --> number of clusters to plot
+        label (None or type string) --> additional label to add to plot title
+'''
 # Generating the sample data from make_blobs
     # This particular setting has one distinct cluster and 3 clusters placed close
     # together.
