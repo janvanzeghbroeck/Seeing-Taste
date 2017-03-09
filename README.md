@@ -6,6 +6,8 @@
 
 For New Belgium, having a consistent high quality tasting craft beer product is important. The complex flavors consumers love can vary unexpectedly, and accurately tasting the product can be challenging.  Seeing Taste uses unsupervised learning to cluster tasting data to identify which taster is trustworthy, who has a bias, and who has a specialized pallet - all for the sake of making great craft beer.
 
+Having a good tasting team helps ensure a consistent and quality product, using Seeing Taste ensures a consistent and quality tasting team.  
+
 <img src="figures/break_line.png" width=100% height=100%/>
 
 ## Table of Contents
@@ -125,17 +127,15 @@ Below in Figure 6 & 7, we can see an example of when the clustering created dist
 
 ## Business Insight
 
-How would this information be useful for New Belgium or any any other craft company? It could assist in answering these questions.
+At New Belgium, or any other craft company, these taster profiles could be used to:
+- Improve accuracy in finding NOT True to Brand beers
+- Prevent spending time testing True to Brand beer
+- Ensure there is a diverse tasting panel for each tasting session
+- Identify a trustworthy taster when one is needed immediately
+- Identify tasters who may need further training
+- When chemical measures peak, identify the specialist tasters
 
-- If there are too many new and/or biased tasters?
-    - Retest ensuring a diverse tasting team
-- Need a trustworthy taster immediately?
-    - Identify who can be called in
-- Does a spike in chemical measurements actually affect the taste?
-    - Identify a specialist
-- Identify tasters who may need more training  
-
-Create profiles for each taster where they can brag about what they excel in with statistics like collectable baseball cards
+Having a good tasting team helps ensure a consistent and quality product, using Seeing Taste ensures a consistent and quality tasting team.  
 
 <img src="figures/break_line.png" width=100% height=100%/>
 
