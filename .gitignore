@@ -1,3 +1,5 @@
-1_raw_data
-3_databases
 *.pyc
+3_databases
+*.csv
+*.pkl
+*.DAT
