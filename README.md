@@ -141,11 +141,12 @@ Having a good tasting team helps ensure a consistent and quality product, using 
 <img src="figures/break_line.png" width=100% height=100%/>
 
 
-##UPDATE
+## UPDATE
 
 #### Second Project
 Working with New Belgium further as a consultant, I oversaw and managed a follow up capstone project working on a off-flavor probability distribution prediction analysis. Check Jason Olsen's Project [here](https://github.com/Jason-Olson/Scoring-Beer-For-New-Belgium).
 
+<img src="figures/break_line.png" width=100% height=100%/>
 
 ## About Jan
 
