@@ -8,7 +8,7 @@ For New Belgium, having a consistent high quality tasting craft beer product is 
 
 Having a good tasting team helps ensure a consistent and quality product, using Seeing Taste ensures a consistent and quality tasting team.  
 
-Project Completed March 12, 2017. I continued to work with New Belgium on Data Science tools for their sensory department to this day.
+Project Completed March 12, 2017. I continue to work with New Belgium on Data Science tools for their sensory department to this day.
 
 <img src="figures/break_line.png" width=100% height=100%/>
 
