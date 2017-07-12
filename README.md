@@ -18,7 +18,7 @@ Having a good tasting team helps ensure a consistent and quality product, using 
 - [K-Means Clustering](#k-means-clustering)
 - [What Does it Mean?](#what-does-it-mean?)
 - [Business Insight](#business-insight)
-- [UPDATE - Second Project](#update-second-project)
+- [Updates](#updates)
 - [About Jan](#about-jan)
 
 <img src="figures/break_line.png" width=100% height=100%/>
@@ -141,8 +141,10 @@ Having a good tasting team helps ensure a consistent and quality product, using 
 <img src="figures/break_line.png" width=100% height=100%/>
 
 
-##UPDATE - Second Project
-Working with New Belgium further as a consultant overseeing and managing another students' project working on a off-flavor probability distribution prediction analysis. Check it out [here](https://github.com/Jason-Olson/Scoring-Beer-For-New-Belgium).
+##UPDATE
+
+#### Second Project
+Working with New Belgium further as a consultant, I oversaw and managed a follow up capstone project working on a off-flavor probability distribution prediction analysis. Check Jason Olsen's Project [here](https://github.com/Jason-Olson/Scoring-Beer-For-New-Belgium).
 
 
 ## About Jan
