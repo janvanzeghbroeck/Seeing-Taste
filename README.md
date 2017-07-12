@@ -18,6 +18,7 @@ Having a good tasting team helps ensure a consistent and quality product, using 
 - [K-Means Clustering](#k-means-clustering)
 - [What Does it Mean?](#what-does-it-mean?)
 - [Business Insight](#business-insight)
+- [UPDATE - Second Project](#update-second-project)
 - [About Jan](#about-jan)
 
 <img src="figures/break_line.png" width=100% height=100%/>
@@ -138,6 +139,11 @@ At New Belgium, or any other craft company, these taster profiles could be used 
 Having a good tasting team helps ensure a consistent and quality product, using Seeing Taste ensures a consistent and quality tasting team.  
 
 <img src="figures/break_line.png" width=100% height=100%/>
+
+
+##UPDATE - Second Project
+Working with New Belgium further as a consultant overseeing and managing another students' project working on a off-flavor probability distribution prediction analysis. Check it out [here](https://github.com/Jason-Olson/Scoring-Beer-For-New-Belgium).
+
 
 ## About Jan
 
