@@ -5,6 +5,8 @@ import matplotlib.pylab as plt
 from quals import get_quals
 from matplotlib.widgets import CheckButtons
 
+save_file_size = 64
+
 Quals = ['flavor_mc',
     'mouthfeel_body_mc',
     'clarity_mc',
@@ -32,15 +34,25 @@ class VisualizeTasting(object):
         '''
         INPUTS
             tas --> Type = DataFrame --> a more specific version of base fram tas aka tasters.pkl
+            default None --> loads quals pkl file
         OUTPUTS
             None
         FUNCTION
             fits the class with the data needed to plot
         '''
         # gets the tasters(ids and tasting numbers) and quality matricies
-        tasters, self.quals = get_quals(threshold=self.thresh, brew_id = 'all', has_limits = tas)
-        self.ids = tasters[:,0]
-        self.tastings = tasters[:,1]
+        if tas is None: # read from pickle file instead
+            self.quals = list(pickle.load(open('../3_databases/quals.pkl', 'rb')))
+            self.ids = self.quals[0].index.tolist()
+            self.tastings = self.quals[0].T.count().values
+
+        else: # use quals function to create new matrix
+            tasters, self.quals = get_quals(threshold=self.thresh, brew_id = 'all', has_limits = tas)
+            self.ids = tasters[:,0]
+            self.tastings = tasters[:,1]
+
+
+        # ------------
 
         sci = pd.read_pickle('../3_databases/clean_sci.pkl')
         # gets sci to have the same brewnumbers and our quals
@@ -155,7 +167,7 @@ class VisualizeTasting(object):
             plt.plot(np.arange(1,5), taster_means, color = colors[i], linestyle = '--', marker = 'd', markersize = 7, linewidth = 2, label = taster_label)
 
         plt.legend(loc='upper left')
-        plt.savefig('../figures/tasters.png', dpi=128)
+        plt.savefig('../figures/tasters.png', dpi=save_file_size)
 
 
 
@@ -225,7 +237,7 @@ class VisualizeTasting(object):
         brew_numbers = map(int,most_recent_numbers)
         plt.xticks(np.arange(last),brew_numbers, rotation = 50) #could also be 'vertical'
 
-        plt.savefig('../figures/brews.png', dpi=128)
+        plt.savefig('../figures/brews.png', dpi=save_file_size)
 
 
 
@@ -282,16 +294,23 @@ class VisualizeTasting(object):
         plt.xticks(np.arange(len(tasters)),tasters,rotation='vertical')
         axarr[0].set_title('Results of tasting brew {} and the tasters average'.format(int(most_recent)))
 
-
         return taster_d
 
 # ------------------------------------------------------------------
 # ------------------------------------------------------------------
 
-    def get_best(self):
-        qual_top_tasters = []
+    def get_majoirty(self, yes_plot = True):
 
-        f, ax = plt.subplots(4, sharex = True, sharey = True)
+        '''
+        gets the majoirty vote rate for each tasters as well as num tastings
+        '''
+        majoirty_rate = []
+
+        if yes_plot:
+            f, ax = plt.subplots(4, sharex = True, sharey = True)
+            ax[0].set_title('histogram of taster mean score when compared to others')
+
+
         for i,q in enumerate(self.quals):
             brew_means = q.mean() # mean for each brewnumber
             compare = brew_means * q # if taster said 1 for that brew then multiply by the mean score of that brew
@@ -316,16 +335,14 @@ class VisualizeTasting(object):
             counts.columns = ['count']
             top_tasters = top_tasters.join(counts, how = 'left')
 
-            qual_top_tasters.append(top_tasters)
+            majoirty_rate.append(top_tasters)
 
-            ax[i].hist(compare_means)
-            # compare_three_std = compare_means.mean()+ 3*compare_means.T.std()
-            # ax[i].axvline(compare_three_std)
-            ax[i].set_ylabel(self.labels[i])
-        ax[0].set_title('histogram of taster mean score when compared to others')
+            if yes_plot:
+                ax[i].hist(compare_means)
+                ax[i].set_ylabel(self.labels[i])
 
 
-        return qual_top_tasters
+        return majoirty_rate
 
 
 # ------------------------------------------------------------------
@@ -375,7 +392,7 @@ class VisualizeTasting(object):
 
         # setting x ticks!
         plt.xticks(x,map(int,sci_small.index.tolist()), rotation = 50)
-        plt.savefig('../figures/sci.png', dpi=128)
+        plt.savefig('../figures/sci.png', dpi=save_file_size)
 
 
         return sci_small

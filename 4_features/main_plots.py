@@ -26,7 +26,7 @@ def make_names(end_labels):
     return feat_names_all
 
 
-def get_feats(counts,score,vt_object):
+def get_feats(counts,score,majority,means,vt_object):
     # ------------ creating the feature matrix for each tater
     # sci df column names
     sci_labels = vt_object.sci.columns.tolist()
@@ -40,7 +40,7 @@ def get_feats(counts,score,vt_object):
         # creates the avg and tfibf features and adds with name
         feats = pd.DataFrame()
         feats['counts'] = counts
-        feats['{}_tfibf'.format(labels[i])] = best[i].iloc[:,0]
+        feats['{}_tfibf'.format(labels[i])] = majority[i].iloc[:,0]
         feats['{}_avg'.format(labels[i])] = means[i]
         for j in range(len(score[i])): # for j = num of sci_cols
             # gets only the percent correct col and replaces zeros with -1 and later nans with 0
@@ -71,28 +71,27 @@ if __name__ == '__main__':
     np.random.seed(42)
 
     # ------------
-    tas = pd.read_pickle('../3_databases/tasters.pkl')
-    df = tas.copy()
-    # df = df[df['status'] == 1.0]
-    ft = df[df['brandcode'] == 'FT'] #limit to fat tire
-    ft_pr = ft[ft['testtype'] == 'PR'] # limit to Product review
-    sp = df[df['testtype'] == 'S'] # limit to spiked review
-    t = df[df['testtype'] == 'T']
-    # ------------
+    # tas = pd.read_pickle('../3_databases/tasters.pkl')
+    # df = tas.copy()
+    # # df = df[df['status'] == 1.0]
+    # ft = df[df['brandcode'] == 'FT'] #limit to fat tire
+    # ft_pr = ft[ft['testtype'] == 'PR'] # limit to Product review
+    # sp = df[df['testtype'] == 'S'] # limit to spiked review
+    # t = df[df['testtype'] == 'T']
+    # # ------------
 
     thresh = 13
 
     vt = VisualizeTasting(thresh)
-    vt.fit(ft_pr)
+    vt.fit()
     vt.plot_tasters()
     pickle.dump( vt, open( '../3_databases/pear.pkl', "wb" ) )
 
-    raise SystemExit(0) # stops the code here
 
     # vt.add_title()
     brew = vt.plot_brew(last = 19)
     # taster_d = vt.plot_baseline(brewnumber = 161216081.0) # need XXXXXXXXX.0
-    best = vt.get_best()
+    majority = vt.get_majoirty(yes_plot = False)
     sci = vt.plot_sci(last = 19)
     score = vt.sci_feat(std_thresh = 2)
 
@@ -100,7 +99,7 @@ if __name__ == '__main__':
     # vt.plot_groups(5)
     vt.show()
     counts, means = vt.mean_ratings()
-
+    raise SystemExit(0) # stops the code here
 
     # makes the feature matrix for the kmeans
     all_feats = get_feats(counts,score,vt)

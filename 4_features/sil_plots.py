@@ -19,13 +19,13 @@ http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_anal
 
 def sil_plot(X,range_n_clusters,label = None):
 
-'''
+    '''
     INPUT:
         X (type numpy matrix or dataframe) --> input data
         range_n_clusters (type int) --> number of clusters to plot
         label (None or type string) --> additional label to add to plot title
-'''
-# Generating the sample data from make_blobs
+    '''
+    # Generating the sample data from make_blobs
     # This particular setting has one distinct cluster and 3 clusters placed close
     # together.
 
@@ -115,7 +115,7 @@ def sil_plot(X,range_n_clusters,label = None):
         else:
             plt.suptitle(("{}: Silhouette analysis for KMeans clustering on sample data with n_clusters = {}".format(label,n_clusters)), fontsize=14, fontweight='bold')
 
-        plt.show()
+        # plt.show()
 
 if __name__ == '__main__':
     X, y = make_blobs(n_samples=500,

@@ -11,7 +11,7 @@ Quals = ['flavor_mc',
     ]
 
 
-def get_quals(threshold=1,brew_id = 'all', has_limits = None):
+def get_quals(threshold=1,brew_id = 'all', has_limits = None, save = False):
 
     '''
     INPUT:
@@ -69,6 +69,9 @@ def get_quals(threshold=1,brew_id = 'all', has_limits = None):
 
     print '-------DONE-------'
     print ''
+    if save:
+        pickle.dump( [f,c,a,b], open( '../3_databases/quals.pkl', "wb" ) )
+        print 'Successfullly pickled the quals'
     return most_exp.reset_index().values, [f,c,a,b] # quals
 
 # ------------------------------------------------------------------
